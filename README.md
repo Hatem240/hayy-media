@@ -11,6 +11,7 @@ The app checks each file against its sha256 before it keeps it.
 | `tafsir/` | Tafsir al-Muyassar and Tafsir Ibn Kathir, one file per sura (`<book>/<sura>.json`) | `spa5k/tafsir_api` at commit `eb82bb6` | MIT (the repository) |
 | `hadith/` | Sahih al-Bukhari, Sahih Muslim, the Forty Nawawi, the Forty Qudsi — one file per book section (`<book>/<n>.min.json`) | `fawazahmed0/hadith-api` at commit `df57907` | Unlicense |
 | `asr/` | The listening model for the voice search and «follow me» (`whisper-base-ar-quran-q5_1.bin`) + its NOTICE | `tarteel-ai/whisper-base-ar-quran`, converted to ggml q5_1 with whisper.cpp (details in the NOTICE) | Apache License 2.0 |
+| `quran/recitations/jibreel_tvquran/` | Muhammad Jibreel's second recording, one file an aya (`SSSAAA.mp3`, 6236) | The owner's own collection of the whole-sura files of TvQuran.com («Mohamed Jebril - www.TvQuran.com»); each sura cut at its ayat by what is said (the Quran listening model above, every file heard again and matched to its aya), each stretch copied as it is — no new encoding, nothing added or removed | TvQuran.com's recording; published by the owner's decision (2 Nov 2026), no written permission held |
 | `video/intro/` | Short opening clips (Dhuhr, Isha, Jumuah) | Made by the app's owner | The owner's |
 | `images/prayer_bg/` | Background pictures | The app's own | The owner's |
 | `hayy_media.json` | The list the app reads: each file's path, size, sha256, source and rights | — | — |
