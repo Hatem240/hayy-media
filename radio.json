@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "wird": ["husary", "afasy", "jibreel_tvquran", "minshawi"],
+  "slots": {
+    "fajr": [{"title": "قرآن الفجر", "parts": ["minshawi:36", "minshawi:56", "minshawi:67"]}],
+    "sunrise": [
+      {"days": [5], "title": "سورة الكهف ثم ورد اليوم", "parts": ["minshawi:18", "wird:juz"]},
+      {"title": "ورد اليوم", "parts": ["wird:juz"]}
+    ],
+    "dhuhr": [
+      {"days": [1], "title": "سور مختارة", "parts": ["husary:12"]},
+      {"days": [2], "title": "سور مختارة", "parts": ["husary:19-20"]},
+      {"days": [3], "title": "سور مختارة", "parts": ["husary:24-25"]},
+      {"days": [4], "title": "سور مختارة", "parts": ["husary:14-16"]},
+      {"days": [5], "title": "سور مختارة", "parts": ["husary:55-57"]},
+      {"days": [6], "title": "سور مختارة", "parts": ["husary:10-11"]},
+      {"days": [7], "title": "سور مختارة", "parts": ["husary:21-22"]}
+    ],
+    "asr": [{"title": "تلاوة العصر", "parts": ["afasy:50-66"]}],
+    "maghrib": [{"title": "جزء عمّ", "parts": ["minshawi:78-114"]}],
+    "isha": [{"title": "تلاوات الليل", "parts": ["jibreel_tvquran:67", "jibreel_tvquran:32", "jibreel_tvquran:2-3"]}]
+  }
+}
