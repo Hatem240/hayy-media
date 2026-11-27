@@ -1,0 +1,160 @@
+{
+ "format": 1,
+ "doors": [
+  {
+   "door": "quran",
+   "title": {
+    "ar": "القرآن الكريم",
+    "en": "The Noble Quran"
+   },
+   "line": {
+    "ar": "سُوَره وقصصه ومعاني كلماته وأعداده",
+    "en": "Its suras, stories, word meanings and numbers"
+   },
+   "mark": "mushaf",
+   "version": 1,
+   "count": 50,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "ready",
+   "path": "quiz/quran.v1.json",
+   "bytes": 66429,
+   "sha256": "e69e096be727aaab29b05479b9eebb02f302da3d176a8351504c4f905ae8637b"
+  },
+  {
+   "kind": "hifz",
+   "door": "hifz",
+   "title": {
+    "ar": "احفظ وسمّع",
+    "en": "Memorize and Recite"
+   },
+   "line": {
+    "ar": "آيات تحفظها وتسمّعها، من مصحف التطبيق بالحرف",
+    "en": "Verses to learn by heart, word for word from the app's Mushaf"
+   },
+   "mark": "hifz",
+   "version": 1,
+   "count": 40,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "ready",
+   "path": "quiz/hifz.v1.json",
+   "bytes": 24172,
+   "sha256": "b5239f9e13136e58c3e647b3a6eb091e9e14ef977d3d993cb61fe7cba2acba6b"
+  },
+  {
+   "door": "prophets",
+   "title": {
+    "ar": "الأنبياء والرسل",
+    "en": "Prophets and Messengers"
+   },
+   "line": {
+    "ar": "قصصهم كما جاءت في القرآن",
+    "en": "Their stories as the Quran tells them"
+   },
+   "mark": "ark",
+   "version": 1,
+   "count": 50,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "ready",
+   "path": "quiz/prophets.v1.json",
+   "bytes": 68546,
+   "sha256": "e038cd3714e331f2a564eafbc673ffd32f5147ebd4e36f59eedeaf504bae9ff0"
+  },
+  {
+   "door": "pillars",
+   "title": {
+    "ar": "أركان الإسلام",
+    "en": "Pillars of Islam"
+   },
+   "line": {
+    "ar": "الشهادتان والصلاة والزكاة والصوم والحج، وأركان الإيمان",
+    "en": "The testimony, prayer, zakat, fasting and hajj, and the pillars of faith"
+   },
+   "mark": "pillars",
+   "version": 1,
+   "count": 50,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "ready",
+   "path": "quiz/pillars.v1.json",
+   "bytes": 70063,
+   "sha256": "b8efbf3e863b04c48360e6e3cb657ef1439be9ea6810b25b817f825afdfebfd7"
+  },
+  {
+   "door": "fiqh",
+   "title": {
+    "ar": "الفقه الميسّر",
+    "en": "Fiqh Made Easy"
+   },
+   "line": {
+    "ar": "الطهارة والصلاة والجمعة والعيدان والجنائز والصيام والحج والآداب",
+    "en": "Purity, prayer, Friday, the Eids, funerals, fasting, hajj and manners"
+   },
+   "mark": "scales",
+   "version": 1,
+   "count": 50,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "ready",
+   "path": "quiz/fiqh.v1.json",
+   "bytes": 77904,
+   "sha256": "1a8d8fe7f9a84539cc8de6addf727f0a8c436928069b7e7d77ccdffd1ba8673c"
+  },
+  {
+   "door": "sira",
+   "title": {
+    "ar": "السيرة النبوية",
+    "en": "The Prophet's Life"
+   },
+   "line": {
+    "ar": "من بدء الوحي إلى حجة الوداع، من القرآن والصحيحين",
+    "en": "From the first revelation to the Farewell Hajj, from the Quran and the two Sahihs"
+   },
+   "mark": "palm",
+   "version": 1,
+   "count": 50,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "awaiting_decision",
+   "path": "quiz/sira.v1.json",
+   "bytes": 68449,
+   "sha256": "206c35ac188a07f6ead7ebb036cd02bb168bd8f5488bf974d8a4f52ed58c36b5"
+  },
+  {
+   "door": "sahaba",
+   "title": {
+    "ar": "الصحابة",
+    "en": "The Companions"
+   },
+   "line": {
+    "ar": "فضائل أصحاب النبي ﷺ ومواقفهم كما جاءت في القرآن والصحيحين",
+    "en": "The merits and deeds of the Prophet's ﷺ Companions, as the Quran and the two Sahihs tell them"
+   },
+   "mark": "companions",
+   "version": 1,
+   "count": 50,
+   "reviewed": 0,
+   "langs": {
+    "en": 0
+   },
+   "status": "awaiting_decision",
+   "path": "quiz/sahaba.v1.json",
+   "bytes": 74672,
+   "sha256": "bde440f5d9018c7fbdd6be176fe2060d59a8e4c5e4843ea3469b4049df9261bf"
+  }
+ ]
+}

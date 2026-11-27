@@ -1,0 +1,2273 @@
+{
+  "format": 1,
+  "door": "quran",
+  "title": {
+    "ar": "القرآن الكريم",
+    "en": "The Noble Quran"
+  },
+  "line": {
+    "ar": "سُوَره وقصصه ومعاني كلماته وأعداده",
+    "en": "Its suras, stories, word meanings and numbers"
+  },
+  "mark": "mushaf",
+  "version": 1,
+  "count": 50,
+  "status": "ready",
+  "sources": {
+    "ar": "نص المصحف، مع «التفسير الميسّر» (مجمع الملك فهد) و«التفسير الوسيط» (للشيخ محمد سيد طنطاوي، شيخ الأزهر)",
+    "en": "The Mushaf's text, read with «At-Tafsir al-Muyassar» (King Fahd Complex) and «At-Tafsir al-Wasit» (Sheikh al-Azhar Muhammad Sayyid Tantawi)"
+  },
+  "questions": [
+    {
+      "id": "quran-001",
+      "q": {
+        "ar": "أيّ سورة في المصحف لا تبدأ بـ«بسم الله الرحمن الرحيم»؟",
+        "en": "Which sura of the Mushaf does not open with «Bismillah ar-Rahman ar-Rahim»?"
+      },
+      "choices": {
+        "ar": [
+          "سورة الأنفال",
+          "سورة الفاتحة",
+          "سورة التوبة",
+          "سورة النمل"
+        ],
+        "en": [
+          "Surat Al-Anfal",
+          "Surat Al-Fatiha",
+          "Surat At-Tawbah",
+          "Surat An-Naml"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "تبدأ سورة التوبة في المصحف بقوله تعالى «براءة من الله ورسوله» دون بسملة قبلها (التوبة: ١).",
+        "en": "In the Mushaf, At-Tawbah opens directly with «a declaration of disassociation from Allah and His Messenger», with no Bismillah before it (At-Tawbah 9:1)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 9,
+        "aya": 1,
+        "quote": "براءة من الله ورسوله",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-002",
+      "q": {
+        "ar": "في أيّ سورة جاءت آية الكرسي: «الله لا إله إلا هو الحي القيوم لا تأخذه سنة ولا نوم»؟",
+        "en": "Which sura holds Ayat al-Kursi, «Allah, none has the right to be worshipped but He, the Ever-Living, the Sustainer…»?"
+      },
+      "choices": {
+        "ar": [
+          "سورة آل عمران",
+          "سورة طه",
+          "سورة الحشر",
+          "سورة البقرة"
+        ],
+        "en": [
+          "Surat Al Imran",
+          "Surat Ta-Ha",
+          "Surat Al-Hashr",
+          "Surat Al-Baqarah"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "آية الكرسي هي الآية الخامسة والخمسون بعد المئتين من سورة البقرة (البقرة: ٢٥٥).",
+        "en": "Ayat al-Kursi is verse 255 of Surat Al-Baqarah (Al-Baqarah 2:255)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 255,
+        "quote": "الله لا إله إلا هو الحي القيوم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-003",
+      "q": {
+        "ar": "ما معنى «سِنَة» في قوله تعالى: «لا تأخذه سنة ولا نوم»؟",
+        "en": "What does «sinah» mean in «neither slumber (sinah) nor sleep overtakes Him»?"
+      },
+      "choices": {
+        "ar": [
+          "التعب والإرهاق",
+          "السهو والنسيان",
+          "العام الكامل",
+          "النعاس وفتور أول النوم"
+        ],
+        "en": [
+          "Tiredness and fatigue",
+          "Forgetfulness",
+          "A whole year",
+          "Drowsiness, the first heaviness before sleep"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "فسّر الميسّر «السِّنة» بالنعاس، وبيّن الوسيط أنها الفتور الذي يسبق النوم؛ والله منزّه عن ذلك كله (البقرة: ٢٥٥).",
+        "en": "Al-Muyassar explains sinah as drowsiness, and al-Wasit as the slackness that comes before sleep; Allah is far above both (Al-Baqarah 2:255)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 2,
+        "aya": 255,
+        "quote": "لا تأخذه سنة ولا نوم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-004",
+      "q": {
+        "ar": "كم عدد الشهور عند الله كما في سورة التوبة؟",
+        "en": "How many months are there with Allah, as Surat At-Tawbah states?"
+      },
+      "choices": {
+        "ar": [
+          "عشرة أشهر",
+          "اثنا عشر شهرًا",
+          "ثلاثة عشر شهرًا",
+          "أربعة وعشرون شهرًا"
+        ],
+        "en": [
+          "Ten months",
+          "Twelve months",
+          "Thirteen months",
+          "Twenty-four months"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "نصّت الآية على أن عدة الشهور اثنا عشر شهرًا، منها أربعة حُرُم (التوبة: ٣٦).",
+        "en": "The verse states that the number of months is twelve, four of them sacred (At-Tawbah 9:36)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 9,
+        "aya": 36,
+        "quote": "إن عدة الشهور عند الله اثنا عشر شهرا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-005",
+      "q": {
+        "ar": "في كم يوم خلق الله السماوات والأرض كما يخبر القرآن؟",
+        "en": "In how many days did Allah create the heavens and the earth, as the Quran tells?"
+      },
+      "choices": {
+        "ar": [
+          "في سبعة أيام",
+          "في ستة أيام",
+          "في أربعة أيام",
+          "في يومين"
+        ],
+        "en": [
+          "In seven days",
+          "In six days",
+          "In four days",
+          "In two days"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "أخبر الله أنه خلق السماوات والأرض في ستة أيام ثم استوى على العرش (الأعراف: ٥٤).",
+        "en": "Allah tells that He created the heavens and the earth in six days, then rose over the Throne (Al-Araf 7:54)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 54,
+        "quote": "خلق السماوات والأرض في ستة أيام",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-006",
+      "q": {
+        "ar": "كم تنتظر المرأة التي توفي عنها زوجها (وهي غير حامل) كما في سورة البقرة؟",
+        "en": "How long does a widow (not pregnant) wait, as stated in Surat Al-Baqarah?"
+      },
+      "choices": {
+        "ar": [
+          "ثلاثة أشهر",
+          "أربعة أشهر وعشرة أيام",
+          "ستة أشهر",
+          "سنة كاملة"
+        ],
+        "en": [
+          "Three months",
+          "Four months and ten days",
+          "Six months",
+          "A full year"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "جعل الله عدّة المتوفى عنها زوجها أربعة أشهر وعشرًا (البقرة: ٢٣٤).",
+        "en": "Allah set the waiting period of a widow at four months and ten days (Al-Baqarah 2:234)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 234,
+        "quote": "يتربصن بأنفسهن أربعة أشهر وعشرا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-007",
+      "q": {
+        "ar": "من لم يجد ما يكفّر به عن يمينه من إطعام أو كسوة أو عتق، فماذا عليه؟",
+        "en": "If one who broke an oath cannot feed, clothe or free a slave, what must he do?"
+      },
+      "choices": {
+        "ar": [
+          "صيام ثلاثة أيام",
+          "صيام شهرين متتابعين",
+          "صيام عشرة أيام",
+          "صيام يوم واحد"
+        ],
+        "en": [
+          "Fast three days",
+          "Fast two consecutive months",
+          "Fast ten days",
+          "Fast one day"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "كفارة اليمين إطعام عشرة مساكين أو كسوتهم أو تحرير رقبة، فمن لم يجد صام ثلاثة أيام (المائدة: ٨٩).",
+        "en": "The expiation of an oath is feeding ten poor people, clothing them or freeing a slave; whoever cannot, fasts three days (Al-Maidah 5:89)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 5,
+        "aya": 89,
+        "quote": "فمن لم يجد فصيام ثلاثة أيام",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-008",
+      "q": {
+        "ar": "ليلة القدر خير من كم شهر؟",
+        "en": "Laylat al-Qadr is better than how many months?"
+      },
+      "choices": {
+        "ar": [
+          "مئة شهر",
+          "ألف شهر",
+          "سبعين شهرًا",
+          "عشرة آلاف شهر"
+        ],
+        "en": [
+          "A hundred months",
+          "A thousand months",
+          "Seventy months",
+          "Ten thousand months"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى إن ليلة القدر خير من ألف شهر (القدر: ٣).",
+        "en": "Allah says that Laylat al-Qadr is better than a thousand months (Al-Qadr 97:3)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 97,
+        "aya": 3,
+        "quote": "ليلة القدر خير من ألف شهر",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-009",
+      "q": {
+        "ar": "كم جعل القرآن مدة حمل الإنسان وفطامه معًا؟",
+        "en": "How long does the Quran give for a child's bearing and weaning together?"
+      },
+      "choices": {
+        "ar": [
+          "أربعة وعشرون شهرًا",
+          "تسعة أشهر",
+          "ثلاثون شهرًا",
+          "ستة وثلاثون شهرًا"
+        ],
+        "en": [
+          "Twenty-four months",
+          "Nine months",
+          "Thirty months",
+          "Thirty-six months"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "في وصية الإنسان بوالديه ذكر الله أن حمله وفصاله ثلاثون شهرًا (الأحقاف: ١٥).",
+        "en": "In the command to be good to parents, Allah mentions that bearing and weaning take thirty months (Al-Ahqaf 46:15)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 46,
+        "aya": 15,
+        "quote": "وحمله وفصاله ثلاثون شهرا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-010",
+      "q": {
+        "ar": "ما مدة الرضاعة التامة التي ذكرتها سورة البقرة؟",
+        "en": "What is the full length of nursing named in Surat Al-Baqarah?"
+      },
+      "choices": {
+        "ar": [
+          "سنة واحدة",
+          "ثلاث سنوات",
+          "سنتان كاملتان",
+          "ستة أشهر"
+        ],
+        "en": [
+          "One year",
+          "Three years",
+          "Two full years",
+          "Six months"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "«حولين كاملين» أي سنتين كاملتين لمن أراد أن يتم الرضاعة (البقرة: ٢٣٣).",
+        "en": "«Two whole years» means two full years for whoever wishes to complete the nursing (Al-Baqarah 2:233)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 2,
+        "aya": 233,
+        "quote": "يرضعن أولادهن حولين كاملين",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-011",
+      "q": {
+        "ar": "كم لبث أصحاب الكهف في كهفهم كما أخبر القرآن؟",
+        "en": "How long did the People of the Cave stay in their cave, as the Quran tells?"
+      },
+      "choices": {
+        "ar": [
+          "ثلاثمئة سنة فقط",
+          "مئة سنة",
+          "أربعون سنة",
+          "ثلاثمئة سنة وتسع سنين"
+        ],
+        "en": [
+          "Three hundred years exactly",
+          "A hundred years",
+          "Forty years",
+          "Three hundred years and nine more"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: لبثوا ثلاثمئة سنين وازدادوا تسعًا (الكهف: ٢٥).",
+        "en": "Allah says they stayed three hundred years, adding nine (Al-Kahf 18:25)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 18,
+        "aya": 25,
+        "quote": "ولبثوا في كهفهم ثلاث مائة سنين وازدادوا تسعا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-012",
+      "q": {
+        "ar": "كم شاهدًا يُطلب ممن يرمي المحصنات بالفاحشة حتى لا يُجلد؟",
+        "en": "How many witnesses must one who accuses chaste women bring, so as not to be flogged?"
+      },
+      "choices": {
+        "ar": [
+          "أربعة شهداء",
+          "شاهدان",
+          "ثلاثة شهداء",
+          "شاهد واحد"
+        ],
+        "en": [
+          "Four witnesses",
+          "Two witnesses",
+          "Three witnesses",
+          "One witness"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "من رمى المحصنات ولم يأت بأربعة شهداء جُلد ثمانين جلدة (النور: ٤).",
+        "en": "Whoever accuses chaste women and does not bring four witnesses is flogged eighty lashes (An-Nur 24:4)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 24,
+        "aya": 4,
+        "quote": "ثم لم يأتوا بأربعة شهداء",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-013",
+      "q": {
+        "ar": "كم قُرءًا تتربص المطلقة كما في سورة البقرة؟",
+        "en": "How many menstrual cycles (quru') does a divorced woman wait, as in Surat Al-Baqarah?"
+      },
+      "choices": {
+        "ar": [
+          "قرءان",
+          "أربعة قروء",
+          "ثلاثة قروء",
+          "قرء واحد"
+        ],
+        "en": [
+          "Two",
+          "Four",
+          "Three",
+          "One"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "أمر الله المطلقات أن ينتظرن ثلاثة قروء قبل أن يتزوجن (البقرة: ٢٢٨).",
+        "en": "Allah orders divorced women to wait three cycles before remarrying (Al-Baqarah 2:228)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 228,
+        "quote": "والمطلقات يتربصن بأنفسهن ثلاثة قروء",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-014",
+      "q": {
+        "ar": "من قتل مؤمنًا خطأً ولم يجد رقبة يعتقها، فماذا عليه كما في سورة النساء؟",
+        "en": "One who kills a believer by mistake and finds no slave to free must do what, as in Surat An-Nisa?"
+      },
+      "choices": {
+        "ar": [
+          "صيام ثلاثة أيام",
+          "إطعام ستين مسكينًا فقط",
+          "صيام شهرين متتابعين",
+          "صيام شهر واحد"
+        ],
+        "en": [
+          "Fast three days",
+          "Only feed sixty poor people",
+          "Fast two consecutive months",
+          "Fast one month"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "في قتل الخطأ جعل الله على من لم يجد الرقبة صيام شهرين متتابعين توبةً منه (النساء: ٩٢).",
+        "en": "For a killing by mistake, whoever finds no slave fasts two consecutive months, a repentance from Allah (An-Nisa 4:92)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 4,
+        "aya": 92,
+        "quote": "فمن لم يجد فصيام شهرين متتابعين",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-015",
+      "q": {
+        "ar": "كم عدد الملائكة الذين ذكر القرآن أنهم على سقر؟",
+        "en": "How many angels does the Quran say are over Saqar (Hell)?"
+      },
+      "choices": {
+        "ar": [
+          "سبعة",
+          "تسعة عشر",
+          "اثنا عشر",
+          "تسعة وتسعون"
+        ],
+        "en": [
+          "Seven",
+          "Nineteen",
+          "Twelve",
+          "Ninety-nine"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى عن سقر: «عليها تسعة عشر»، وفسّراها بتسعة عشر من الملائكة خزنتها (المدثر: ٣٠).",
+        "en": "Allah says of Saqar «over it are nineteen», explained as nineteen angels who keep it (Al-Muddaththir 74:30)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 74,
+        "aya": 30,
+        "quote": "عليها تسعة عشر",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-016",
+      "q": {
+        "ar": "كم يحمل عرش ربك يوم القيامة كما في سورة الحاقة؟",
+        "en": "How many bear the Throne of your Lord on the Day of Resurrection, as in Surat Al-Haqqah?"
+      },
+      "choices": {
+        "ar": [
+          "أربعة",
+          "سبعة",
+          "اثنا عشر",
+          "ثمانية"
+        ],
+        "en": [
+          "Four",
+          "Seven",
+          "Twelve",
+          "Eight"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أخبر الله أن عرشه يحمله يومئذ ثمانية (الحاقة: ١٧).",
+        "en": "Allah tells that on that Day eight will bear His Throne (Al-Haqqah 69:17)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 69,
+        "aya": 17,
+        "quote": "ويحمل عرش ربك فوقهم يومئذ ثمانية",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-017",
+      "q": {
+        "ar": "ما مقدار اليوم الذي تعرج فيه الملائكة والروح إليه كما في سورة المعارج؟",
+        "en": "How long is the Day in which the angels and the Spirit ascend to Him, as in Surat Al-Maarij?"
+      },
+      "choices": {
+        "ar": [
+          "ألف سنة",
+          "مئة ألف سنة",
+          "عشرة آلاف سنة",
+          "خمسون ألف سنة"
+        ],
+        "en": [
+          "A thousand years",
+          "A hundred thousand years",
+          "Ten thousand years",
+          "Fifty thousand years"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "ذكرت سورة المعارج يومًا مقداره خمسون ألف سنة (المعارج: ٤).",
+        "en": "Surat Al-Maarij mentions a Day whose length is fifty thousand years (Al-Maarij 70:4)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 70,
+        "aya": 4,
+        "quote": "في يوم كان مقداره خمسين ألف سنة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-018",
+      "q": {
+        "ar": "في أيّ سورة جاءت البسملة جزءًا من آية في أثنائها، في كتاب سليمان عليه السلام؟",
+        "en": "In which sura does the Bismillah come inside one of its verses, in the letter of Sulayman (peace be upon him)?"
+      },
+      "choices": {
+        "ar": [
+          "سورة سبأ",
+          "سورة ص",
+          "سورة النمل",
+          "سورة الأنبياء"
+        ],
+        "en": [
+          "Surat Saba",
+          "Surat Sad",
+          "Surat An-Naml",
+          "Surat Al-Anbiya"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قالت ملكة سبأ عن الكتاب: «إنه من سليمان وإنه بسم الله الرحمن الرحيم» (النمل: ٣٠).",
+        "en": "The queen of Saba said of the letter that it is from Sulayman and opens with the Bismillah (An-Naml 27:30)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 27,
+        "aya": 30,
+        "quote": "إنه من سليمان وإنه بسم الله الرحمن الرحيم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-019",
+      "q": {
+        "ar": "من الذي يقول يوم القيامة: «يا ليتني كنت ترابًا»؟",
+        "en": "Who will say on the Day of Resurrection, «Would that I were dust»?"
+      },
+      "choices": {
+        "ar": [
+          "الكافر",
+          "إبليس",
+          "المنافق في الدنيا",
+          "الملائكة"
+        ],
+        "en": [
+          "The disbeliever",
+          "Iblis",
+          "The hypocrite in this world",
+          "The angels"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "ختمت سورة النبأ بأن الكافر يتمنى يومئذ لو كان ترابًا (النبأ: ٤٠).",
+        "en": "An-Naba ends with the disbeliever wishing on that Day that he were dust (An-Naba 78:40)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 78,
+        "aya": 40,
+        "quote": "ويقول الكافر يا ليتني كنت ترابا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-020",
+      "q": {
+        "ar": "من قال: «أنا ربكم الأعلى»؟",
+        "en": "Who said, «I am your lord, most high»?"
+      },
+      "choices": {
+        "ar": [
+          "النمرود",
+          "قارون",
+          "فرعون",
+          "هامان"
+        ],
+        "en": [
+          "Nimrod",
+          "Qarun",
+          "Pharaoh",
+          "Haman"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "جمع فرعون قومه ونادى فيهم بهذه الكلمة فأخذه الله (النازعات: ٢٤).",
+        "en": "Pharaoh gathered his people and proclaimed this, so Allah seized him (An-Naziat 79:24)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 79,
+        "aya": 24,
+        "quote": "فقال أنا ربكم الأعلى",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-021",
+      "q": {
+        "ar": "من القائل: «أنا خير منه خلقتني من نار وخلقته من طين»؟",
+        "en": "Who said, «I am better than he: You created me from fire and him from clay»?"
+      },
+      "choices": {
+        "ar": [
+          "قابيل",
+          "إبليس",
+          "فرعون",
+          "السامري"
+        ],
+        "en": [
+          "Qabil",
+          "Iblis",
+          "Pharaoh",
+          "As-Samiri"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قالها إبليس حين سأله الله عن امتناعه من السجود لآدم (الأعراف: ١٢).",
+        "en": "Iblis said it when Allah asked him why he refused to prostrate to Adam (Al-Araf 7:12)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 12,
+        "quote": "قال أنا خير منه خلقتني من نار",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-022",
+      "q": {
+        "ar": "من الذي قال عن ماله: «إنما أوتيته على علم عندي»؟",
+        "en": "Who said of his wealth, «I was given it only because of knowledge I have»?"
+      },
+      "choices": {
+        "ar": [
+          "قارون",
+          "فرعون",
+          "صاحب الجنتين",
+          "هامان"
+        ],
+        "en": [
+          "Qarun",
+          "Pharaoh",
+          "The owner of the two gardens",
+          "Haman"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "ردّ قارون نصح قومه بهذه الكلمة، فخسف الله به وبداره الأرض (القصص: ٧٨).",
+        "en": "Qarun answered his people's advice with these words, and Allah made the earth swallow him and his home (Al-Qasas 28:78)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 28,
+        "aya": 78,
+        "quote": "قال إنما أوتيته على علم عندي",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-023",
+      "q": {
+        "ar": "من الذي وعظ ابنه قائلًا: «يا بني لا تشرك بالله إن الشرك لظلم عظيم»؟",
+        "en": "Who advised his son, «O my son, do not associate partners with Allah; that is a great wrong»?"
+      },
+      "choices": {
+        "ar": [
+          "نوح عليه السلام",
+          "يعقوب عليه السلام",
+          "لقمان",
+          "إبراهيم عليه السلام"
+        ],
+        "en": [
+          "Nuh (peace be upon him)",
+          "Yaqub (peace be upon him)",
+          "Luqman",
+          "Ibrahim (peace be upon him)"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "هذه أول وصايا لقمان لابنه في السورة التي تحمل اسمه (لقمان: ١٣).",
+        "en": "This is the first of Luqman's counsels to his son in the sura named after him (Luqman 31:13)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 31,
+        "aya": 13,
+        "quote": "يا بني لا تشرك بالله إن الشرك لظلم عظيم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-024",
+      "q": {
+        "ar": "لمن قال الله تعالى: «إني أعلم ما لا تعلمون» حين أخبر أنه جاعل في الأرض خليفة؟",
+        "en": "To whom did Allah say «I know what you do not know», when He told of placing a successor on earth?"
+      },
+      "choices": {
+        "ar": [
+          "لإبليس",
+          "لآدم عليه السلام",
+          "للجن",
+          "للملائكة"
+        ],
+        "en": [
+          "To Iblis",
+          "To Adam (peace be upon him)",
+          "To the jinn",
+          "To the angels"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "سألت الملائكة عن الحكمة في خلق من يفسد في الأرض، فأجابهم الله بذلك (البقرة: ٣٠).",
+        "en": "The angels asked about the wisdom of creating one who would spread corruption, and Allah answered them so (Al-Baqarah 2:30)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 30,
+        "quote": "قال إني أعلم ما لا تعلمون",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-025",
+      "q": {
+        "ar": "من قال: «سبحانك لا علم لنا إلا ما علمتنا إنك أنت العليم الحكيم»؟",
+        "en": "Who said, «Glory be to You, we have no knowledge except what You taught us»?"
+      },
+      "choices": {
+        "ar": [
+          "آدم وحواء",
+          "الملائكة",
+          "الحواريون",
+          "أصحاب الكهف"
+        ],
+        "en": [
+          "Adam and Hawwa",
+          "The angels",
+          "The disciples of Isa",
+          "The People of the Cave"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قالتها الملائكة لما سألها الله عن الأسماء التي علّمها آدم (البقرة: ٣٢).",
+        "en": "The angels said it when Allah asked them about the names He had taught Adam (Al-Baqarah 2:32)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 32,
+        "quote": "قالوا سبحانك لا علم لنا إلا ما علمتنا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-026",
+      "q": {
+        "ar": "ما المراد بـ«الفلق» في قوله تعالى: «قل أعوذ برب الفلق»؟",
+        "en": "What is meant by «al-Falaq» in «Say: I seek refuge with the Lord of al-Falaq»?"
+      },
+      "choices": {
+        "ar": [
+          "الليل",
+          "القمر",
+          "الصبح",
+          "البحر"
+        ],
+        "en": [
+          "The night",
+          "The moon",
+          "The daybreak",
+          "The sea"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "الفلق هو الصبح، سُمّي بذلك لانفلاق الليل عنه (الفلق: ١).",
+        "en": "Al-Falaq is the daybreak, so named because the night splits away from it (Al-Falaq 113:1)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 113,
+        "aya": 1,
+        "quote": "قل أعوذ برب الفلق",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-027",
+      "q": {
+        "ar": "بماذا شبّه الله أصحاب الفيل بعد هلاكهم في قوله: «فجعلهم كعصف مأكول»؟",
+        "en": "To what did Allah liken the People of the Elephant after their ruin, «like eaten-up straw (asf)»?"
+      },
+      "choices": {
+        "ar": [
+          "الرماد الذي تذروه الريح",
+          "جذوع النخل الخاوية",
+          "الحجارة المتكسرة",
+          "أوراق الزرع اليابسة التي أكلتها البهائم"
+        ],
+        "en": [
+          "Ashes scattered by the wind",
+          "Hollow palm trunks",
+          "Broken stones",
+          "Dry leaves of crops eaten by cattle"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "العصف ورق الزرع اليابس، والمأكول ما أكلته الدواب، فصاروا محطمين متناثرين (الفيل: ٥).",
+        "en": "'Asf is the dry leaf of crops, eaten by animals: they were left crushed and scattered (Al-Fil 105:5)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 105,
+        "aya": 5,
+        "quote": "فجعلهم كعصف مأكول",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-028",
+      "q": {
+        "ar": "لماذا وُصف الشيطان بـ«الخناس» في سورة الناس؟",
+        "en": "Why is Satan described as «al-Khannas» in Surat An-Nas?"
+      },
+      "choices": {
+        "ar": [
+          "لأنه يأتي في الليل وحده",
+          "لأنه يخنق الإنسان",
+          "لأنه يتأخر ويختفي عند ذكر الله",
+          "لأنه لا يُرى أبدًا"
+        ],
+        "en": [
+          "Because he comes only at night",
+          "Because he strangles people",
+          "Because he draws back and hides when Allah is remembered",
+          "Because he is never seen"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "الخناس من الخنوس وهو الرجوع والتأخر؛ يوسوس عند الغفلة ويختفي عند ذكر الله (الناس: ٤).",
+        "en": "Al-Khannas comes from drawing back: he whispers when one is heedless and withdraws when Allah is remembered (An-Nas 114:4)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 114,
+        "aya": 4,
+        "quote": "من شر الوسواس الخناس",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-029",
+      "q": {
+        "ar": "ما «العهن» الذي تشبهه الجبال يوم القيامة؟",
+        "en": "What is «al-'Ihn» that the mountains will look like on the Day of Resurrection?"
+      },
+      "choices": {
+        "ar": [
+          "الرمل الناعم",
+          "الصوف الملوّن",
+          "الدخان",
+          "القطن المحلوج"
+        ],
+        "en": [
+          "Fine sand",
+          "Wool of many colours",
+          "Smoke",
+          "Carded cotton"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "العهن هو الصوف متعدد الألوان، والمنفوش المفرّق باليد، فتصير الجبال خفيفة متناثرة (القارعة: ٥).",
+        "en": "'Ihn is wool of many colours, and «carded» is pulled apart by hand: the mountains become light and scattered (Al-Qariah 101:5)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 101,
+        "aya": 5,
+        "quote": "وتكون الجبال كالعهن المنفوش",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-030",
+      "q": {
+        "ar": "ما المراد بـ«الجوار الكُنَّس» في سورة التكوير؟",
+        "en": "What is meant by «al-jawari al-kunnas» in Surat At-Takwir?"
+      },
+      "choices": {
+        "ar": [
+          "السفن في البحر",
+          "النجوم التي تجري ثم تختفي",
+          "الظباء في الصحراء",
+          "السحاب الماطر"
+        ],
+        "en": [
+          "Ships at sea",
+          "The stars that run their course and hide",
+          "Gazelles in the desert",
+          "Rain clouds"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "أقسم الله بالنجوم التي تختفي أنوارها بالنهار وتجري في مسارها (التكوير: ١٦).",
+        "en": "Allah swears by the stars, whose light is hidden by day as they run their course (At-Takwir 81:16)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 81,
+        "aya": 16,
+        "quote": "الجوار الكنس",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-031",
+      "q": {
+        "ar": "ما «المسد» في قوله تعالى: «في جيدها حبل من مسد»؟",
+        "en": "What is «masad» in «around her neck is a rope of masad»?"
+      },
+      "choices": {
+        "ar": [
+          "السلاسل من الحديد",
+          "الحرير الناعم",
+          "الجلد المدبوغ",
+          "الليف المفتول فتلًا قويًا"
+        ],
+        "en": [
+          "Iron chains",
+          "Soft silk",
+          "Tanned leather",
+          "Strongly twisted palm fibre"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "المسد هو الليف المتين المفتول بشدة، والجيد هو العنق (المسد: ٥).",
+        "en": "Masad is tough fibre twisted tight, and the «jid» is the neck (Al-Masad 111:5)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 111,
+        "aya": 5,
+        "quote": "في جيدها حبل من مسد",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-032",
+      "q": {
+        "ar": "ما «سمّ الخياط» في قوله تعالى: «حتى يلج الجمل في سم الخياط»؟",
+        "en": "What is «samm al-khiyat» in «until the camel goes through samm al-khiyat»?"
+      },
+      "choices": {
+        "ar": [
+          "السمّ القاتل",
+          "ثقب الإبرة",
+          "باب ضيق في المدينة",
+          "حبل الخيّاط"
+        ],
+        "en": [
+          "A deadly poison",
+          "The eye of a needle",
+          "A narrow city gate",
+          "The tailor's thread"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "سمّ الخياط ثقب الإبرة، وولوج الجمل فيه محال، فكذلك دخول المكذبين المستكبرين الجنة (الأعراف: ٤٠).",
+        "en": "It is the eye of a needle: a camel cannot pass through it, nor will the arrogant deniers enter Paradise (Al-Araf 7:40)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 7,
+        "aya": 40,
+        "quote": "حتى يلج الجمل في سم الخياط",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-033",
+      "q": {
+        "ar": "ما الذي صبّه ذو القرنين على الحديد في بناء السدّ، في قوله: «أفرغ عليه قطرا»؟",
+        "en": "What did Dhul-Qarnayn pour over the iron in building the barrier, «so I may pour over it qitr»?"
+      },
+      "choices": {
+        "ar": [
+          "الماء البارد",
+          "الطين اللازب",
+          "الذهب الخالص",
+          "النحاس المذاب"
+        ],
+        "en": [
+          "Cold water",
+          "Sticky clay",
+          "Pure gold",
+          "Molten copper"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "القِطر هو النحاس المذاب كما في الميسّر، وذكره الوسيط كذلك، يُصبّ على الحديد المحمّى (الكهف: ٩٦).",
+        "en": "Qitr is molten copper, as in al-Muyassar and also in al-Wasit, poured over the heated iron (Al-Kahf 18:96)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 18,
+        "aya": 96,
+        "quote": "قال آتوني أفرغ عليه قطرا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-034",
+      "q": {
+        "ar": "ما المراد بـ«القارعة» التي سُمّيت بها سورة؟",
+        "en": "What is meant by «al-Qariah», after which a sura is named?"
+      },
+      "choices": {
+        "ar": [
+          "يوم القيامة",
+          "الصاعقة في الدنيا",
+          "الزلزلة في مكة",
+          "الريح الشديدة"
+        ],
+        "en": [
+          "The Day of Resurrection",
+          "A thunderbolt in this world",
+          "An earthquake in Makkah",
+          "A violent wind"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "القارعة من أسماء يوم القيامة، لأنها تقرع القلوب بأهوالها (القارعة: ١–٢).",
+        "en": "Al-Qariah is one of the names of the Day of Resurrection, for it strikes the hearts with its terrors (Al-Qariah 101:1–2)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 101,
+        "aya": 1,
+        "to": 2,
+        "quote": "القارعة ما القارعة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-035",
+      "q": {
+        "ar": "أيّ طائر بعثه الله ليُري ابن آدم كيف يواري سوءة أخيه؟",
+        "en": "Which bird did Allah send to show Adam's son how to bury his brother?"
+      },
+      "choices": {
+        "ar": [
+          "الهدهد",
+          "الحمامة",
+          "النسر",
+          "الغراب"
+        ],
+        "en": [
+          "A hoopoe",
+          "A dove",
+          "An eagle",
+          "A crow"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "بعث الله غرابًا يحفر في الأرض، فتعلّم القاتل منه الدفن وأصبح من النادمين (المائدة: ٣١).",
+        "en": "Allah sent a crow scratching the ground, the killer learned burial from it and became regretful (Al-Maidah 5:31)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 5,
+        "aya": 31,
+        "quote": "فبعث الله غرابا يبحث في الأرض",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-036",
+      "q": {
+        "ar": "في أيّ سورة جاءت قصة أمر موسى عليه السلام قومه أن يذبحوا بقرة؟",
+        "en": "Which sura tells of Musa (peace be upon him) ordering his people to slaughter a cow?"
+      },
+      "choices": {
+        "ar": [
+          "سورة البقرة",
+          "سورة الأعراف",
+          "سورة طه",
+          "سورة القصص"
+        ],
+        "en": [
+          "Surat Al-Baqarah",
+          "Surat Al-Araf",
+          "Surat Ta-Ha",
+          "Surat Al-Qasas"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "جاءت قصة البقرة في سورة البقرة، وبها سُمّيت السورة (البقرة: ٦٧).",
+        "en": "The story of the cow is in Surat Al-Baqarah, which is named after it (Al-Baqarah 2:67)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 67,
+        "quote": "إن الله يأمركم أن تذبحوا بقرة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-037",
+      "q": {
+        "ar": "في أيّ سورة ذُكر الصحابي زيد باسمه؟",
+        "en": "In which sura is the Companion Zayd mentioned by name?"
+      },
+      "choices": {
+        "ar": [
+          "سورة التوبة",
+          "سورة الأحزاب",
+          "سورة النور",
+          "سورة الفتح"
+        ],
+        "en": [
+          "Surat At-Tawbah",
+          "Surat Al-Ahzab",
+          "Surat An-Nur",
+          "Surat Al-Fath"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ورد اسم زيد في سورة الأحزاب، وبيّن المفسّران أنه زيد بن حارثة رضي الله عنه (الأحزاب: ٣٧).",
+        "en": "Zayd is named in Surat Al-Ahzab; both tafsirs explain he is Zayd ibn Harithah (may Allah be pleased with him) (Al-Ahzab 33:37)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 33,
+        "aya": 37,
+        "quote": "فلما قضى زيد منها وطرا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-038",
+      "q": {
+        "ar": "إلى أيّ مسجد أُسري بالنبي ﷺ من المسجد الحرام؟",
+        "en": "To which mosque was the Prophet ﷺ taken by night from al-Masjid al-Haram?"
+      },
+      "choices": {
+        "ar": [
+          "المسجد الأقصى",
+          "المسجد النبوي",
+          "مسجد قباء",
+          "مسجد الخيف"
+        ],
+        "en": [
+          "Al-Masjid al-Aqsa",
+          "The Prophet's Mosque",
+          "Quba Mosque",
+          "Al-Khayf Mosque"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "افتُتحت سورة الإسراء بالإسراء من المسجد الحرام إلى المسجد الأقصى الذي بارك الله حوله (الإسراء: ١).",
+        "en": "Al-Isra opens with the night journey from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings Allah blessed (Al-Isra 17:1)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 17,
+        "aya": 1,
+        "quote": "من المسجد الحرام إلى المسجد الأقصى",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-039",
+      "q": {
+        "ar": "أيّ غزوة ذكرها القرآن باسمها، ونصر الله فيها المؤمنين وهم قليل؟",
+        "en": "Which battle does the Quran name, in which Allah gave victory to the believers while they were few?"
+      },
+      "choices": {
+        "ar": [
+          "أُحد",
+          "تبوك",
+          "بدر",
+          "الخندق"
+        ],
+        "en": [
+          "Uhud",
+          "Tabuk",
+          "Badr",
+          "Al-Khandaq"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: «ولقد نصركم الله ببدر وأنتم أذلة» أي قليلو العدد والعدة (آل عمران: ١٢٣).",
+        "en": "Allah says He helped them at Badr when they were weak, few in number and gear (Al Imran 3:123)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 3,
+        "aya": 123,
+        "quote": "ولقد نصركم الله ببدر وأنتم أذلة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-040",
+      "q": {
+        "ar": "في أيّ يوم أعجبت المسلمين كثرتُهم فلم تغن عنهم شيئًا؟",
+        "en": "On which day did the Muslims' great number please them, yet it availed them nothing?"
+      },
+      "choices": {
+        "ar": [
+          "يوم بدر",
+          "يوم حنين",
+          "يوم الأحزاب",
+          "يوم أُحد"
+        ],
+        "en": [
+          "The day of Badr",
+          "The day of Hunayn",
+          "The day of the Confederates",
+          "The day of Uhud"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ذكّرهم الله بيوم حنين حين اغترّوا بالكثرة ثم أنزل نصره بعد ذلك (التوبة: ٢٥).",
+        "en": "Allah reminds them of Hunayn, when their numbers deceived them, before He sent down His help (At-Tawbah 9:25)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 9,
+        "aya": 25,
+        "quote": "ويوم حنين إذ أعجبتكم كثرتكم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-041",
+      "q": {
+        "ar": "بأيّ حيوان شبّه القرآن من حُمّلوا التوراة ثم لم يعملوا بها؟",
+        "en": "To which animal does the Quran liken those given the Torah who then did not act on it?"
+      },
+      "choices": {
+        "ar": [
+          "الحمار يحمل كتبًا",
+          "الكلب يلهث",
+          "العنكبوت",
+          "الأنعام"
+        ],
+        "en": [
+          "A donkey carrying books",
+          "A panting dog",
+          "A spider",
+          "Cattle"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "شبّههم الله بالحمار يحمل أسفارًا، أي كتبًا لا يدري ما فيها (الجمعة: ٥).",
+        "en": "Allah likens them to a donkey carrying books it does not understand (Al-Jumuah 62:5)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 62,
+        "aya": 5,
+        "quote": "كمثل الحمار يحمل أسفارا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-042",
+      "q": {
+        "ar": "ما البيت الذي وصفه القرآن بأنه أوهن البيوت؟",
+        "en": "Which house does the Quran call the frailest of houses?"
+      },
+      "choices": {
+        "ar": [
+          "بيت النمل",
+          "بيت العنكبوت",
+          "بيت النحل",
+          "بيت الطين"
+        ],
+        "en": [
+          "The ant's nest",
+          "The spider's house",
+          "The beehive",
+          "A house of clay"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ضرب الله المثل لمن اتخذ من دونه أولياء ببيت العنكبوت، وهو أوهن البيوت (العنكبوت: ٤١).",
+        "en": "Allah gives the spider's house, the frailest of houses, as the likeness of those who take protectors besides Him (Al-Ankabut 29:41)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 29,
+        "aya": 41,
+        "quote": "وإن أوهن البيوت لبيت العنكبوت",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-043",
+      "q": {
+        "ar": "بماذا شُبّه في سورة الأعراف من آتاه الله آياته فانسلخ منها واتبع هواه؟",
+        "en": "In Surat Al-Araf, to what is likened the one given Allah's signs who cast them off and followed his desire?"
+      },
+      "choices": {
+        "ar": [
+          "الحمار يحمل أسفارًا",
+          "الغراب",
+          "الكلب يلهث في كل حال",
+          "الذباب"
+        ],
+        "en": [
+          "A donkey carrying books",
+          "A crow",
+          "A dog that pants in every state",
+          "A fly"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "مثله كالكلب يلهث إن طُرد وإن تُرك، فهو على حاله في الضلال (الأعراف: ١٧٦).",
+        "en": "He is like a dog that pants whether chased or left alone: he stays in his straying either way (Al-Araf 7:176)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 176,
+        "quote": "فمثله كمثل الكلب إن تحمل عليه يلهث",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-044",
+      "q": {
+        "ar": "ما المخلوق الذي تحدّى الله أن يخلقه من يُدعون من دونه ولو اجتمعوا له؟",
+        "en": "Which creature did Allah challenge those worshipped besides Him to create, even if they all gathered for it?"
+      },
+      "choices": {
+        "ar": [
+          "الذباب",
+          "البعوضة",
+          "النملة",
+          "العنكبوت"
+        ],
+        "en": [
+          "A fly",
+          "A mosquito",
+          "An ant",
+          "A spider"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "ضرب الله مثلًا بعجز الآلهة الباطلة عن خلق ذبابة، بل عن استنقاذ ما يسلبه الذباب منها (الحج: ٧٣).",
+        "en": "Allah shows that false gods cannot create a fly, nor even take back what a fly snatches from them (Al-Hajj 22:73)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 22,
+        "aya": 73,
+        "quote": "لن يخلقوا ذبابا ولو اجتمعوا له",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-045",
+      "q": {
+        "ar": "ما «الليلة المباركة» التي أُنزل فيها القرآن كما في سورة الدخان؟",
+        "en": "What is the «blessed night» in which the Quran was sent down, in Surat Ad-Dukhan?"
+      },
+      "choices": {
+        "ar": [
+          "ليلة النصف من شعبان",
+          "ليلة الإسراء",
+          "ليلة العيد",
+          "ليلة القدر"
+        ],
+        "en": [
+          "The middle night of Shaban",
+          "The night of the Isra",
+          "The night of Eid",
+          "Laylat al-Qadr"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "فسّر الميسّر والوسيط الليلة المباركة بليلة القدر (الدخان: ٣).",
+        "en": "Al-Muyassar and al-Wasit both explain the blessed night as Laylat al-Qadr (Ad-Dukhan 44:3)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 44,
+        "aya": 3,
+        "quote": "إنا أنزلناه في ليلة مباركة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-046",
+      "q": {
+        "ar": "في أيّ شهر أُنزل القرآن كما في سورة البقرة؟",
+        "en": "In which month was the Quran sent down, as Surat Al-Baqarah says?"
+      },
+      "choices": {
+        "ar": [
+          "رجب",
+          "شعبان",
+          "ذو الحجة",
+          "رمضان"
+        ],
+        "en": [
+          "Rajab",
+          "Shaban",
+          "Dhul-Hijjah",
+          "Ramadan"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: «شهر رمضان الذي أنزل فيه القرآن هدى للناس» (البقرة: ١٨٥).",
+        "en": "Allah says Ramadan is the month in which the Quran was sent down as guidance (Al-Baqarah 2:185)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 185,
+        "quote": "شهر رمضان الذي أنزل فيه القرآن",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-047",
+      "q": {
+        "ar": "إلى أيّ جهة أُمر النبي ﷺ أن يولّي وجهه في الصلاة بعد تحويل القبلة؟",
+        "en": "Toward which direction was the Prophet ﷺ ordered to turn his face in prayer after the qiblah changed?"
+      },
+      "choices": {
+        "ar": [
+          "جهة المسجد الحرام",
+          "جهة بيت المقدس",
+          "جهة المشرق",
+          "جهة المسجد النبوي"
+        ],
+        "en": [
+          "Toward al-Masjid al-Haram",
+          "Toward Bayt al-Maqdis",
+          "Toward the east",
+          "Toward the Prophet's Mosque"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أمره الله أن يولّي وجهه شطر المسجد الحرام، وأن يفعل المؤمنون ذلك حيثما كانوا (البقرة: ١٤٤).",
+        "en": "Allah ordered him to turn toward al-Masjid al-Haram, and the believers likewise wherever they are (Al-Baqarah 2:144)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 144,
+        "quote": "فول وجهك شطر المسجد الحرام",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-048",
+      "q": {
+        "ar": "في أيّ سورة جاءت آية الوضوء: «إذا قمتم إلى الصلاة فاغسلوا وجوهكم»؟",
+        "en": "Which sura holds the verse of wudu, «When you rise for prayer, wash your faces»?"
+      },
+      "choices": {
+        "ar": [
+          "سورة المائدة",
+          "سورة النساء",
+          "سورة البقرة",
+          "سورة الحج"
+        ],
+        "en": [
+          "Surat Al-Maidah",
+          "Surat An-Nisa",
+          "Surat Al-Baqarah",
+          "Surat Al-Hajj"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "آية الوضوء هي الآية السادسة من سورة المائدة، وفيها التيمم أيضًا (المائدة: ٦).",
+        "en": "The verse of wudu is the sixth verse of Al-Maidah, and it also gives tayammum (Al-Maidah 5:6)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 5,
+        "aya": 6,
+        "quote": "إذا قمتم إلى الصلاة فاغسلوا وجوهكم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-049",
+      "q": {
+        "ar": "من أكرم الناس عند الله كما في سورة الحجرات؟",
+        "en": "Who is the most honoured of people with Allah, as Surat Al-Hujurat says?"
+      },
+      "choices": {
+        "ar": [
+          "أتقاهم لله",
+          "أكثرهم مالًا",
+          "أعلاهم نسبًا",
+          "أكبرهم سنًّا"
+        ],
+        "en": [
+          "The most mindful of Allah",
+          "The richest",
+          "The noblest by lineage",
+          "The eldest"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "خلق الله الناس شعوبًا وقبائل ليتعارفوا، وجعل الكرامة عنده بالتقوى (الحجرات: ١٣).",
+        "en": "Allah made people nations and tribes to know one another, and made honour with Him a matter of piety (Al-Hujurat 49:13)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 49,
+        "aya": 13,
+        "quote": "إن أكرمكم عند الله أتقاكم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "quran-050",
+      "q": {
+        "ar": "في أيّ سورة قال الله لنبيه ﷺ: «وإنك لعلى خلق عظيم»؟",
+        "en": "In which sura did Allah say to His Prophet ﷺ, «And you are of a great character»?"
+      },
+      "choices": {
+        "ar": [
+          "سورة القلم",
+          "سورة الضحى",
+          "سورة الشرح",
+          "سورة الأحزاب"
+        ],
+        "en": [
+          "Surat Al-Qalam",
+          "Surat Ad-Duha",
+          "Surat Ash-Sharh",
+          "Surat Al-Ahzab"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "هذه الآية الرابعة من سورة القلم، ثناءً من الله على خلق نبيه ﷺ (القلم: ٤).",
+        "en": "It is the fourth verse of Surat Al-Qalam, Allah's praise of His Prophet's character ﷺ (Al-Qalam 68:4)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 68,
+        "aya": 4,
+        "quote": "وإنك لعلى خلق عظيم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    }
+  ]
+}

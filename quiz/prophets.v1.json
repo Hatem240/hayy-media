@@ -1,0 +1,2276 @@
+{
+  "format": 1,
+  "door": "prophets",
+  "title": {
+    "ar": "الأنبياء والرسل",
+    "en": "Prophets and Messengers"
+  },
+  "line": {
+    "ar": "قصصهم كما جاءت في القرآن",
+    "en": "Their stories as the Quran tells them"
+  },
+  "mark": "ark",
+  "version": 1,
+  "count": 50,
+  "status": "ready",
+  "sources": {
+    "ar": "ما قصّه القرآن الكريم وحده عن الأنبياء، مقروءًا بـ«التفسير الميسّر» و«التفسير الوسيط»، بلا إسرائيليات",
+    "en": "Only what the Noble Quran tells of the prophets, read with «At-Tafsir al-Muyassar» and «At-Tafsir al-Wasit», with no Israiliyyat"
+  },
+  "questions": [
+    {
+      "id": "prophets-001",
+      "q": {
+        "ar": "كم لبث نوح عليه السلام في قومه يدعوهم كما في سورة العنكبوت؟",
+        "en": "How long did Nuh (peace be upon him) stay among his people, as Surat Al-Ankabut tells?"
+      },
+      "choices": {
+        "ar": [
+          "ألف سنة إلا خمسين عامًا",
+          "خمسمئة سنة",
+          "مئة سنة",
+          "ألف سنة كاملة"
+        ],
+        "en": [
+          "A thousand years less fifty",
+          "Five hundred years",
+          "A hundred years",
+          "A full thousand years"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أخبر الله أن نوحًا لبث في قومه ألف سنة إلا خمسين عامًا (العنكبوت: ١٤).",
+        "en": "Allah tells that Nuh stayed among his people a thousand years less fifty (Al-Ankabut 29:14)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 29,
+        "aya": 14,
+        "quote": "فلبث فيهم ألف سنة إلا خمسين عاما",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-002",
+      "q": {
+        "ar": "بماذا ردّ ابن نوح على أبيه حين دعاه إلى ركوب السفينة؟",
+        "en": "How did Nuh's son answer when his father called him to board the ship?"
+      },
+      "choices": {
+        "ar": [
+          "سأبني سفينة أخرى",
+          "سآوي إلى جبل يعصمني من الماء",
+          "سأركب معكم غدًا",
+          "سأدعو آلهتي فتنجيني"
+        ],
+        "en": [
+          "I will build another ship",
+          "I will take refuge on a mountain to protect me from the water",
+          "I will board with you tomorrow",
+          "I will call my gods to save me"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ظنّ أن الجبل يمنعه من الماء، فقال له أبوه: لا عاصم اليوم من أمر الله إلا من رحم، فكان من المغرقين (هود: ٤٣).",
+        "en": "He thought a mountain would save him; his father said none is safe today from Allah's command but whom He has mercy on, and he drowned (Hud 11:43)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 11,
+        "aya": 43,
+        "quote": "قال سآوي إلى جبل يعصمني من الماء",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-003",
+      "q": {
+        "ar": "على أيّ جبل استقرت سفينة نوح عليه السلام؟",
+        "en": "On which mountain did the ship of Nuh (peace be upon him) come to rest?"
+      },
+      "choices": {
+        "ar": [
+          "الطور",
+          "الجودي",
+          "أُحد",
+          "جبل عرفات"
+        ],
+        "en": [
+          "At-Tur",
+          "Al-Judi",
+          "Uhud",
+          "Mount Arafat"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "بعد أن غيض الماء رست السفينة على جبل الجودي (هود: ٤٤).",
+        "en": "When the water subsided, the ship settled on Mount al-Judi (Hud 11:44)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 11,
+        "aya": 44,
+        "quote": "واستوت على الجودي",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-004",
+      "q": {
+        "ar": "أيّ نبي دعا ربه قائلًا: «رب لا تذر على الأرض من الكافرين ديارا»؟",
+        "en": "Which prophet prayed, «My Lord, do not leave on the earth a single dweller of the disbelievers»?"
+      },
+      "choices": {
+        "ar": [
+          "هود عليه السلام",
+          "لوط عليه السلام",
+          "موسى عليه السلام",
+          "نوح عليه السلام"
+        ],
+        "en": [
+          "Hud (peace be upon him)",
+          "Lut (peace be upon him)",
+          "Musa (peace be upon him)",
+          "Nuh (peace be upon him)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "دعا بها نوح بعد طول دعوته وإصرار قومه على الكفر، كما في السورة التي تحمل اسمه (نوح: ٢٦).",
+        "en": "Nuh prayed so after his long call and his people's persistence in disbelief, in the sura named after him (Nuh 71:26)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 71,
+        "aya": 26,
+        "quote": "رب لا تذر على الأرض من الكافرين ديارا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-005",
+      "q": {
+        "ar": "إلى أيّ قوم أُرسل هود عليه السلام؟",
+        "en": "To which people was Hud (peace be upon him) sent?"
+      },
+      "choices": {
+        "ar": [
+          "ثمود",
+          "مدين",
+          "عاد",
+          "قوم تُبّع"
+        ],
+        "en": [
+          "Thamud",
+          "Madyan",
+          "'Ad",
+          "The people of Tubba"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: «وإلى عاد أخاهم هودا» (الأعراف: ٦٥).",
+        "en": "Allah says He sent to 'Ad their brother Hud (Al-Araf 7:65)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 65,
+        "quote": "وإلى عاد أخاهم هودا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-006",
+      "q": {
+        "ar": "كم دامت الريح التي أهلك الله بها قوم عاد؟",
+        "en": "How long did the wind that destroyed 'Ad last?"
+      },
+      "choices": {
+        "ar": [
+          "ثلاثة أيام",
+          "أربعين يومًا",
+          "ليلة واحدة",
+          "سبع ليال وثمانية أيام"
+        ],
+        "en": [
+          "Three days",
+          "Forty days",
+          "One night",
+          "Seven nights and eight days"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "سخّر الله عليهم الريح سبع ليال وثمانية أيام متتابعة لا تنقطع (الحاقة: ٧).",
+        "en": "Allah set the wind upon them for seven nights and eight days without a break (Al-Haqqah 69:7)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 69,
+        "aya": 7,
+        "quote": "سخرها عليهم سبع ليال وثمانية أيام حسوما",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-007",
+      "q": {
+        "ar": "أيّ نبي أُرسل إلى ثمود وكانت آيته الناقة؟",
+        "en": "Which prophet was sent to Thamud, with the she-camel as his sign?"
+      },
+      "choices": {
+        "ar": [
+          "صالح عليه السلام",
+          "هود عليه السلام",
+          "شعيب عليه السلام",
+          "لوط عليه السلام"
+        ],
+        "en": [
+          "Salih (peace be upon him)",
+          "Hud (peace be upon him)",
+          "Shuayb (peace be upon him)",
+          "Lut (peace be upon him)"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أرسل الله صالحًا إلى ثمود وقال لهم: «هذه ناقة الله لكم آية» (الأعراف: ٧٣).",
+        "en": "Allah sent Salih to Thamud, who told them this she-camel of Allah is a sign for them (Al-Araf 7:73)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 73,
+        "quote": "وإلى ثمود أخاهم صالحا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-008",
+      "q": {
+        "ar": "كيف قُسم الماء بين ناقة صالح عليه السلام وقومه؟",
+        "en": "How was the water shared between the she-camel of Salih (peace be upon him) and his people?"
+      },
+      "choices": {
+        "ar": [
+          "تشرب ليلًا ويشربون نهارًا",
+          "تشرب هي أولًا كل يوم",
+          "لها يوم ولهم يوم",
+          "لها بئر خاصة بها"
+        ],
+        "en": [
+          "She drank at night and they by day",
+          "She drank first every day",
+          "She had a day and they had a day",
+          "She had a well of her own"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال لهم صالح: لها نصيب من الماء في يوم معلوم ولكم نصيب في يوم آخر (الشعراء: ١٥٥).",
+        "en": "Salih told them she had her share of water on a set day and they had theirs on another (Ash-Shuara 26:155)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 26,
+        "aya": 155,
+        "quote": "هذه ناقة لها شرب ولكم شرب يوم معلوم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-009",
+      "q": {
+        "ar": "إلى أيّ قوم أُرسل شعيب عليه السلام؟",
+        "en": "To which people was Shuayb (peace be upon him) sent?"
+      },
+      "choices": {
+        "ar": [
+          "عاد",
+          "مدين",
+          "ثمود",
+          "أهل سبأ"
+        ],
+        "en": [
+          "'Ad",
+          "Madyan",
+          "Thamud",
+          "The people of Saba"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى: «وإلى مدين أخاهم شعيبا»، وأمرهم أن يوفوا الكيل والميزان (الأعراف: ٨٥).",
+        "en": "Allah sent to Madyan their brother Shuayb, who told them to give full measure and weight (Al-Araf 7:85)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 85,
+        "quote": "وإلى مدين أخاهم شعيبا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-010",
+      "q": {
+        "ar": "من الرسول الذي كذّبه «أصحاب الأيكة»؟",
+        "en": "Which messenger did the «Companions of the Thicket» (al-Aykah) deny?"
+      },
+      "choices": {
+        "ar": [
+          "صالح عليه السلام",
+          "شعيب عليه السلام",
+          "هود عليه السلام",
+          "إلياس عليه السلام"
+        ],
+        "en": [
+          "Salih (peace be upon him)",
+          "Shuayb (peace be upon him)",
+          "Hud (peace be upon him)",
+          "Ilyas (peace be upon him)"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "نصّت الآيتان على أن أصحاب الأيكة كذّبوا المرسلين إذ قال لهم شعيب: ألا تتقون (الشعراء: ١٧٦–١٧٧).",
+        "en": "The verses state that the Companions of the Thicket denied the messengers when Shuayb said to them, «Will you not fear Allah?» (Ash-Shuara 26:176–177)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 26,
+        "aya": 176,
+        "to": 177,
+        "quote": "كذب أصحاب الأيكة المرسلين إذ قال لهم شعيب",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-011",
+      "q": {
+        "ar": "ماذا قال الله للنار حين أُلقي فيها إبراهيم عليه السلام؟",
+        "en": "What did Allah say to the fire when Ibrahim (peace be upon him) was thrown into it?"
+      },
+      "choices": {
+        "ar": [
+          "انطفئي في الحال",
+          "اشتدّي على قومه",
+          "كوني بردًا وسلامًا على إبراهيم",
+          "ارتفعي إلى السماء"
+        ],
+        "en": [
+          "Go out at once",
+          "Rage against his people",
+          "Be coolness and safety for Ibrahim",
+          "Rise up to the sky"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "أمر الله النار أن تكون بردًا وسلامًا على إبراهيم فلم تضرّه (الأنبياء: ٦٩).",
+        "en": "Allah ordered the fire to be coolness and safety for Ibrahim, and it did not harm him (Al-Anbiya 21:69)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 21,
+        "aya": 69,
+        "quote": "قلنا يا نار كوني بردا وسلاما على إبراهيم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-012",
+      "q": {
+        "ar": "ماذا قدّم إبراهيم عليه السلام لضيوفه من الملائكة؟",
+        "en": "What did Ibrahim (peace be upon him) serve to his guests, the angels?"
+      },
+      "choices": {
+        "ar": [
+          "لبنًا وتمرًا",
+          "عجلًا مشويًّا",
+          "خبزًا وزيتًا",
+          "سمكًا مشويًّا"
+        ],
+        "en": [
+          "Milk and dates",
+          "A roasted calf",
+          "Bread and oil",
+          "A grilled fish"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "أسرع إبراهيم إكرامًا لضيوفه فجاءهم بعجل حنيذ أي مشويّ (هود: ٦٩).",
+        "en": "Ibrahim hurried to honour his guests and brought them a roasted calf (Hud 11:69)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 11,
+        "aya": 69,
+        "quote": "فما لبث أن جاء بعجل حنيذ",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-013",
+      "q": {
+        "ar": "حين سأل إبراهيم عليه السلام ربه أن يريه كيف يحيي الموتى، كم طائرًا أُمر أن يأخذ؟",
+        "en": "When Ibrahim (peace be upon him) asked to see how Allah gives life to the dead, how many birds was he told to take?"
+      },
+      "choices": {
+        "ar": [
+          "ثلاثة",
+          "سبعة",
+          "أربعة",
+          "اثنين"
+        ],
+        "en": [
+          "Three",
+          "Seven",
+          "Four",
+          "Two"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "أُمر أن يأخذ أربعة من الطير ويجعل على كل جبل منهن جزءًا ثم يدعوهن فيأتينه سعيًا (البقرة: ٢٦٠).",
+        "en": "He was told to take four birds, put a part of them on each hill, then call them, and they came to him in haste (Al-Baqarah 2:260)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 260,
+        "quote": "قال فخذ أربعة من الطير",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-014",
+      "q": {
+        "ar": "من الذي رفع القواعد من البيت مع إبراهيم عليه السلام؟",
+        "en": "Who raised the foundations of the House together with Ibrahim (peace be upon him)?"
+      },
+      "choices": {
+        "ar": [
+          "إسحاق عليه السلام",
+          "لوط عليه السلام",
+          "يعقوب عليه السلام",
+          "إسماعيل عليه السلام"
+        ],
+        "en": [
+          "Ishaq (peace be upon him)",
+          "Lut (peace be upon him)",
+          "Yaqub (peace be upon him)",
+          "Ismail (peace be upon him)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "رفع إبراهيم وإسماعيل قواعد البيت وهما يدعوان: ربنا تقبل منا (البقرة: ١٢٧).",
+        "en": "Ibrahim and Ismail raised the foundations of the House, praying, «Our Lord, accept from us» (Al-Baqarah 2:127)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 127,
+        "quote": "وإذ يرفع إبراهيم القواعد من البيت وإسماعيل",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-015",
+      "q": {
+        "ar": "ما اسم أبي إبراهيم عليه السلام كما ذكره القرآن؟",
+        "en": "What is the name of Ibrahim's father (peace be upon him) as the Quran gives it?"
+      },
+      "choices": {
+        "ar": [
+          "تارح",
+          "عمران",
+          "آزر",
+          "ناحور"
+        ],
+        "en": [
+          "Terah",
+          "Imran",
+          "Azar",
+          "Nahor"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "ذكرت سورة الأنعام إنكار إبراهيم على أبيه آزر عبادة الأصنام (الأنعام: ٧٤).",
+        "en": "Al-Anam tells of Ibrahim rebuking his father Azar for worshipping idols (Al-Anam 6:74)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 6,
+        "aya": 74,
+        "quote": "وإذ قال إبراهيم لأبيه آزر",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-016",
+      "q": {
+        "ar": "في محاجّة إبراهيم عليه السلام لقومه، ما أول ما رآه حين جنّ عليه الليل؟",
+        "en": "In Ibrahim's argument with his people (peace be upon him), what did he see first when night covered him?"
+      },
+      "choices": {
+        "ar": [
+          "كوكبًا",
+          "القمر",
+          "الشمس",
+          "البرق"
+        ],
+        "en": [
+          "A star",
+          "The moon",
+          "The sun",
+          "Lightning"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "رأى كوكبًا ثم القمر ثم الشمس، وكلما أفل شيء منها بيّن لقومه أنه لا يصلح ربًّا (الأنعام: ٧٦).",
+        "en": "He saw a star, then the moon, then the sun; as each set he showed his people it could not be a lord (Al-Anam 6:76)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 6,
+        "aya": 76,
+        "quote": "فلما جن عليه الليل رأى كوكبا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-017",
+      "q": {
+        "ar": "بماذا فدى الله ابن إبراهيم عليه السلام حين همّ أبوه بذبحه امتثالًا للأمر؟",
+        "en": "With what did Allah ransom Ibrahim's son when his father was about to sacrifice him in obedience?"
+      },
+      "choices": {
+        "ar": [
+          "بمال كثير",
+          "بصيام شهر",
+          "بعتق رقبة",
+          "بذبح عظيم"
+        ],
+        "en": [
+          "Much wealth",
+          "A month of fasting",
+          "Freeing a slave",
+          "A great sacrifice"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: «وفديناه بذبح عظيم»، وفسّره الميسّر بكبش عظيم (الصافات: ١٠٧).",
+        "en": "Allah says He ransomed him with a great sacrifice, explained in al-Muyassar as a great ram (As-Saffat 37:107)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 37,
+        "aya": 107,
+        "quote": "وفديناه بذبح عظيم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-018",
+      "q": {
+        "ar": "أيّ نبي قال الله إنه اتخذه «خليلًا»؟",
+        "en": "Which prophet did Allah say He took as a «close friend» (khalil)?"
+      },
+      "choices": {
+        "ar": [
+          "موسى عليه السلام",
+          "نوح عليه السلام",
+          "عيسى عليه السلام",
+          "إبراهيم عليه السلام"
+        ],
+        "en": [
+          "Musa (peace be upon him)",
+          "Nuh (peace be upon him)",
+          "Isa (peace be upon him)",
+          "Ibrahim (peace be upon him)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى في سورة النساء: «واتخذ الله إبراهيم خليلا» (النساء: ١٢٥).",
+        "en": "Allah says in An-Nisa that He took Ibrahim as a close friend (An-Nisa 4:125)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 4,
+        "aya": 125,
+        "quote": "واتخذ الله إبراهيم خليلا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-019",
+      "q": {
+        "ar": "من الذي لم ينجُ من أهل لوط عليه السلام؟",
+        "en": "Who of the household of Lut (peace be upon him) was not saved?"
+      },
+      "choices": {
+        "ar": [
+          "ابنته الكبرى",
+          "امرأته",
+          "أخوه",
+          "ابنه"
+        ],
+        "en": [
+          "His elder daughter",
+          "His wife",
+          "His brother",
+          "His son"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "أنجى الله لوطًا وأهله إلا امرأته فكانت من الباقين الهالكين (الأعراف: ٨٣).",
+        "en": "Allah saved Lut and his family except his wife, who stayed behind with those destroyed (Al-Araf 7:83)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 83,
+        "quote": "فأنجيناه وأهله إلا امرأته كانت من الغابرين",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-020",
+      "q": {
+        "ar": "ماذا رأى يوسف عليه السلام في منامه ساجدًا له؟",
+        "en": "What did Yusuf (peace be upon him) see prostrating to him in his dream?"
+      },
+      "choices": {
+        "ar": [
+          "سبع بقرات سمان",
+          "اثني عشر نجمًا",
+          "الشمس وحدها",
+          "أحد عشر كوكبًا والشمس والقمر"
+        ],
+        "en": [
+          "Seven fat cows",
+          "Twelve stars",
+          "The sun alone",
+          "Eleven stars, the sun and the moon"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قصّ يوسف على أبيه أنه رأى أحد عشر كوكبًا والشمس والقمر له ساجدين (يوسف: ٤).",
+        "en": "Yusuf told his father he saw eleven stars, the sun and the moon prostrating to him (Yusuf 12:4)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 12,
+        "aya": 4,
+        "quote": "إني رأيت أحد عشر كوكبا والشمس والقمر",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-021",
+      "q": {
+        "ar": "بأيّ ثمن بيع يوسف عليه السلام؟",
+        "en": "For what price was Yusuf (peace be upon him) sold?"
+      },
+      "choices": {
+        "ar": [
+          "بوزنه ذهبًا",
+          "بألف دينار",
+          "بثمن قليل: دراهم معدودة",
+          "بقافلة من الإبل"
+        ],
+        "en": [
+          "His weight in gold",
+          "A thousand dinars",
+          "A low price: a few dirhams",
+          "A caravan of camels"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "بيع يوسف بثمن بخس، أي ناقص قليل، دراهم معدودة (يوسف: ٢٠).",
+        "en": "Yusuf was sold for a paltry price, a few counted dirhams (Yusuf 12:20)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 12,
+        "aya": 20,
+        "quote": "وشروه بثمن بخس دراهم معدودة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-022",
+      "q": {
+        "ar": "ماذا رأى الملك في رؤياه التي فسّرها يوسف عليه السلام؟",
+        "en": "What did the king see in the dream that Yusuf (peace be upon him) interpreted?"
+      },
+      "choices": {
+        "ar": [
+          "سبع بقرات سمان يأكلهن سبع عجاف",
+          "أحد عشر كوكبًا ساجدين",
+          "طيرًا تأكل من خبز فوق رأسه",
+          "نارًا تخرج من الأرض"
+        ],
+        "en": [
+          "Seven fat cows eaten by seven lean ones",
+          "Eleven stars prostrating",
+          "Birds eating bread on his head",
+          "Fire coming out of the ground"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "رأى الملك سبع بقرات سمان تأكلهن سبع عجاف، وسبع سنبلات خضر وأخر يابسات (يوسف: ٤٣).",
+        "en": "The king saw seven fat cows eaten by seven lean ones, and seven green ears of grain and others dry (Yusuf 12:43)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 12,
+        "aya": 43,
+        "quote": "إني أرى سبع بقرات سمان يأكلهن سبع عجاف",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-023",
+      "q": {
+        "ar": "ماذا حدث ليعقوب عليه السلام حين أُلقي قميص يوسف على وجهه؟",
+        "en": "What happened to Yaqub (peace be upon him) when Yusuf's shirt was cast over his face?"
+      },
+      "choices": {
+        "ar": [
+          "عاد إليه بصره",
+          "شُفي من مرض في جسده",
+          "نام نومًا طويلًا",
+          "بكى حتى ابيضّت عيناه"
+        ],
+        "en": [
+          "His sight came back",
+          "A bodily illness was cured",
+          "He slept a long sleep",
+          "He wept until his eyes turned white"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "لما جاء البشير بالقميص وألقاه على وجهه ارتدّ بصيرًا (يوسف: ٩٦).",
+        "en": "When the bearer of good news cast the shirt over his face, he regained his sight (Yusuf 12:96)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 12,
+        "aya": 96,
+        "quote": "ألقاه على وجهه فارتد بصيرا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-024",
+      "q": {
+        "ar": "ماذا أوحى الله إلى أم موسى أن تفعل به إذا خافت عليه؟",
+        "en": "What did Allah inspire the mother of Musa to do with him if she feared for him?"
+      },
+      "choices": {
+        "ar": [
+          "أن تلقيه في اليم",
+          "أن تخفيه في جبل",
+          "أن ترسله إلى مدين",
+          "أن تدفعه إلى قصر فرعون بنفسها"
+        ],
+        "en": [
+          "Cast him into the river",
+          "Hide him in a mountain",
+          "Send him to Madyan",
+          "Hand him herself to Pharaoh's palace"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أوحى الله إليها أن ترضعه، فإذا خافت عليه ألقته في اليم ولا تخاف ولا تحزن (القصص: ٧).",
+        "en": "Allah inspired her to nurse him, and if she feared for him, to cast him into the river without fear or grief (Al-Qasas 28:7)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 28,
+        "aya": 7,
+        "quote": "فإذا خفت عليه فألقيه في اليم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-025",
+      "q": {
+        "ar": "كيف ضرب موسى عليه السلام الرجل الذي كان من عدوّه فمات؟",
+        "en": "How did Musa (peace be upon him) strike the man from his enemy's side, who then died?"
+      },
+      "choices": {
+        "ar": [
+          "بعصاه",
+          "بسيف",
+          "بجُمع كفّه (لكزة باليد)",
+          "بحجر"
+        ],
+        "en": [
+          "With his staff",
+          "With a sword",
+          "With his fist (a blow of the hand)",
+          "With a stone"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "الوكز الضرب بجُمع الكف، فمات الرجل، فقال موسى: هذا من عمل الشيطان (القصص: ١٥).",
+        "en": "Wakz is a blow with the fist; the man died, and Musa said, «This is the work of Satan» (Al-Qasas 28:15)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 28,
+        "aya": 15,
+        "quote": "فوكزه موسى فقضى عليه",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-026",
+      "q": {
+        "ar": "كم سنة اشترط الشيخ الصالح في مدين على موسى عليه السلام أن يعمل له مهرًا لابنته؟",
+        "en": "How many years did the righteous old man of Madyan ask Musa (peace be upon him) to work for him as the bridal gift?"
+      },
+      "choices": {
+        "ar": [
+          "سبع سنين",
+          "ثلاث سنين",
+          "أربعين سنة",
+          "ثماني سنين، وإن أتمّ عشرًا فمن عنده"
+        ],
+        "en": [
+          "Seven years",
+          "Three years",
+          "Forty years",
+          "Eight years, and ten if he wished"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال له: على أن تأجرني ثماني حجج، فإن أتممت عشرًا فإحسان منك (القصص: ٢٧).",
+        "en": "He said: work for me eight years, and if you complete ten, it is your own kindness (Al-Qasas 28:27)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 28,
+        "aya": 27,
+        "quote": "على أن تأجرني ثماني حجج فإن أتممت عشرا فمن عندك",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-027",
+      "q": {
+        "ar": "ما الآية الثانية التي أُعطيها موسى عليه السلام بعد العصا حين ضمّ يده إلى جناحه؟",
+        "en": "What was the second sign given to Musa (peace be upon him) after the staff, when he drew his hand to his side?"
+      },
+      "choices": {
+        "ar": [
+          "تخرج يده بيضاء من غير سوء",
+          "تخرج منها نار",
+          "تتحول إلى حجر",
+          "ينبع منها الماء"
+        ],
+        "en": [
+          "His hand came out white, without any harm",
+          "Fire came out of it",
+          "It turned to stone",
+          "Water flowed from it"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أُمر أن يضمّ يده إلى جنبه فتخرج بيضاء من غير مرض، آية أخرى بعد العصا (طه: ٢٢).",
+        "en": "He was told to draw his hand to his side and it came out white without disease, another sign after the staff (Ta-Ha 20:22)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 20,
+        "aya": 22,
+        "quote": "تخرج بيضاء من غير سوء آية أخرى",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-028",
+      "q": {
+        "ar": "من طلب موسى عليه السلام أن يكون وزيرًا له من أهله؟",
+        "en": "Whom did Musa (peace be upon him) ask for as a helper from his family?"
+      },
+      "choices": {
+        "ar": [
+          "يوشع فتاه",
+          "هارون أخاه",
+          "أباه",
+          "ابن عمه"
+        ],
+        "en": [
+          "His young servant",
+          "His brother Harun",
+          "His father",
+          "His cousin"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "دعا موسى ربه أن يجعل له وزيرًا من أهله: هارون أخاه (طه: ٢٩–٣٠).",
+        "en": "Musa asked his Lord to give him a helper from his family: his brother Harun (Ta-Ha 20:29–30)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 20,
+        "aya": 29,
+        "to": 30,
+        "quote": "واجعل لي وزيرا من أهلي هارون أخي",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-029",
+      "q": {
+        "ar": "كم ليلة تمّ بها ميقات موسى عليه السلام لمناجاة ربه؟",
+        "en": "How many nights did the appointed term of Musa (peace be upon him) with his Lord come to?"
+      },
+      "choices": {
+        "ar": [
+          "ثلاثون ليلة",
+          "عشر ليال",
+          "سبعون ليلة",
+          "أربعون ليلة"
+        ],
+        "en": [
+          "Thirty nights",
+          "Ten nights",
+          "Seventy nights",
+          "Forty nights"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "واعده الله ثلاثين ليلة ثم أتمّها بعشر فتمّ الميقات أربعين ليلة (الأعراف: ١٤٢).",
+        "en": "Allah appointed thirty nights for him and completed them with ten, making forty (Al-Araf 7:142)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 7,
+        "aya": 142,
+        "quote": "فتم ميقات ربه أربعين ليلة",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-030",
+      "q": {
+        "ar": "من الذي أضلّ قوم موسى عليه السلام بعبادة العجل في غيابه؟",
+        "en": "Who led the people of Musa (peace be upon him) astray into worshipping the calf while he was away?"
+      },
+      "choices": {
+        "ar": [
+          "السامري",
+          "هارون عليه السلام",
+          "قارون",
+          "هامان"
+        ],
+        "en": [
+          "As-Samiri",
+          "Harun (peace be upon him)",
+          "Qarun",
+          "Haman"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أخبر الله موسى أن قومه فُتنوا من بعده وأن السامري أضلّهم (طه: ٨٥).",
+        "en": "Allah told Musa that his people were tried after him and that as-Samiri led them astray (Ta-Ha 20:85)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 20,
+        "aya": 85,
+        "quote": "وأضلهم السامري",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-031",
+      "q": {
+        "ar": "كم عينًا انفجرت من الحجر حين ضربه موسى عليه السلام بعصاه؟",
+        "en": "How many springs gushed from the rock when Musa (peace be upon him) struck it with his staff?"
+      },
+      "choices": {
+        "ar": [
+          "اثنتا عشرة عينًا",
+          "سبع عيون",
+          "عين واحدة",
+          "عشر عيون"
+        ],
+        "en": [
+          "Twelve springs",
+          "Seven springs",
+          "One spring",
+          "Ten springs"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "استسقى موسى لقومه فانفجرت اثنتا عشرة عينًا، وعلم كل أناس مشربهم (البقرة: ٦٠).",
+        "en": "Musa asked for water for his people and twelve springs gushed forth, each group knowing its drinking place (Al-Baqarah 2:60)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 60,
+        "quote": "فانفجرت منه اثنتا عشرة عينا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-032",
+      "q": {
+        "ar": "كم سنة تاه بنو إسرائيل في الأرض حين أبوا دخول الأرض المقدسة؟",
+        "en": "For how many years did the Children of Israel wander when they refused to enter the holy land?"
+      },
+      "choices": {
+        "ar": [
+          "أربعين سنة",
+          "سبعين سنة",
+          "عشر سنين",
+          "مئة سنة"
+        ],
+        "en": [
+          "Forty years",
+          "Seventy years",
+          "Ten years",
+          "A hundred years"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "حرّم الله عليهم الأرض المقدسة أربعين سنة يتيهون فيها (المائدة: ٢٦).",
+        "en": "Allah forbade them the holy land for forty years, wandering in the earth (Al-Maidah 5:26)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 5,
+        "aya": 26,
+        "quote": "فإنها محرمة عليهم أربعين سنة يتيهون في الأرض",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-033",
+      "q": {
+        "ar": "ما أول ما فعله العبد الصالح حين صحبه موسى عليه السلام؟",
+        "en": "What was the first thing the righteous servant did when Musa (peace be upon him) went with him?"
+      },
+      "choices": {
+        "ar": [
+          "قتل الغلام",
+          "أقام الجدار",
+          "خرق السفينة",
+          "أطعم المساكين"
+        ],
+        "en": [
+          "He killed the boy",
+          "He set the wall upright",
+          "He made a hole in the ship",
+          "He fed the poor"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "لما ركبا السفينة خرقها، فأنكر عليه موسى، ثم كان الغلام ثم الجدار (الكهف: ٧١).",
+        "en": "When they boarded the ship he holed it and Musa objected; then came the boy, then the wall (Al-Kahf 18:71)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 18,
+        "aya": 71,
+        "quote": "حتى إذا ركبا في السفينة خرقها",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-034",
+      "q": {
+        "ar": "من الذي قتل جالوت كما في سورة البقرة؟",
+        "en": "Who killed Jalut (Goliath), as Surat Al-Baqarah tells?"
+      },
+      "choices": {
+        "ar": [
+          "داود عليه السلام",
+          "طالوت",
+          "سليمان عليه السلام",
+          "موسى عليه السلام"
+        ],
+        "en": [
+          "Dawud (peace be upon him)",
+          "Talut",
+          "Sulayman (peace be upon him)",
+          "Musa (peace be upon him)"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "هزم المؤمنون جيش جالوت وقتله داود، فآتاه الله الملك والحكمة (البقرة: ٢٥١).",
+        "en": "The believers routed Jalut's army and Dawud killed him; Allah then gave him kingship and wisdom (Al-Baqarah 2:251)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 251,
+        "quote": "وقتل داوود جالوت",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-035",
+      "q": {
+        "ar": "أيّ نبي ألان الله له الحديد؟",
+        "en": "For which prophet did Allah make iron soft?"
+      },
+      "choices": {
+        "ar": [
+          "سليمان عليه السلام",
+          "داود عليه السلام",
+          "نوح عليه السلام",
+          "إدريس عليه السلام"
+        ],
+        "en": [
+          "Sulayman (peace be upon him)",
+          "Dawud (peace be upon him)",
+          "Nuh (peace be upon him)",
+          "Idris (peace be upon him)"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "من فضل الله على داود أن الجبال والطير سبّحت معه وألان له الحديد (سبأ: ١٠).",
+        "en": "Of Allah's favour to Dawud: the mountains and birds glorified with him, and iron was made soft for him (Saba 34:10)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 34,
+        "aya": 10,
+        "quote": "وألنا له الحديد",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-036",
+      "q": {
+        "ar": "ما مسيرة الريح المسخّرة لسليمان عليه السلام في غدوّها؟",
+        "en": "How far did the wind subjected to Sulayman (peace be upon him) travel in its morning run?"
+      },
+      "choices": {
+        "ar": [
+          "مسيرة يوم",
+          "مسيرة أسبوع",
+          "مسيرة سنة",
+          "مسيرة شهر"
+        ],
+        "en": [
+          "A day's journey",
+          "A week's journey",
+          "A year's journey",
+          "A month's journey"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "غدوّ الريح مسيرة شهر ورواحها مسيرة شهر (سبأ: ١٢).",
+        "en": "Its morning run was a month's journey and its evening run a month's journey (Saba 34:12)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 34,
+        "aya": 12,
+        "quote": "ولسليمان الريح غدوها شهر ورواحها شهر",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-037",
+      "q": {
+        "ar": "ما الذي دلّ الجنّ على موت سليمان عليه السلام؟",
+        "en": "What showed the jinn that Sulayman (peace be upon him) had died?"
+      },
+      "choices": {
+        "ar": [
+          "صوت من السماء",
+          "دابة الأرض تأكل عصاه",
+          "غياب الهدهد",
+          "سقوط عرشه"
+        ],
+        "en": [
+          "A voice from the sky",
+          "A creature of the earth eating his staff",
+          "The hoopoe's absence",
+          "The fall of his throne"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "المنسأة هي العصا، أكلتها دابة الأرض فخرّ، فعلمت الجن أنها لا تعلم الغيب (سبأ: ١٤).",
+        "en": "The minsa'ah is his staff; a creature of the earth ate it and he fell, so the jinn learned they knew nothing of the unseen (Saba 34:14)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 34,
+        "aya": 14,
+        "quote": "دابة الأرض تأكل منسأته",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-038",
+      "q": {
+        "ar": "أيّ طائر تفقّده سليمان عليه السلام فلم يجده؟",
+        "en": "Which bird did Sulayman (peace be upon him) look for and not find?"
+      },
+      "choices": {
+        "ar": [
+          "الغراب",
+          "الهدهد",
+          "الحمامة",
+          "الصقر"
+        ],
+        "en": [
+          "The crow",
+          "The hoopoe",
+          "The dove",
+          "The falcon"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "تفقّد سليمان الطير فقال: ما لي لا أرى الهدهد أم كان من الغائبين (النمل: ٢٠).",
+        "en": "Sulayman inspected the birds and said, «Why do I not see the hoopoe?» (An-Naml 27:20)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 27,
+        "aya": 20,
+        "quote": "فقال ما لي لا أرى الهدهد",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-039",
+      "q": {
+        "ar": "أيّ نبي نادى في الظلمات: «لا إله إلا أنت سبحانك إني كنت من الظالمين»؟",
+        "en": "Which prophet called out in the darkness, «None has the right to be worshipped but You, glory be to You, I was among the wrongdoers»?"
+      },
+      "choices": {
+        "ar": [
+          "أيوب عليه السلام",
+          "يوسف عليه السلام",
+          "يونس عليه السلام",
+          "زكريا عليه السلام"
+        ],
+        "en": [
+          "Ayyub (peace be upon him)",
+          "Yusuf (peace be upon him)",
+          "Yunus (peace be upon him)",
+          "Zakariya (peace be upon him)"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "هذا دعاء ذي النون يونس عليه السلام، فاستجاب الله له ونجّاه من الغم (الأنبياء: ٨٧).",
+        "en": "This is the prayer of Dhun-Nun, Yunus, and Allah answered him and saved him from distress (Al-Anbiya 21:87)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 21,
+        "aya": 87,
+        "quote": "لا إله إلا أنت سبحانك إني كنت من الظالمين",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-040",
+      "q": {
+        "ar": "أيّ شجرة أنبتها الله على يونس عليه السلام بعد أن نُبذ بالعراء؟",
+        "en": "Which plant did Allah make grow over Yunus (peace be upon him) after he was cast on the open shore?"
+      },
+      "choices": {
+        "ar": [
+          "نخلة",
+          "شجرة من يقطين (القرع)",
+          "شجرة زيتون",
+          "شجرة تين"
+        ],
+        "en": [
+          "A palm tree",
+          "A gourd plant (yaqtin)",
+          "An olive tree",
+          "A fig tree"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "أنبت الله عليه شجرة من يقطين تظلّه، وفسّرها الميسّر بالقرع (الصافات: ١٤٦).",
+        "en": "Allah grew over him a yaqtin plant to shade him, explained in al-Muyassar as the gourd (As-Saffat 37:146)."
+      },
+      "source": {
+        "kind": "tafsir",
+        "sura": 37,
+        "aya": 146,
+        "quote": "وأنبتنا عليه شجرة من يقطين",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-041",
+      "q": {
+        "ar": "بماذا أُمر أيوب عليه السلام حين نادى ربه أنه مسّه الشيطان بنصب وعذاب؟",
+        "en": "What was Ayyub (peace be upon him) told to do when he called on his Lord in his affliction?"
+      },
+      "choices": {
+        "ar": [
+          "أن يهاجر إلى أرض أخرى",
+          "أن يضرب الأرض برجله فينبع ماء يغتسل منه ويشرب",
+          "أن يصوم أربعين يومًا",
+          "أن يبني مسجدًا"
+        ],
+        "en": [
+          "Move to another land",
+          "Strike the ground with his foot, and water came to wash in and drink",
+          "Fast forty days",
+          "Build a mosque"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قيل له: اركض برجلك، فنبع له ماء بارد يغتسل منه ويشرب فيذهب ضرّه (ص: ٤٢).",
+        "en": "He was told to strike with his foot; cool water sprang up to wash in and drink, and his harm went away (Sad 38:42)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 38,
+        "aya": 42,
+        "quote": "اركض برجلك هذا مغتسل بارد وشراب",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-042",
+      "q": {
+        "ar": "ما العلامة التي جعلها الله لزكريا عليه السلام على البشارة بيحيى؟",
+        "en": "What sign did Allah give Zakariya (peace be upon him) for the glad news of Yahya?"
+      },
+      "choices": {
+        "ar": [
+          "أن يرى نورًا في المحراب",
+          "أن ينزل عليه طعام من السماء",
+          "ألّا يكلّم الناس ثلاث ليال وهو سويّ",
+          "أن يشيب شعره كله"
+        ],
+        "en": [
+          "A light in the prayer niche",
+          "Food sent down from the sky",
+          "That he would not speak to people for three nights though sound",
+          "All his hair turning white"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "جعل الله آيته ألّا يقدر على كلام الناس ثلاث ليال وهو صحيح معافى (مريم: ١٠).",
+        "en": "His sign was that he could not speak to people for three nights while being sound and well (Maryam 19:10)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 19,
+        "aya": 10,
+        "quote": "آيتك ألا تكلم الناس ثلاث ليال سويا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-043",
+      "q": {
+        "ar": "ما الذي خصّ الله به اسم يحيى عليه السلام كما في سورة مريم؟",
+        "en": "What was special about the name of Yahya (peace be upon him), as Surat Maryam says?"
+      },
+      "choices": {
+        "ar": [
+          "لم يُسمَّ به أحد قبله",
+          "أنه اسم أبيه",
+          "أنه سُمّي به نبيّ قبله",
+          "أن أمه اختارته"
+        ],
+        "en": [
+          "No one had been given that name before him",
+          "It was his father's name",
+          "An earlier prophet had it",
+          "His mother chose it"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "بشّر الله زكريا بغلام اسمه يحيى لم يجعل له من قبل سميًّا (مريم: ٧).",
+        "en": "Allah gave Zakariya the news of a boy named Yahya, a name He had given no one before (Maryam 19:7)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 19,
+        "aya": 7,
+        "quote": "اسمه يحيى لم نجعل له من قبل سميا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-044",
+      "q": {
+        "ar": "أيّ نبي تكلّم وهو في المهد فقال: «إني عبد الله»؟",
+        "en": "Which prophet spoke from the cradle, saying «I am the servant of Allah»?"
+      },
+      "choices": {
+        "ar": [
+          "يحيى عليه السلام",
+          "موسى عليه السلام",
+          "إسماعيل عليه السلام",
+          "عيسى عليه السلام"
+        ],
+        "en": [
+          "Yahya (peace be upon him)",
+          "Musa (peace be upon him)",
+          "Ismail (peace be upon him)",
+          "Isa (peace be upon him)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أشارت مريم إلى ابنها، فقال عيسى في المهد: إني عبد الله آتاني الكتاب وجعلني نبيًّا (مريم: ٢٩–٣٠).",
+        "en": "Maryam pointed to her son, and Isa spoke from the cradle: «I am the servant of Allah; He gave me the Book and made me a prophet» (Maryam 19:29–30)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 19,
+        "aya": 29,
+        "to": 30,
+        "quote": "قالوا كيف نكلم من كان في المهد صبيا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-045",
+      "q": {
+        "ar": "بأيّ اسم بشّر عيسى عليه السلام بالرسول الذي يأتي من بعده؟",
+        "en": "By what name did Isa (peace be upon him) give the glad news of the messenger coming after him?"
+      },
+      "choices": {
+        "ar": [
+          "محمود",
+          "حامد",
+          "أحمد",
+          "مصطفى"
+        ],
+        "en": [
+          "Mahmud",
+          "Hamid",
+          "Ahmad",
+          "Mustafa"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال عيسى لبني إسرائيل إنه مبشّر برسول يأتي من بعده اسمه أحمد، وهو محمد ﷺ (الصف: ٦).",
+        "en": "Isa told the Children of Israel he brought news of a messenger after him named Ahmad, who is Muhammad ﷺ (As-Saff 61:6)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 61,
+        "aya": 6,
+        "quote": "ومبشرا برسول يأتي من بعدي اسمه أحمد",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-046",
+      "q": {
+        "ar": "ماذا يقول القرآن عمّا زعموه من قتل عيسى عليه السلام؟",
+        "en": "What does the Quran say about the claim that Isa (peace be upon him) was killed?"
+      },
+      "choices": {
+        "ar": [
+          "قتلوه ثم أحياه الله",
+          "صلبوه ولم يقتلوه",
+          "ما قتلوه وما صلبوه ولكن شُبّه لهم",
+          "مات في السجن"
+        ],
+        "en": [
+          "They killed him and Allah revived him",
+          "They crucified him but he did not die",
+          "They neither killed nor crucified him, it was made to seem so to them",
+          "He died in prison"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "نفى القرآن قتله وصلبه، وبيّن أن الأمر شُبّه لهم، وأن الله رفعه إليه (النساء: ١٥٧).",
+        "en": "The Quran denies that he was killed or crucified, says it was made to appear so to them, and that Allah raised him to Himself (An-Nisa 4:157)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 4,
+        "aya": 157,
+        "quote": "وما قتلوه وما صلبوه ولكن شبه لهم",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-047",
+      "q": {
+        "ar": "أيّ نبي قال الله عنه: «إنه كان صدّيقًا نبيًّا ورفعناه مكانًا عليًّا»؟",
+        "en": "Of which prophet did Allah say, «He was a man of truth, a prophet, and We raised him to a high station»?"
+      },
+      "choices": {
+        "ar": [
+          "إلياس عليه السلام",
+          "إسماعيل عليه السلام",
+          "يونس عليه السلام",
+          "إدريس عليه السلام"
+        ],
+        "en": [
+          "Ilyas (peace be upon him)",
+          "Ismail (peace be upon him)",
+          "Yunus (peace be upon him)",
+          "Idris (peace be upon him)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "ذكرت سورة مريم إدريس صدّيقًا نبيًّا رفعه الله مكانًا عليًّا (مريم: ٥٦–٥٧).",
+        "en": "Surat Maryam mentions Idris as a man of truth and a prophet whom Allah raised to a high station (Maryam 19:56–57)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 19,
+        "aya": 56,
+        "to": 57,
+        "quote": "إدريس إنه كان صديقا نبيا ورفعناه مكانا عليا",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-048",
+      "q": {
+        "ar": "ماذا علّم الله آدم عليه السلام ثم عرضه على الملائكة؟",
+        "en": "What did Allah teach Adam (peace be upon him) and then present to the angels?"
+      },
+      "choices": {
+        "ar": [
+          "الأسماء كلها",
+          "الكتابة بالقلم",
+          "صناعة السفن",
+          "منطق الطير"
+        ],
+        "en": [
+          "All the names",
+          "Writing with the pen",
+          "Building ships",
+          "The speech of birds"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "علّم الله آدم الأسماء كلها ثم عرض المسمّيات على الملائكة (البقرة: ٣١).",
+        "en": "Allah taught Adam all the names, then presented the things named to the angels (Al-Baqarah 2:31)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 31,
+        "quote": "وعلم آدم الأسماء كلها",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-049",
+      "q": {
+        "ar": "بماذا وصف القرآن محمدًا ﷺ في سورة الأحزاب؟",
+        "en": "How does the Quran describe Muhammad ﷺ in Surat Al-Ahzab?"
+      },
+      "choices": {
+        "ar": [
+          "أول الأنبياء",
+          "رسول الله وخاتم النبيين",
+          "نبيّ بني إسرائيل",
+          "أحد الحواريين"
+        ],
+        "en": [
+          "The first of the prophets",
+          "The Messenger of Allah and the Seal of the Prophets",
+          "A prophet of the Children of Israel",
+          "One of the disciples"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ما كان محمد أبا أحد من الرجال، ولكن رسول الله وخاتم النبيين فلا نبيّ بعده (الأحزاب: ٤٠).",
+        "en": "Muhammad is not the father of any of your men, but the Messenger of Allah and the Seal of the Prophets, with no prophet after him (Al-Ahzab 33:40)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 33,
+        "aya": 40,
+        "quote": "ولكن رسول الله وخاتم النبيين",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "prophets-050",
+      "q": {
+        "ar": "في قضية الحرث الذي نفشت فيه الغنم، من الذي فهّمه الله الحكم فيها؟",
+        "en": "In the case of the field grazed by the sheep at night, whom did Allah give understanding of the judgment?"
+      },
+      "choices": {
+        "ar": [
+          "داود عليه السلام وحده",
+          "لقمان",
+          "موسى عليه السلام",
+          "سليمان عليه السلام"
+        ],
+        "en": [
+          "Dawud (peace be upon him) alone",
+          "Luqman",
+          "Musa (peace be upon him)",
+          "Sulayman (peace be upon him)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: «ففهمناها سليمان وكلًّا آتينا حكمًا وعلمًا» (الأنبياء: ٧٩).",
+        "en": "Allah says He made Sulayman understand it, and gave each of them judgment and knowledge (Al-Anbiya 21:79)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 21,
+        "aya": 79,
+        "quote": "ففهمناها سليمان",
+        "books": [
+          "muyassar",
+          "wasit"
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    }
+  ]
+}

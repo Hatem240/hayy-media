@@ -1,0 +1,2326 @@
+{
+  "format": 1,
+  "door": "pillars",
+  "title": {
+    "ar": "أركان الإسلام",
+    "en": "Pillars of Islam"
+  },
+  "line": {
+    "ar": "الشهادتان والصلاة والزكاة والصوم والحج، وأركان الإيمان",
+    "en": "The testimony, prayer, zakat, fasting and hajj, and the pillars of faith"
+  },
+  "mark": "pillars",
+  "version": 1,
+  "count": 50,
+  "status": "ready",
+  "sources": {
+    "ar": "«الفقه الميسّر في ضوء الكتاب والسنة» (مجمع الملك فهد، ١٤٢٤هـ) ودار الإفتاء المصرية، مع دليل كل سؤال من القرآن أو صحيحي البخاري ومسلم. المسائل المتفق عليها فقط.",
+    "en": "\"Al-Fiqh al-Muyassar in the Light of the Quran and Sunna\" (King Fahd Complex, 1424 AH) and Dar al-Ifta of Egypt, each question with its evidence from the Quran or Sahih al-Bukhari and Muslim. Agreed points only."
+  },
+  "questions": [
+    {
+      "id": "pillars-001",
+      "q": {
+        "ar": "على كم ركنًا بُني الإسلام كما أخبر النبي ﷺ؟",
+        "en": "On how many pillars did the Prophet ﷺ say Islam is built?"
+      },
+      "choices": {
+        "ar": [
+          "خمسة أركان",
+          "ثلاثة أركان",
+          "ستة أركان",
+          "سبعة أركان"
+        ],
+        "en": [
+          "Five",
+          "Three",
+          "Six",
+          "Seven"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "أخبر النبي ﷺ أن الإسلام بُني على خمس، كما في صحيح البخاري.",
+        "en": "The Prophet ﷺ said Islam is built on five, as Sahih al-Bukhari reports."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "bukhari",
+        "number": 8,
+        "quote": "بني الإسلام على خمس"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-002",
+      "q": {
+        "ar": "ما أول ركن من أركان الإسلام في حديث «بُني الإسلام على خمس»؟",
+        "en": "Which pillar comes first in the hadith \"Islam is built on five\"?"
+      },
+      "choices": {
+        "ar": [
+          "الصلاة",
+          "الزكاة",
+          "الحج",
+          "الشهادتان"
+        ],
+        "en": [
+          "Prayer",
+          "Zakat",
+          "Hajj",
+          "The two testimonies of faith"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "بدأ النبي ﷺ بشهادة أن لا إله إلا الله وأن محمدًا رسول الله، ثم ذكر بقية الأركان.",
+        "en": "The Prophet ﷺ began with bearing witness that there is no god but Allah and that Muhammad is His Messenger."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "bukhari",
+        "number": 8,
+        "quote": "شهادة أن لا إله إلا الله وأن محمدا رسول الله"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-003",
+      "q": {
+        "ar": "أيٌّ مما يلي ليس من أركان الإسلام الخمسة؟",
+        "en": "Which of these is not one of the five pillars of Islam?"
+      },
+      "choices": {
+        "ar": [
+          "صوم رمضان",
+          "إيتاء الزكاة",
+          "برّ الوالدين",
+          "حج البيت"
+        ],
+        "en": [
+          "Fasting Ramadan",
+          "Giving zakat",
+          "Kindness to parents",
+          "Pilgrimage to the House"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "برّ الوالدين واجب عظيم، لكنه ليس من الأركان الخمسة التي عدّها الحديث.",
+        "en": "Kindness to parents is a great duty, but it is not among the five pillars the hadith lists."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "bukhari",
+        "number": 8,
+        "quote": "وإقام الصلاة وإيتاء الزكاة والحج وصوم رمضان"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-004",
+      "q": {
+        "ar": "كم عدد أركان الإيمان في حديث جبريل عليه السلام؟",
+        "en": "How many pillars of faith are in the hadith of Jibril?"
+      },
+      "choices": {
+        "ar": [
+          "خمسة",
+          "ستة",
+          "أربعة",
+          "سبعة"
+        ],
+        "en": [
+          "Five",
+          "Six",
+          "Four",
+          "Seven"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "الإيمان بالله وملائكته وكتبه ورسله واليوم الآخر والقدر خيره وشره، كما في صحيح مسلم.",
+        "en": "Faith in Allah, His angels, books, messengers, the Last Day and the decree, good and bad (Sahih Muslim)."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "muslim",
+        "number": 8,
+        "quote": "أن تؤمن بالله وملائكته وكتبه ورسله واليوم الآخر"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-005",
+      "q": {
+        "ar": "أيٌّ مما يلي ذُكر في حديث جبريل من أركان الإيمان؟",
+        "en": "Which of these is named as a pillar of faith in the hadith of Jibril?"
+      },
+      "choices": {
+        "ar": [
+          "صلة الرحم",
+          "الإيمان بالقدر خيره وشره",
+          "الجهاد في سبيل الله",
+          "الصدقة على الفقراء"
+        ],
+        "en": [
+          "Keeping family ties",
+          "Faith in the decree, its good and its bad",
+          "Striving in the way of Allah",
+          "Giving charity to the poor"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ختم النبي ﷺ أركان الإيمان بقوله: «وتؤمن بالقدر خيره وشره».",
+        "en": "The Prophet ﷺ ended the pillars of faith with belief in the decree, its good and its bad."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "muslim",
+        "number": 8,
+        "quote": "وتؤمن بالقدر خيره وشره"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-006",
+      "q": {
+        "ar": "بماذا عرّف النبي ﷺ الإحسان؟",
+        "en": "How did the Prophet ﷺ define ihsan (excellence)?"
+      },
+      "choices": {
+        "ar": [
+          "أن تعبد الله كأنك تراه",
+          "أن تكثر من الصدقة",
+          "أن تحسن إلى الجيران",
+          "أن تحفظ القرآن كله"
+        ],
+        "en": [
+          "To worship Allah as though you see Him",
+          "To give much in charity",
+          "To be good to neighbours",
+          "To memorise the whole Quran"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال ﷺ: الإحسان أن تعبد الله كأنك تراه، فإن لم تكن تراه فإنه يراك.",
+        "en": "He ﷺ said ihsan is to worship Allah as though you see Him, for though you do not see Him, He sees you."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "bukhari",
+        "number": 50,
+        "quote": "أن تعبد الله كأنك تراه فإن لم تكن تراه فإنه يراك"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-007",
+      "q": {
+        "ar": "مَن السائل الذي سأل النبي ﷺ عن الإسلام والإيمان والإحسان أمام الصحابة؟",
+        "en": "Who was the questioner who asked the Prophet ﷺ about Islam, faith and ihsan before the Companions?"
+      },
+      "choices": {
+        "ar": [
+          "أبو بكر الصديق",
+          "عمر بن الخطاب",
+          "رجل من أهل الكتاب",
+          "جبريل عليه السلام"
+        ],
+        "en": [
+          "Abu Bakr al-Siddiq",
+          "Umar ibn al-Khattab",
+          "A man of the People of the Book",
+          "The angel Jibril"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أخبر النبي ﷺ أصحابه بعد ذهابه أنه جبريل جاء يعلّم الناس دينهم.",
+        "en": "After he left, the Prophet ﷺ told them it was Jibril, who came to teach people their religion."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "bukhari",
+        "number": 50,
+        "quote": "هذا جبريل جاء يعلم الناس دينهم"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-008",
+      "q": {
+        "ar": "ما معنى «لا إله إلا الله»؟",
+        "en": "What does \"La ilaha illa Allah\" mean?"
+      },
+      "choices": {
+        "ar": [
+          "لا خالق في الكون غير الإنسان",
+          "الله موجود فقط",
+          "لا معبود بحقّ إلا الله",
+          "لا نبي بعد محمد ﷺ"
+        ],
+        "en": [
+          "Man is the only creator",
+          "Only that Allah exists",
+          "None is truly worshipped but Allah",
+          "There is no prophet after Muhammad ﷺ"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "هي كلمة التوحيد: نفي العبادة عن كل ما سوى الله وإثباتها له وحده، وقد أمر الله بالعلم بها.",
+        "en": "It is the word of oneness: worship denied to all but Allah and given to Him alone; Allah commands knowing it."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 47,
+        "aya": 19,
+        "quote": "فاعلم أنه لا إله إلا الله"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-009",
+      "q": {
+        "ar": "في أي سورة وصف الله نبيه محمدًا ﷺ بأنه «خاتم النبيين»؟",
+        "en": "In which sura does Allah call Muhammad ﷺ \"the Seal of the Prophets\"?"
+      },
+      "choices": {
+        "ar": [
+          "سورة الفتح",
+          "سورة محمد",
+          "سورة الأحزاب",
+          "سورة الأنبياء"
+        ],
+        "en": [
+          "Al-Fath",
+          "Muhammad",
+          "Al-Ahzab",
+          "Al-Anbiya"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "في الآية الأربعين من سورة الأحزاب: ﴿ولكن رسول الله وخاتم النبيين﴾، وهي من معاني الشهادة له بالرسالة.",
+        "en": "In al-Ahzab 33:40: \"but the Messenger of Allah and the Seal of the Prophets\"."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 33,
+        "aya": 40,
+        "quote": "ولكن رسول الله وخاتم النبيين"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-010",
+      "q": {
+        "ar": "ما جزاء من مات وهو يعلم أنه لا إله إلا الله، كما في صحيح مسلم؟",
+        "en": "What is promised to one who dies knowing there is no god but Allah (Sahih Muslim)?"
+      },
+      "choices": {
+        "ar": [
+          "طول العمر",
+          "دخول الجنة",
+          "كثرة المال",
+          "سعة الرزق في الدنيا"
+        ],
+        "en": [
+          "A long life",
+          "Entering Paradise",
+          "Great wealth",
+          "Ample provision in this world"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: من مات وهو يعلم أنه لا إله إلا الله دخل الجنة.",
+        "en": "He ﷺ said whoever dies knowing there is no god but Allah will enter Paradise."
+      },
+      "source": {
+        "kind": "hadith",
+        "book": "muslim",
+        "number": 26,
+        "quote": "من مات وهو يعلم أنه لا إله إلا الله دخل الجنة"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-011",
+      "q": {
+        "ar": "كم صلاة فرضها الله على المسلم في اليوم والليلة؟",
+        "en": "How many prayers has Allah made obligatory in a day and night?"
+      },
+      "choices": {
+        "ar": [
+          "خمس صلوات",
+          "ثلاث صلوات",
+          "سبع صلوات",
+          "عشر صلوات"
+        ],
+        "en": [
+          "Five",
+          "Three",
+          "Seven",
+          "Ten"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "سأل رجل عن الإسلام فقال ﷺ: خمس صلوات في اليوم والليلة.",
+        "en": "A man asked about Islam and he ﷺ said: five prayers in the day and night."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 46,
+            "quote": "خمس صلوات في اليوم والليلة"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-012",
+      "q": {
+        "ar": "في أي ليلة فُرضت الصلوات الخمس؟",
+        "en": "On which night were the five prayers ordained?"
+      },
+      "choices": {
+        "ar": [
+          "ليلة القدر",
+          "ليلة الهجرة",
+          "ليلة غزوة بدر",
+          "ليلة الإسراء والمعراج"
+        ],
+        "en": [
+          "The Night of Decree",
+          "The night of the Hijra",
+          "The night of Badr",
+          "The night of the Night Journey and Ascension"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "فُرضت الصلاة ليلة المعراج خمسين ثم خُففت إلى خمس، كما في حديث البخاري.",
+        "en": "Prayer was ordained on the night of the Ascension as fifty, then lightened to five (al-Bukhari)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 349,
+            "quote": "هي خمس وهي خمسون لا يبدل القول لدي"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-013",
+      "q": {
+        "ar": "ما معنى قول الله في حديث المعراج: «هي خمس وهي خمسون»؟",
+        "en": "What is meant by \"they are five and they are fifty\" in the hadith of the Ascension?"
+      },
+      "choices": {
+        "ar": [
+          "خمسون صلاة تُصلّى في خمسة أوقات",
+          "خمس صلوات في الحضر وخمسون في السفر",
+          "خمس ركعات في كل صلاة",
+          "خمس صلوات في العمل وأجرها أجر خمسين"
+        ],
+        "en": [
+          "Fifty prayers said in five times",
+          "Five at home and fifty on a journey",
+          "Five rak'as in every prayer",
+          "Five prayers to perform, with the reward of fifty"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "خفّف الله العدد إلى خمس وأبقى ثوابها ثواب خمسين، ﴿لا يبدل القول لدي﴾.",
+        "en": "Allah lightened the number to five and kept the reward of fifty; His word does not change."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 3342,
+            "quote": "هي خمس وهي خمسون"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-014",
+      "q": {
+        "ar": "سأل ابن مسعود النبيَّ ﷺ: أيّ العمل أحب إلى الله؟ فبماذا أجاب أولًا؟",
+        "en": "Ibn Mas'ud asked which deed Allah loves most. What did the Prophet ﷺ name first?"
+      },
+      "choices": {
+        "ar": [
+          "برّ الوالدين",
+          "الجهاد في سبيل الله",
+          "الصلاة على وقتها",
+          "قراءة القرآن"
+        ],
+        "en": [
+          "Kindness to parents",
+          "Striving in the way of Allah",
+          "Prayer in its time",
+          "Reciting the Quran"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: الصلاة على وقتها، ثم برّ الوالدين، ثم الجهاد في سبيل الله.",
+        "en": "He ﷺ said: prayer in its time, then kindness to parents, then striving in the way of Allah."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 527,
+            "quote": "أي العمل أحب إلى الله قال الصلاة على وقتها"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-015",
+      "q": {
+        "ar": "بماذا شبّه النبي ﷺ الصلوات الخمس؟",
+        "en": "What did the Prophet ﷺ liken the five prayers to?"
+      },
+      "choices": {
+        "ar": [
+          "شجرة تُثمر كل عام",
+          "نهر على باب أحدكم يغتسل فيه كل يوم خمس مرات",
+          "نور يضيء الطريق",
+          "كنز يُدّخر للآخرة"
+        ],
+        "en": [
+          "A tree bearing fruit each year",
+          "A river at one's door in which he bathes five times a day",
+          "A light on the road",
+          "A treasure stored for the Hereafter"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "كما لا يبقى من الوسخ شيء بعد خمس غسلات، كذلك يمحو الله بالصلوات الخطايا.",
+        "en": "As no dirt remains after five baths, so Allah wipes away sins with the prayers."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 528,
+            "quote": "نهرا بباب أحدكم يغتسل فيه كل يوم خمسا"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-016",
+      "q": {
+        "ar": "عمّاذا تنهى الصلاة كما في سورة العنكبوت؟",
+        "en": "According to al-Ankabut, what does prayer restrain from?"
+      },
+      "choices": {
+        "ar": [
+          "الفحشاء والمنكر",
+          "العمل والكسب",
+          "النوم والراحة",
+          "السفر والتجارة"
+        ],
+        "en": [
+          "Indecency and wrongdoing",
+          "Work and earning",
+          "Sleep and rest",
+          "Travel and trade"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿إن الصلاة تنهى عن الفحشاء والمنكر﴾ (العنكبوت: ٤٥).",
+        "en": "Allah says prayer restrains from indecency and wrongdoing (29:45)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 29,
+        "aya": 45,
+        "quote": "إن الصلاة تنهى عن الفحشاء والمنكر"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-017",
+      "q": {
+        "ar": "ما معنى أن الصلاة ﴿كتابًا موقوتًا﴾ في سورة النساء؟",
+        "en": "What is meant by prayer being \"a decree of fixed times\" in al-Nisa?"
+      },
+      "choices": {
+        "ar": [
+          "فريضة لها أوقات محددة",
+          "عبادة تُؤدّى متى شاء المسلم",
+          "صلاة تُكتب في المصحف",
+          "سُنّة في رمضان فقط"
+        ],
+        "en": [
+          "An obligation with set times",
+          "Worship done whenever one wishes",
+          "A prayer written in the Mushaf",
+          "A sunna in Ramadan only"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "الصلاة فرض على المؤمنين في أوقات معلومة، كما في سورة النساء (١٠٣).",
+        "en": "Prayer is an obligation on believers at known times (4:103)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 4,
+        "aya": 103,
+        "quote": "إن الصلاة كانت على المؤمنين كتابا موقوتا"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-018",
+      "q": {
+        "ar": "بكم درجة تفضل صلاة الجماعة صلاة الفرد، في رواية ابن عمر عند البخاري؟",
+        "en": "By how many degrees does congregational prayer surpass praying alone, in Ibn Umar's report in al-Bukhari?"
+      },
+      "choices": {
+        "ar": [
+          "عشر درجات",
+          "خمسين درجة",
+          "سبعين درجة",
+          "سبع وعشرين درجة"
+        ],
+        "en": [
+          "Ten",
+          "Fifty",
+          "Seventy",
+          "Twenty-seven"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال ﷺ: صلاة الجماعة تفضل صلاة الفذّ بسبع وعشرين درجة.",
+        "en": "He ﷺ said congregational prayer surpasses praying alone by twenty-seven degrees."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 645,
+            "quote": "صلاة الجماعة تفضل صلاة الفذ بسبع وعشرين درجة"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-019",
+      "q": {
+        "ar": "ماذا تفعل الصدقة المأخوذة من الأموال بأصحابها، كما في سورة التوبة؟",
+        "en": "What does charity taken from wealth do for its owners, according to al-Tawba?"
+      },
+      "choices": {
+        "ar": [
+          "تُفقرهم",
+          "تُشغلهم عن العبادة",
+          "تطهّرهم وتزكّيهم",
+          "تُعفيهم من الصلاة"
+        ],
+        "en": [
+          "It makes them poor",
+          "It distracts them from worship",
+          "It purifies them and makes them grow",
+          "It excuses them from prayer"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿خذ من أموالهم صدقة تطهرهم وتزكيهم بها﴾ (التوبة: ١٠٣).",
+        "en": "Allah says: \"Take from their wealth a charity to purify them and cause them increase\" (9:103)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 9,
+        "aya": 103,
+        "quote": "خذ من أموالهم صدقة تطهرهم وتزكيهم بها"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-020",
+      "q": {
+        "ar": "كم صنفًا من مستحقي الزكاة ذكرتهم آية الصدقات في سورة التوبة؟",
+        "en": "How many kinds of zakat recipients are named in the verse of charities in al-Tawba?"
+      },
+      "choices": {
+        "ar": [
+          "ستة أصناف",
+          "ثمانية أصناف",
+          "أربعة أصناف",
+          "عشرة أصناف"
+        ],
+        "en": [
+          "Six",
+          "Eight",
+          "Four",
+          "Ten"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ذكرت الآية ستين من سورة التوبة ثمانية أصناف، أولهم الفقراء والمساكين.",
+        "en": "Verse 9:60 names eight kinds, the poor and the needy first."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — فضلها ومقاديرها",
+          "en": "Zakat — Its merit and amounts"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 9,
+            "aya": 60,
+            "quote": "إنما الصدقات للفقراء والمساكين"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-021",
+      "q": {
+        "ar": "أيٌّ مما يلي من مستحقي الزكاة في سورة التوبة؟",
+        "en": "Which of these is among the recipients of zakat named in al-Tawba?"
+      },
+      "choices": {
+        "ar": [
+          "الأغنياء",
+          "الغارمون المثقلون بالديون",
+          "التجار الموسرون",
+          "أصحاب المناصب"
+        ],
+        "en": [
+          "The rich",
+          "Debtors burdened with debt",
+          "Wealthy merchants",
+          "Holders of high office"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "من الأصناف الثمانية ﴿والغارمين﴾، وهم من عليهم ديون لا يقدرون على سدادها.",
+        "en": "Among the eight are \"those in debt\" who cannot repay (9:60)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — فضلها ومقاديرها",
+          "en": "Zakat — Its merit and amounts"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 9,
+            "aya": 60,
+            "quote": "وفي الرقاب والغارمين وفي سبيل الله"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-022",
+      "q": {
+        "ar": "ما مقدار زكاة الفضة (الرِّقة) إذا بلغت النصاب؟",
+        "en": "What is the zakat on silver once it reaches the minimum?"
+      },
+      "choices": {
+        "ar": [
+          "ربع العشر",
+          "العشر",
+          "نصف العشر",
+          "الخُمس"
+        ],
+        "en": [
+          "A quarter of a tenth (2.5%)",
+          "A tenth",
+          "Half a tenth",
+          "A fifth"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "في كتاب أبي بكر الصديق في الزكاة: «وفي الرِّقة ربع العشر»، رواه البخاري.",
+        "en": "Abu Bakr's letter on zakat says: on silver, a quarter of a tenth (al-Bukhari)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — فضلها ومقاديرها",
+          "en": "Zakat — Its merit and amounts"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1454,
+            "quote": "وفي الرقة ربع العشر"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-023",
+      "q": {
+        "ar": "ما زكاة الزروع التي تسقيها الأمطار والعيون بلا كلفة؟",
+        "en": "What is the zakat on crops watered by rain and springs without labour?"
+      },
+      "choices": {
+        "ar": [
+          "نصف العشر",
+          "ربع العشر",
+          "الخُمس",
+          "العشر"
+        ],
+        "en": [
+          "Half a tenth",
+          "A quarter of a tenth",
+          "A fifth",
+          "A tenth"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال ﷺ: فيما سقت السماء والعيون العشر، وما سُقي بالنضح نصف العشر.",
+        "en": "He ﷺ said: what is watered by sky and springs, a tenth; what is watered by drawing water, half a tenth."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — فضلها ومقاديرها",
+          "en": "Zakat — Its merit and amounts"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1483,
+            "quote": "فيما سقت السماء والعيون أو كان عثريا العشر"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-024",
+      "q": {
+        "ar": "ليس في الفضة زكاة حتى تبلغ كم أوقية؟",
+        "en": "Silver owes no zakat until it reaches how many awqiya?"
+      },
+      "choices": {
+        "ar": [
+          "أوقيتين",
+          "عشر أواق",
+          "خمس أواق",
+          "عشرين أوقية"
+        ],
+        "en": [
+          "Two",
+          "Ten",
+          "Five",
+          "Twenty"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: ليس فيما دون خمس أواق صدقة.",
+        "en": "He ﷺ said: there is no charity due on less than five awqiya."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — فضلها ومقاديرها",
+          "en": "Zakat — Its merit and amounts"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1405,
+            "quote": "ليس فيما دون خمس أواق صدقة"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-025",
+      "q": {
+        "ar": "أكمل قوله تعالى: ﴿وأقيموا الصلاة و…﴾ في سورة البقرة (٤٣).",
+        "en": "Complete 2:43: \"And establish prayer and …\""
+      },
+      "choices": {
+        "ar": [
+          "صوموا رمضان",
+          "حجوا البيت",
+          "آتوا الزكاة",
+          "اذكروا الله كثيرًا"
+        ],
+        "en": [
+          "fast Ramadan",
+          "make pilgrimage to the House",
+          "give zakat",
+          "remember Allah much"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "كثيرًا ما يقرن القرآن الزكاة بالصلاة، كما في البقرة: ٤٣.",
+        "en": "The Quran often pairs zakat with prayer, as in 2:43."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 43,
+        "quote": "وأقيموا الصلاة وآتوا الزكاة"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-026",
+      "q": {
+        "ar": "ماذا قال النبي ﷺ عن أثر الصدقة في المال؟",
+        "en": "What did the Prophet ﷺ say charity does to wealth?"
+      },
+      "choices": {
+        "ar": [
+          "الصدقة تُنقص المال نصفه",
+          "ما نقصت صدقة من مال",
+          "الصدقة لا تجوز إلا من الأغنياء",
+          "الصدقة تُذهب البركة"
+        ],
+        "en": [
+          "Charity halves wealth",
+          "Charity never decreases wealth",
+          "Only the rich may give charity",
+          "Charity removes blessing"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: ما نقصت صدقة من مال، رواه مسلم.",
+        "en": "He ﷺ said charity never decreases wealth (Muslim)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — فضلها ومقاديرها",
+          "en": "Zakat — Its merit and amounts"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "muslim",
+            "number": 2588,
+            "quote": "ما نقصت صدقة من مال"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-027",
+      "q": {
+        "ar": "ما الغاية من الصيام التي ختمت بها آية فرضه في سورة البقرة؟",
+        "en": "What aim of fasting closes the verse that made it obligatory in al-Baqara?"
+      },
+      "choices": {
+        "ar": [
+          "التقوى",
+          "الصحة",
+          "توفير الطعام",
+          "الشهرة بين الناس"
+        ],
+        "en": [
+          "God-consciousness (taqwa)",
+          "Health",
+          "Saving food",
+          "Fame among people"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون﴾ (البقرة: ١٨٣).",
+        "en": "Allah says fasting is prescribed for you as for those before you, so that you may be mindful of Him (2:183)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 183,
+        "quote": "كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-028",
+      "q": {
+        "ar": "أيّ شهر أُنزل فيه القرآن؟",
+        "en": "In which month was the Quran sent down?"
+      },
+      "choices": {
+        "ar": [
+          "شعبان",
+          "رجب",
+          "ذو الحجة",
+          "رمضان"
+        ],
+        "en": [
+          "Sha'ban",
+          "Rajab",
+          "Dhu al-Hijja",
+          "Ramadan"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: ﴿شهر رمضان الذي أنزل فيه القرآن﴾ (البقرة: ١٨٥).",
+        "en": "Allah says: \"The month of Ramadan, in which the Quran was sent down\" (2:185)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 185,
+        "quote": "شهر رمضان الذي أنزل فيه القرآن"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-029",
+      "q": {
+        "ar": "متى يبدأ الصائم إمساكه عن الطعام والشراب؟",
+        "en": "When does the fasting person begin to hold back from food and drink?"
+      },
+      "choices": {
+        "ar": [
+          "عند شروق الشمس",
+          "عند منتصف الليل",
+          "بعد صلاة الظهر",
+          "حين يتبيّن الفجر"
+        ],
+        "en": [
+          "At sunrise",
+          "At midnight",
+          "After the noon prayer",
+          "When dawn becomes clear"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أباح الله الأكل والشرب حتى يتبين الخيط الأبيض من الخيط الأسود من الفجر (البقرة: ١٨٧).",
+        "en": "Allah allows eating and drinking until the white thread of dawn becomes distinct from the black (2:187)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 187,
+        "quote": "حتى يتبين لكم الخيط الأبيض من الخيط الأسود من الفجر"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-030",
+      "q": {
+        "ar": "إلى متى يُتمّ الصائم صيامه؟",
+        "en": "Until when does the fasting person complete the fast?"
+      },
+      "choices": {
+        "ar": [
+          "إلى العصر",
+          "إلى صلاة العشاء",
+          "إلى الليل (غروب الشمس)",
+          "إلى منتصف النهار"
+        ],
+        "en": [
+          "Until the afternoon prayer",
+          "Until the night prayer",
+          "Until night (sunset)",
+          "Until midday"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿ثم أتموا الصيام إلى الليل﴾، والليل يبدأ بغروب الشمس.",
+        "en": "Allah says: \"then complete the fast until the night\" (2:187); night begins at sunset."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 187,
+        "quote": "ثم أتموا الصيام إلى الليل"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-031",
+      "q": {
+        "ar": "ما جزاء من صام رمضان إيمانًا واحتسابًا؟",
+        "en": "What is the reward of one who fasts Ramadan in faith, seeking reward?"
+      },
+      "choices": {
+        "ar": [
+          "يُعفى من الصلاة",
+          "يُغفر له ما تقدّم من ذنبه",
+          "يُكتب له حج",
+          "يُرزق مالًا كثيرًا"
+        ],
+        "en": [
+          "He is excused from prayer",
+          "His past sins are forgiven",
+          "He is credited with a hajj",
+          "He is given great wealth"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: من صام رمضان إيمانًا واحتسابًا غفر له ما تقدّم من ذنبه.",
+        "en": "He ﷺ said whoever fasts Ramadan in faith and hope of reward has his past sins forgiven."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — فضل الصيام",
+          "en": "Fasting — Its merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 38,
+            "quote": "من صام رمضان إيمانا واحتسابا غفر له ما تقدم من ذنبه"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-032",
+      "q": {
+        "ar": "ما اسم باب الجنة الذي يدخل منه الصائمون؟",
+        "en": "What is the name of the gate of Paradise for those who fast?"
+      },
+      "choices": {
+        "ar": [
+          "الريّان",
+          "الفردوس",
+          "السلام",
+          "الكوثر"
+        ],
+        "en": [
+          "Al-Rayyan",
+          "Al-Firdaws",
+          "Al-Salam",
+          "Al-Kawthar"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال ﷺ: إن في الجنة بابًا يقال له الريّان يدخل منه الصائمون.",
+        "en": "He ﷺ said Paradise has a gate called al-Rayyan through which those who fast enter."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — فضل الصيام",
+          "en": "Fasting — Its merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1896,
+            "quote": "إن في الجنة بابا يقال له الريان يدخل منه الصائمون"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-033",
+      "q": {
+        "ar": "بماذا وصف النبي ﷺ الصيام في قوله: «الصيام …»؟",
+        "en": "How did the Prophet ﷺ describe fasting: \"Fasting is …\"?"
+      },
+      "choices": {
+        "ar": [
+          "جُنّة (وقاية)",
+          "برهان",
+          "نور",
+          "ضياء"
+        ],
+        "en": [
+          "A shield",
+          "A proof",
+          "A light",
+          "A radiance"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال ﷺ: الصيام جُنّة، أي وقاية لصاحبه من المعاصي ومن النار.",
+        "en": "He ﷺ said fasting is a shield, guarding its keeper from sin and the Fire."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — فضل الصيام",
+          "en": "Fasting — Its merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1894,
+            "quote": "الصيام جنة فلا يرفث ولا يجهل"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-034",
+      "q": {
+        "ar": "ماذا يقول الصائم إذا شتمه أحد أو قاتله؟",
+        "en": "What should a fasting person say if someone insults or fights him?"
+      },
+      "choices": {
+        "ar": [
+          "أنت ظالم",
+          "سأشكوك",
+          "لا أسامحك",
+          "إني صائم"
+        ],
+        "en": [
+          "\"You are unjust\"",
+          "\"I will complain of you\"",
+          "\"I will not forgive you\"",
+          "\"I am fasting\""
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أمر النبي ﷺ الصائم إن سابّه أحد أن يقول: إني صائم.",
+        "en": "The Prophet ﷺ told the faster, if someone reviles him, to say: I am fasting."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — فضل الصيام",
+          "en": "Fasting — Its merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1904,
+            "quote": "فإن سابه أحد أو قاتله فليقل إني امرؤ صائم"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-035",
+      "q": {
+        "ar": "ما حال صيام من لم يدع قول الزور والعمل به؟",
+        "en": "What of the fast of one who does not give up false speech and acting on it?"
+      },
+      "choices": {
+        "ar": [
+          "صيامه أكمل الصيام",
+          "يُضاعف أجره",
+          "ليس لله حاجة في أن يدع طعامه وشرابه",
+          "يُكتب له صيام شهرين"
+        ],
+        "en": [
+          "His fast is the most complete",
+          "His reward is doubled",
+          "Allah has no need of his leaving food and drink",
+          "He is credited with two months"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: من لم يدع قول الزور والعمل به فليس لله حاجة في أن يدع طعامه وشرابه.",
+        "en": "He ﷺ said Allah has no need of the food and drink left by one who keeps false speech and its deeds."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — فضل الصيام",
+          "en": "Fasting — Its merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1903,
+            "quote": "من لم يدع قول الزور والعمل به فليس لله حاجة"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-036",
+      "q": {
+        "ar": "في أي الليالي أمر النبي ﷺ بتحرّي ليلة القدر؟",
+        "en": "In which nights did the Prophet ﷺ tell us to seek the Night of Decree?"
+      },
+      "choices": {
+        "ar": [
+          "العشر الأوائل من رمضان",
+          "الوتر من العشر الأواخر من رمضان",
+          "ليلة النصف من شعبان",
+          "أول ليلة من رمضان"
+        ],
+        "en": [
+          "The first ten of Ramadan",
+          "The odd nights of the last ten of Ramadan",
+          "The middle night of Sha'ban",
+          "The first night of Ramadan"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: تحرّوا ليلة القدر في الوتر من العشر الأواخر من رمضان.",
+        "en": "He ﷺ said: seek the Night of Decree in the odd nights of the last ten of Ramadan."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — فضل الصيام",
+          "en": "Fasting — Its merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 2017,
+            "quote": "تحروا ليلة القدر في الوتر من العشر الأواخر من رمضان"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-037",
+      "q": {
+        "ar": "على مَن يجب حج البيت كما في سورة آل عمران؟",
+        "en": "On whom is the pilgrimage obligatory, according to Al Imran?"
+      },
+      "choices": {
+        "ar": [
+          "كل مسلم ولو عجز",
+          "من استطاع إليه سبيلًا",
+          "أهل مكة وحدهم",
+          "العلماء فقط"
+        ],
+        "en": [
+          "Every Muslim even if unable",
+          "Whoever is able to find a way",
+          "The people of Makka alone",
+          "Scholars only"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى: ﴿ولله على الناس حج البيت من استطاع إليه سبيلا﴾ (آل عمران: ٩٧).",
+        "en": "Allah says pilgrimage to the House is a duty owed to Allah by whoever is able to find a way (3:97)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 3,
+        "aya": 97,
+        "quote": "ولله على الناس حج البيت من استطاع إليه سبيلا"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-038",
+      "q": {
+        "ar": "كم مرة يجب الحج على المستطيع في عمره؟",
+        "en": "How many times is hajj obligatory in the life of one who is able?"
+      },
+      "choices": {
+        "ar": [
+          "مرة واحدة",
+          "كل عام",
+          "مرتين",
+          "ثلاث مرات"
+        ],
+        "en": [
+          "Once",
+          "Every year",
+          "Twice",
+          "Three times"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "لما سُئل النبي ﷺ: أكلّ عام؟ قال: لو قلت نعم لوجبت ولما استطعتم، فالواجب مرة.",
+        "en": "Asked \"every year?\", he ﷺ said that had he said yes it would have become binding and beyond them; once is due."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — فرضه وفضله",
+          "en": "Hajj — Its obligation and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "muslim",
+            "number": 1337,
+            "quote": "قد فرض الله عليكم الحج فحجوا فقال رجل أكل عام"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-039",
+      "q": {
+        "ar": "كيف وصف القرآن زمن الحج؟",
+        "en": "How does the Quran describe the time of hajj?"
+      },
+      "choices": {
+        "ar": [
+          "يوم واحد في السنة",
+          "أي وقت من العام",
+          "شهر رمضان",
+          "أشهر معلومات"
+        ],
+        "en": [
+          "One day a year",
+          "Any time of the year",
+          "The month of Ramadan",
+          "Known months"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: ﴿الحج أشهر معلومات﴾ (البقرة: ١٩٧).",
+        "en": "Allah says: \"Hajj is in the known months\" (2:197)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 197,
+        "quote": "الحج أشهر معلومات"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-040",
+      "q": {
+        "ar": "بماذا يرجع من حجّ فلم يرفث ولم يفسق؟",
+        "en": "How does one return who performs hajj without obscenity or sin?"
+      },
+      "choices": {
+        "ar": [
+          "بمال كثير",
+          "بلقب الحاج فقط",
+          "كيوم ولدته أمه",
+          "بلا أجر"
+        ],
+        "en": [
+          "With much wealth",
+          "With only the title \"hajji\"",
+          "As on the day his mother bore him",
+          "With no reward"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: من حجّ لله فلم يرفث ولم يفسق رجع كيوم ولدته أمه، أي بلا ذنوب.",
+        "en": "He ﷺ said such a pilgrim returns as on the day his mother bore him, free of sin."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — فرضه وفضله",
+          "en": "Hajj — Its obligation and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1521,
+            "quote": "من حج لله فلم يرفث ولم يفسق رجع كيوم ولدته أمه"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-041",
+      "q": {
+        "ar": "ما جزاء الحج المبرور؟",
+        "en": "What is the reward of an accepted (mabrur) hajj?"
+      },
+      "choices": {
+        "ar": [
+          "طول العمر",
+          "المغفرة لأهله فقط",
+          "الجنة",
+          "البركة في الزرع"
+        ],
+        "en": [
+          "A long life",
+          "Forgiveness for his family only",
+          "Paradise",
+          "Blessing in crops"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: والحج المبرور ليس له جزاء إلا الجنة.",
+        "en": "He ﷺ said an accepted hajj has no reward but Paradise."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — فرضه وفضله",
+          "en": "Hajj — Its obligation and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1773,
+            "quote": "والحج المبرور ليس له جزاء إلا الجنة"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-042",
+      "q": {
+        "ar": "من أي مكان يفيض الحجاج ثم يذكرون الله عند المشعر الحرام؟",
+        "en": "From which place do pilgrims press on, then remember Allah at al-Mash'ar al-Haram?"
+      },
+      "choices": {
+        "ar": [
+          "منى",
+          "عرفات",
+          "التنعيم",
+          "الجِعرانة"
+        ],
+        "en": [
+          "Mina",
+          "Arafat",
+          "Al-Tan'im",
+          "Al-Ji'rana"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى: ﴿فإذا أفضتم من عرفات فاذكروا الله عند المشعر الحرام﴾ (البقرة: ١٩٨)، والوقوف بعرفة ركن الحج.",
+        "en": "Allah says: \"when you press on from Arafat, remember Allah at al-Mash'ar al-Haram\" (2:198); standing at Arafa is hajj's pillar."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — فرضه وفضله",
+          "en": "Hajj — Its obligation and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 2,
+            "aya": 198,
+            "quote": "فإذا أفضتم من عرفات فاذكروا الله عند المشعر الحرام"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-043",
+      "q": {
+        "ar": "مَن الذي أمره الله أن يؤذّن في الناس بالحج؟",
+        "en": "Whom did Allah command to proclaim the pilgrimage to mankind?"
+      },
+      "choices": {
+        "ar": [
+          "إبراهيم عليه السلام",
+          "موسى عليه السلام",
+          "نوح عليه السلام",
+          "سليمان عليه السلام"
+        ],
+        "en": [
+          "Ibrahim",
+          "Musa",
+          "Nuh",
+          "Sulayman"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "بوّأ الله لإبراهيم مكان البيت وأمره: ﴿وأذن في الناس بالحج يأتوك رجالا﴾ (الحج: ٢٦–٢٧).",
+        "en": "Allah settled Ibrahim at the House and told him to proclaim the pilgrimage (22:26–27)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 22,
+        "aya": 26,
+        "to": 27,
+        "quote": "وأذن في الناس بالحج يأتوك رجالا"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-044",
+      "q": {
+        "ar": "مَن الملك الذي نزّل القرآن على قلب النبي ﷺ؟",
+        "en": "Which angel brought the Quran down to the heart of the Prophet ﷺ?"
+      },
+      "choices": {
+        "ar": [
+          "ميكائيل",
+          "إسرافيل",
+          "مالك",
+          "جبريل"
+        ],
+        "en": [
+          "Mika'il",
+          "Israfil",
+          "Malik",
+          "Jibril"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى عن جبريل: ﴿فإنه نزله على قلبك بإذن الله﴾ (البقرة: ٩٧)، والإيمان بالملائكة من أركان الإيمان.",
+        "en": "Allah says of Jibril that he brought it down upon your heart by Allah's leave (2:97)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 97,
+        "quote": "قل من كان عدوا لجبريل فإنه نزله على قلبك"
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-045",
+      "q": {
+        "ar": "أيّ كتاب آتاه الله داود عليه السلام؟",
+        "en": "Which scripture did Allah give to Dawud?"
+      },
+      "choices": {
+        "ar": [
+          "التوراة",
+          "الإنجيل",
+          "الصحف",
+          "الزبور"
+        ],
+        "en": [
+          "The Torah",
+          "The Injil",
+          "The Scrolls",
+          "The Zabur (Psalms)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: ﴿وآتينا داود زبورا﴾ (النساء: ١٦٣)، والإيمان بالكتب من أركان الإيمان.",
+        "en": "Allah says: \"and to Dawud We gave the Zabur\" (4:163); faith in the books is a pillar of faith."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 4,
+        "aya": 163,
+        "quote": "وآتينا داوود زبورا"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-046",
+      "q": {
+        "ar": "أيّ ركن من أركان الإيمان تدلّ عليه آية: ﴿إنا كل شيء خلقناه بقدر﴾؟",
+        "en": "Which pillar of faith does \"Indeed, We created everything by measure\" point to?"
+      },
+      "choices": {
+        "ar": [
+          "الإيمان بالملائكة",
+          "الإيمان بالكتب",
+          "الإيمان بالقدر",
+          "الإيمان باليوم الآخر"
+        ],
+        "en": [
+          "Faith in the angels",
+          "Faith in the books",
+          "Faith in the decree",
+          "Faith in the Last Day"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "الآية (القمر: ٤٩) تُبيّن أن كل شيء مخلوق بتقدير من الله، وهذا هو الإيمان بالقدر.",
+        "en": "The verse (54:49) shows all things are created by Allah's measure: faith in the decree."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 54,
+        "aya": 49,
+        "quote": "إنا كل شيء خلقناه بقدر"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-047",
+      "q": {
+        "ar": "كيف وصف الله الملائكة الموكّلين بالنار في سورة التحريم؟",
+        "en": "How does Allah describe the angels over the Fire in al-Tahrim?"
+      },
+      "choices": {
+        "ar": [
+          "يعصون أحيانًا ثم يتوبون",
+          "لا يعصون الله ما أمرهم ويفعلون ما يؤمرون",
+          "يأكلون ويشربون كالبشر",
+          "يختارون ما يفعلون بلا أمر"
+        ],
+        "en": [
+          "They sometimes disobey then repent",
+          "They never disobey Allah and do what they are commanded",
+          "They eat and drink like humans",
+          "They act by their own choice without command"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى: ﴿لا يعصون الله ما أمرهم ويفعلون ما يؤمرون﴾ (التحريم: ٦).",
+        "en": "Allah says they do not disobey Allah in what He commands and do as they are told (66:6)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 66,
+        "aya": 6,
+        "quote": "لا يعصون الله ما أمرهم ويفعلون ما يؤمرون"
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-048",
+      "q": {
+        "ar": "ماذا يقول المؤمنون في آية ﴿آمن الرسول﴾ عن رسل الله؟",
+        "en": "In the verse \"The Messenger has believed\", what do the believers say about Allah's messengers?"
+      },
+      "choices": {
+        "ar": [
+          "لا نفرّق بين أحد من رسله",
+          "نؤمن ببعضهم ونترك بعضًا",
+          "نؤمن بآخرهم فقط",
+          "نؤمن بمن نزل بلغتنا"
+        ],
+        "en": [
+          "We make no distinction between any of His messengers",
+          "We believe in some and leave others",
+          "We believe only in the last",
+          "We believe in those who came in our tongue"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "في البقرة (٢٨٥): يؤمن المؤمنون بالله وملائكته وكتبه ورسله ولا يفرّقون بين أحد من رسله.",
+        "en": "In 2:285 the believers believe in Allah, His angels, books and messengers, making no distinction among them."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 2,
+        "aya": 285,
+        "quote": "كل آمن بالله وملائكته وكتبه ورسله لا نفرق بين أحد من رسله"
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-049",
+      "q": {
+        "ar": "ما حكم من كفر بالله وملائكته وكتبه ورسله واليوم الآخر كما في سورة النساء؟",
+        "en": "What does al-Nisa say of one who disbelieves in Allah, His angels, books, messengers and the Last Day?"
+      },
+      "choices": {
+        "ar": [
+          "فقد ضلّ ضلالًا بعيدًا",
+          "يُعذر لجهله دائمًا",
+          "يكفيه العمل الصالح",
+          "لا شيء عليه"
+        ],
+        "en": [
+          "He has strayed far astray",
+          "He is always excused for ignorance",
+          "Good deeds alone suffice him",
+          "Nothing is held against him"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿ومن يكفر بالله وملائكته وكتبه ورسله واليوم الآخر فقد ضل ضلالا بعيدا﴾ (النساء: ١٣٦).",
+        "en": "Allah says such a person has strayed far astray (4:136)."
+      },
+      "source": {
+        "kind": "aya",
+        "sura": 4,
+        "aya": 136,
+        "quote": "ومن يكفر بالله وملائكته وكتبه ورسله واليوم الآخر فقد ضل ضلالا بعيدا"
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "pillars-050",
+      "q": {
+        "ar": "في حديث الأعرابي الذي سأل عن الصلوات الخمس: «هل عليّ غيرها؟» فبماذا أجاب النبي ﷺ؟",
+        "en": "In the hadith of the man who asked about the five prayers, \"Is anything else due from me?\" what did the Prophet ﷺ answer?"
+      },
+      "choices": {
+        "ar": [
+          "نعم، صلاتان أخريان",
+          "نعم، قيام الليل كله",
+          "نعم، صلاة الضحى",
+          "لا، إلا أن تطوّع"
+        ],
+        "en": [
+          "Yes, two more prayers",
+          "Yes, the whole night in prayer",
+          "Yes, the forenoon prayer",
+          "No, unless you do so voluntarily"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أجابه ﷺ: لا، إلا أن تطوّع؛ فالفرض خمس صلوات وما زاد نافلة.",
+        "en": "He ﷺ said: no, unless you volunteer; the obligation is five prayers and the rest is voluntary."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — فضل الصلاة ومنزلتها",
+          "en": "Prayer — Its rank and merit"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 46,
+            "quote": "فقال هل علي غيرها قال لا إلا أن تطوع"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    }
+  ]
+}

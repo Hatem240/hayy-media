@@ -1,0 +1,1745 @@
+{
+ "format": 1,
+ "door": "hifz",
+ "kind": "hifz",
+ "title": {
+  "ar": "احفظ وسمّع",
+  "en": "Memorize and Recite"
+ },
+ "line": {
+  "ar": "آيات تحفظها وتسمّعها، من مصحف التطبيق بالحرف",
+  "en": "Verses to learn by heart, word for word from the app's Mushaf"
+ },
+ "mark": "hifz",
+ "version": 1,
+ "count": 40,
+ "status": "ready",
+ "groups": [
+  {
+   "id": "famous",
+   "title": {
+    "ar": "آيات مشهورة",
+    "en": "Well-known verses"
+   }
+  },
+  {
+   "id": "short",
+   "title": {
+    "ar": "قصار السور",
+    "en": "Short suras"
+   }
+  },
+  {
+   "id": "endings",
+   "title": {
+    "ar": "خواتيم البقرة وآل عمران",
+    "en": "The endings of al-Baqarah and Al Imran"
+   }
+  },
+  {
+   "id": "duas",
+   "title": {
+    "ar": "أدعية من القرآن",
+    "en": "Supplications from the Quran"
+   }
+  }
+ ],
+ "passages": [
+  {
+   "id": "hifz-01",
+   "group": "famous",
+   "title": {
+    "ar": "سورة الفاتحة",
+    "en": "Surat al-Fatihah"
+   },
+   "sura": 1,
+   "from": 1,
+   "to": 7,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 7,
+     "words": 9,
+     "cuts": [
+      4
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-02",
+   "group": "famous",
+   "title": {
+    "ar": "آية الكرسي",
+    "en": "The Throne Verse"
+   },
+   "sura": 2,
+   "from": 255,
+   "to": 255,
+   "ayat": [
+    {
+     "aya": 255,
+     "words": 50,
+     "cuts": [
+      7,
+      12,
+      19,
+      26,
+      32,
+      40,
+      44,
+      47
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-03",
+   "group": "famous",
+   "title": {
+    "ar": "﴿لَقَدْ جَآءَكُمْ رَسُولٌ﴾",
+    "en": "\"There has come to you a Messenger\""
+   },
+   "sura": 9,
+   "from": 128,
+   "to": 129,
+   "ayat": [
+    {
+     "aya": 128,
+     "words": 14,
+     "cuts": [
+      5,
+      9
+     ]
+    },
+    {
+     "aya": 129,
+     "words": 15,
+     "cuts": [
+      5,
+      9,
+      11
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-04",
+   "group": "famous",
+   "title": {
+    "ar": "آخر سورة الحشر",
+    "en": "The end of Surat al-Hashr"
+   },
+   "sura": 59,
+   "from": 22,
+   "to": 24,
+   "ayat": [
+    {
+     "aya": 22,
+     "words": 13,
+     "cuts": [
+      7,
+      10
+     ]
+    },
+    {
+     "aya": 23,
+     "words": 19,
+     "cuts": [
+      7,
+      10,
+      15
+     ]
+    },
+    {
+     "aya": 24,
+     "words": 17,
+     "cuts": [
+      5,
+      8,
+      14
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-05",
+   "group": "famous",
+   "title": {
+    "ar": "آية النور",
+    "en": "The Verse of Light"
+   },
+   "sura": 24,
+   "from": 35,
+   "to": 35,
+   "ayat": [
+    {
+     "aya": 35,
+     "words": 48,
+     "cuts": [
+      4,
+      9,
+      12,
+      16,
+      25,
+      32,
+      35,
+      40,
+      44
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-06",
+   "group": "famous",
+   "title": {
+    "ar": "﴿قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ﴾",
+    "en": "\"Say: O Allah, Owner of Sovereignty\""
+   },
+   "sura": 3,
+   "from": 26,
+   "to": 27,
+   "ayat": [
+    {
+     "aya": 26,
+     "words": 25,
+     "cuts": [
+      4,
+      8,
+      12,
+      15,
+      18,
+      20
+     ]
+    },
+    {
+     "aya": 27,
+     "words": 21,
+     "cuts": [
+      4,
+      8,
+      12,
+      16
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-07",
+   "group": "famous",
+   "title": {
+    "ar": "﴿إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ﴾",
+    "en": "\"Allah and His angels send blessings\""
+   },
+   "sura": 33,
+   "from": 56,
+   "to": 56,
+   "ayat": [
+    {
+     "aya": 56,
+     "words": 13,
+     "cuts": [
+      6
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-08",
+   "group": "famous",
+   "title": {
+    "ar": "﴿وَمَن يَتَّقِ ٱللَّهَ﴾",
+    "en": "\"Whoever fears Allah\""
+   },
+   "sura": 65,
+   "from": 2,
+   "to": 3,
+   "ayat": [
+    {
+     "aya": 2,
+     "words": 30,
+     "cuts": [
+      8,
+      15,
+      24
+     ]
+    },
+    {
+     "aya": 3,
+     "words": 21,
+     "cuts": [
+      5,
+      11,
+      15
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-09",
+   "group": "famous",
+   "title": {
+    "ar": "﴿قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا﴾",
+    "en": "\"Say: O My servants who have transgressed\""
+   },
+   "sura": 39,
+   "from": 53,
+   "to": 53,
+   "ayat": [
+    {
+     "aya": 53,
+     "words": 20,
+     "cuts": [
+      6,
+      11,
+      16
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-10",
+   "group": "famous",
+   "title": {
+    "ar": "﴿وَإِذَا سَأَلَكَ عِبَادِى عَنِّى﴾",
+    "en": "\"When My servants ask you about Me\""
+   },
+   "sura": 2,
+   "from": 186,
+   "to": 186,
+   "ayat": [
+    {
+     "aya": 186,
+     "words": 17,
+     "cuts": [
+      6,
+      11
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-11",
+   "group": "famous",
+   "title": {
+    "ar": "﴿شَهِدَ ٱللَّهُ﴾",
+    "en": "\"Allah bears witness\""
+   },
+   "sura": 3,
+   "from": 18,
+   "to": 18,
+   "ayat": [
+    {
+     "aya": 18,
+     "words": 18,
+     "cuts": [
+      7,
+      12
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-12",
+   "group": "short",
+   "title": {
+    "ar": "سورة الناس",
+    "en": "Surat an-Nas"
+   },
+   "sura": 114,
+   "from": 1,
+   "to": 6,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 3,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-13",
+   "group": "short",
+   "title": {
+    "ar": "سورة الفلق",
+    "en": "Surat al-Falaq"
+   },
+   "sura": 113,
+   "from": 1,
+   "to": 5,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 5,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-14",
+   "group": "short",
+   "title": {
+    "ar": "سورة الإخلاص",
+    "en": "Surat al-Ikhlas"
+   },
+   "sura": 112,
+   "from": 1,
+   "to": 4,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 5,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-15",
+   "group": "short",
+   "title": {
+    "ar": "سورة المسد",
+    "en": "Surat al-Masad"
+   },
+   "sura": 111,
+   "from": 1,
+   "to": 5,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 6,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 5,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-16",
+   "group": "short",
+   "title": {
+    "ar": "سورة النصر",
+    "en": "Surat an-Nasr"
+   },
+   "sura": 110,
+   "from": 1,
+   "to": 3,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 7,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 7,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-17",
+   "group": "short",
+   "title": {
+    "ar": "سورة الكافرون",
+    "en": "Surat al-Kafirun"
+   },
+   "sura": 109,
+   "from": 1,
+   "to": 6,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 4,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-18",
+   "group": "short",
+   "title": {
+    "ar": "سورة الكوثر",
+    "en": "Surat al-Kawthar"
+   },
+   "sura": 108,
+   "from": 1,
+   "to": 3,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-19",
+   "group": "short",
+   "title": {
+    "ar": "سورة الماعون",
+    "en": "Surat al-Maun"
+   },
+   "sura": 107,
+   "from": 1,
+   "to": 7,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 7,
+     "words": 2,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-20",
+   "group": "short",
+   "title": {
+    "ar": "سورة قريش",
+    "en": "Surat Quraysh"
+   },
+   "sura": 106,
+   "from": 1,
+   "to": 4,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 7,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-21",
+   "group": "short",
+   "title": {
+    "ar": "سورة الفيل",
+    "en": "Surat al-Fil"
+   },
+   "sura": 105,
+   "from": 1,
+   "to": 5,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 7,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 3,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-22",
+   "group": "short",
+   "title": {
+    "ar": "سورة الهمزة",
+    "en": "Surat al-Humazah"
+   },
+   "sura": 104,
+   "from": 1,
+   "to": 9,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 7,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 8,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 9,
+     "words": 3,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-23",
+   "group": "short",
+   "title": {
+    "ar": "سورة العصر",
+    "en": "Surat al-Asr"
+   },
+   "sura": 103,
+   "from": 1,
+   "to": 3,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 1,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 9,
+     "cuts": [
+      5
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-24",
+   "group": "short",
+   "title": {
+    "ar": "سورة التكاثر",
+    "en": "Surat at-Takathur"
+   },
+   "sura": 102,
+   "from": 1,
+   "to": 8,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 7,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 8,
+     "words": 5,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-25",
+   "group": "short",
+   "title": {
+    "ar": "سورة القارعة",
+    "en": "Surat al-Qariah"
+   },
+   "sura": 101,
+   "from": 1,
+   "to": 11,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 1,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 7,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 8,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 9,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 10,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 11,
+     "words": 2,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-26",
+   "group": "short",
+   "title": {
+    "ar": "سورة العاديات",
+    "en": "Surat al-Adiyat"
+   },
+   "sura": 100,
+   "from": 1,
+   "to": 11,
+   "ayat": [
+    {
+     "aya": 1,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 2,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 3,
+     "words": 2,
+     "cuts": []
+    },
+    {
+     "aya": 4,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 5,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 6,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 7,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 8,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 9,
+     "words": 7,
+     "cuts": []
+    },
+    {
+     "aya": 10,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 11,
+     "words": 5,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-27",
+   "group": "endings",
+   "title": {
+    "ar": "آخر سورة البقرة",
+    "en": "The end of Surat al-Baqarah"
+   },
+   "sura": 2,
+   "from": 285,
+   "to": 286,
+   "ayat": [
+    {
+     "aya": 285,
+     "words": 27,
+     "cuts": [
+      8,
+      14,
+      20,
+      23
+     ]
+    },
+    {
+     "aya": 286,
+     "words": 49,
+     "cuts": [
+      6,
+      12,
+      19,
+      24,
+      30,
+      38,
+      43
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-28",
+   "group": "endings",
+   "title": {
+    "ar": "آخر سورة آل عمران (١)",
+    "en": "The end of Surat Al Imran (1)"
+   },
+   "sura": 3,
+   "from": 190,
+   "to": 194,
+   "ayat": [
+    {
+     "aya": 190,
+     "words": 11,
+     "cuts": [
+      5
+     ]
+    },
+    {
+     "aya": 191,
+     "words": 21,
+     "cuts": [
+      7,
+      12,
+      17
+     ]
+    },
+    {
+     "aya": 192,
+     "words": 11,
+     "cuts": [
+      7
+     ]
+    },
+    {
+     "aya": 193,
+     "words": 20,
+     "cuts": [
+      5,
+      10,
+      14
+     ]
+    },
+    {
+     "aya": 194,
+     "words": 14,
+     "cuts": [
+      6,
+      10
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-29",
+   "group": "endings",
+   "title": {
+    "ar": "آخر سورة آل عمران (٢)",
+    "en": "The end of Surat Al Imran (2)"
+   },
+   "sura": 3,
+   "from": 195,
+   "to": 195,
+   "ayat": [
+    {
+     "aya": 195,
+     "words": 43,
+     "cuts": [
+      3,
+      9,
+      13,
+      16,
+      21,
+      26,
+      29,
+      35,
+      39
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-30",
+   "group": "endings",
+   "title": {
+    "ar": "آخر سورة آل عمران (٣)",
+    "en": "The end of Surat Al Imran (3)"
+   },
+   "sura": 3,
+   "from": 196,
+   "to": 200,
+   "ayat": [
+    {
+     "aya": 196,
+     "words": 7,
+     "cuts": []
+    },
+    {
+     "aya": 197,
+     "words": 7,
+     "cuts": []
+    },
+    {
+     "aya": 198,
+     "words": 21,
+     "cuts": [
+      4,
+      10,
+      16
+     ]
+    },
+    {
+     "aya": 199,
+     "words": 30,
+     "cuts": [
+      7,
+      13,
+      21,
+      26
+     ]
+    },
+    {
+     "aya": 200,
+     "words": 10,
+     "cuts": [
+      6
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-31",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبَّنَا تَقَبَّلْ مِنَّآ﴾",
+    "en": "\"Our Lord, accept from us\""
+   },
+   "sura": 2,
+   "from": 127,
+   "to": 128,
+   "ayat": [
+    {
+     "aya": 127,
+     "words": 14,
+     "cuts": [
+      7
+     ]
+    },
+    {
+     "aya": 128,
+     "words": 17,
+     "cuts": [
+      4,
+      9,
+      13
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-32",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةً﴾",
+    "en": "\"Our Lord, give us good in this world\""
+   },
+   "sura": 2,
+   "from": 201,
+   "to": 201,
+   "ayat": [
+    {
+     "aya": 201,
+     "words": 14,
+     "cuts": [
+      3,
+      8,
+      11
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-33",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبَّنَا لَا تُزِغْ قُلُوبَنَا﴾",
+    "en": "\"Our Lord, let not our hearts deviate\""
+   },
+   "sura": 3,
+   "from": 8,
+   "to": 8,
+   "ayat": [
+    {
+     "aya": 8,
+     "words": 15,
+     "cuts": [
+      7,
+      12
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-34",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبَّنَا ظَلَمْنَآ أَنفُسَنَا﴾",
+    "en": "\"Our Lord, we have wronged ourselves\""
+   },
+   "sura": 7,
+   "from": 23,
+   "to": 23,
+   "ayat": [
+    {
+     "aya": 23,
+     "words": 12,
+     "cuts": [
+      4,
+      9
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-35",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ﴾",
+    "en": "\"My Lord, make me an establisher of prayer\""
+   },
+   "sura": 14,
+   "from": 40,
+   "to": 41,
+   "ayat": [
+    {
+     "aya": 40,
+     "words": 9,
+     "cuts": [
+      6
+     ]
+    },
+    {
+     "aya": 41,
+     "words": 8,
+     "cuts": [
+      5
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-36",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبِّ ٱشْرَحْ لِى صَدْرِى﴾",
+    "en": "\"My Lord, expand for me my chest\""
+   },
+   "sura": 20,
+   "from": 25,
+   "to": 28,
+   "ayat": [
+    {
+     "aya": 25,
+     "words": 5,
+     "cuts": []
+    },
+    {
+     "aya": 26,
+     "words": 3,
+     "cuts": []
+    },
+    {
+     "aya": 27,
+     "words": 4,
+     "cuts": []
+    },
+    {
+     "aya": 28,
+     "words": 2,
+     "cuts": []
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-37",
+   "group": "duas",
+   "title": {
+    "ar": "﴿لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ﴾",
+    "en": "\"There is no god but You, glory be to You\""
+   },
+   "sura": 21,
+   "from": 87,
+   "to": 87,
+   "ayat": [
+    {
+     "aya": 87,
+     "words": 23,
+     "cuts": [
+      5,
+      10,
+      18
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-38",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَّبِّ ٱغْفِرْ وَٱرْحَمْ﴾",
+    "en": "\"My Lord, forgive and have mercy\""
+   },
+   "sura": 23,
+   "from": 118,
+   "to": 118,
+   "ayat": [
+    {
+     "aya": 118,
+     "words": 7,
+     "cuts": [
+      4
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-39",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا﴾",
+    "en": "\"Our Lord, grant us from our spouses\""
+   },
+   "sura": 25,
+   "from": 74,
+   "to": 74,
+   "ayat": [
+    {
+     "aya": 74,
+     "words": 13,
+     "cuts": [
+      2,
+      8,
+      10
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  },
+  {
+   "id": "hifz-40",
+   "group": "duas",
+   "title": {
+    "ar": "﴿رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا﴾",
+    "en": "\"Our Lord, forgive us and our brothers\""
+   },
+   "sura": 59,
+   "from": 10,
+   "to": 10,
+   "ayat": [
+    {
+     "aya": 10,
+     "words": 23,
+     "cuts": [
+      5,
+      12,
+      19
+     ]
+    }
+   ],
+   "review": {
+    "state": "draft"
+   },
+   "translations": {
+    "en": {
+     "state": "draft"
+    }
+   }
+  }
+ ]
+}

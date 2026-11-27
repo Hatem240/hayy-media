@@ -1,0 +1,2628 @@
+{
+  "format": 1,
+  "door": "fiqh",
+  "title": {
+    "ar": "الفقه الميسّر",
+    "en": "Fiqh Made Easy"
+  },
+  "line": {
+    "ar": "الطهارة والصلاة والجمعة والعيدان والجنائز والصيام والحج والآداب",
+    "en": "Purity, prayer, Friday, the Eids, funerals, fasting, hajj and manners"
+  },
+  "mark": "scales",
+  "version": 1,
+  "count": 50,
+  "status": "ready",
+  "sources": {
+    "ar": "«الفقه الميسّر في ضوء الكتاب والسنة» (مجمع الملك فهد، ١٤٢٤هـ) ودار الإفتاء المصرية، مع دليل كل سؤال من القرآن أو صحيحي البخاري ومسلم. لا سؤال تختلف إجابته بين المذاهب.",
+    "en": "\"Al-Fiqh al-Muyassar in the Light of the Quran and Sunna\" (King Fahd Complex, 1424 AH) and Dar al-Ifta of Egypt, each question with its evidence from the Quran or Sahih al-Bukhari and Muslim. No question whose answer differs between the schools."
+  },
+  "questions": [
+    {
+      "id": "fiqh-001",
+      "q": {
+        "ar": "ما أول عضو أمر الله بغسله في آية الوضوء؟",
+        "en": "Which part does the verse of wudu command to be washed first?"
+      },
+      "choices": {
+        "ar": [
+          "الوجه",
+          "اليدان",
+          "الرجلان",
+          "الرأس"
+        ],
+        "en": [
+          "The face",
+          "The hands",
+          "The feet",
+          "The head"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿إذا قمتم إلى الصلاة فاغسلوا وجوهكم﴾ (المائدة: ٦).",
+        "en": "Allah says: \"when you rise to pray, wash your faces\" (5:6)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الوضوء",
+          "en": "Purification — Wudu"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 6,
+            "quote": "إذا قمتم إلى الصلاة فاغسلوا وجوهكم"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-002",
+      "q": {
+        "ar": "إلى أين تُغسل اليدان في الوضوء؟",
+        "en": "Up to where are the arms washed in wudu?"
+      },
+      "choices": {
+        "ar": [
+          "إلى الرسغين",
+          "إلى الكتفين",
+          "أطراف الأصابع فقط",
+          "إلى المرفقين"
+        ],
+        "en": [
+          "To the wrists",
+          "To the shoulders",
+          "Fingertips only",
+          "To the elbows"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: ﴿وأيديكم إلى المرافق﴾ (المائدة: ٦).",
+        "en": "Allah says: \"and your arms to the elbows\" (5:6)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الوضوء",
+          "en": "Purification — Wudu"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 6,
+            "quote": "وأيديكم إلى المرافق"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-003",
+      "q": {
+        "ar": "ما الذي أمرت الآية بمسحه لا بغسله في الوضوء؟",
+        "en": "Which part does the verse command to be wiped, not washed, in wudu?"
+      },
+      "choices": {
+        "ar": [
+          "الوجه",
+          "اليدان",
+          "الرأس",
+          "الرقبة"
+        ],
+        "en": [
+          "The face",
+          "The arms",
+          "The head",
+          "The neck"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿وامسحوا برءوسكم﴾ (المائدة: ٦).",
+        "en": "Allah says: \"and wipe over your heads\" (5:6)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الوضوء",
+          "en": "Purification — Wudu"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 6,
+            "quote": "وامسحوا برءوسكم"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-004",
+      "q": {
+        "ar": "ما حكم صلاة من أحدث حتى يتوضأ؟",
+        "en": "What of the prayer of one who has broken his wudu, until he makes wudu again?"
+      },
+      "choices": {
+        "ar": [
+          "تُقبل إن كان مستعجلًا",
+          "لا يقبلها الله",
+          "تُقبل في السفر",
+          "تُقبل إن كانت نافلة"
+        ],
+        "en": [
+          "It is accepted if he is in a hurry",
+          "Allah does not accept it",
+          "It is accepted on a journey",
+          "It is accepted if voluntary"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: لا يقبل الله صلاة أحدكم إذا أحدث حتى يتوضأ.",
+        "en": "He ﷺ said Allah does not accept the prayer of one who has broken wudu until he makes wudu."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الوضوء",
+          "en": "Purification — Wudu"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 6954,
+            "quote": "لا يقبل الله صلاة أحدكم إذا أحدث حتى يتوضأ"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-005",
+      "q": {
+        "ar": "أيٌّ مما يلي ذكرته آية الوضوء من أسباب وجوب الطهارة؟",
+        "en": "Which of these does the verse of wudu name as a cause for needing purification?"
+      },
+      "choices": {
+        "ar": [
+          "الأكل والشرب",
+          "المجيء من الغائط (قضاء الحاجة)",
+          "لبس الثوب الجديد",
+          "قراءة الكتب"
+        ],
+        "en": [
+          "Eating and drinking",
+          "Coming from relieving oneself",
+          "Wearing new clothes",
+          "Reading books"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "ذكرت الآية: ﴿أو جاء أحد منكم من الغائط﴾، وقضاء الحاجة ينقض الوضوء باتفاق.",
+        "en": "The verse names \"or one of you comes from relieving himself\" (5:6); this breaks wudu by agreement."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب نواقض الوضوء",
+          "en": "Purification — What breaks wudu"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 6,
+            "quote": "أو جاء أحد منكم من الغائط"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-006",
+      "q": {
+        "ar": "على أيّ شيء كان النبي ﷺ يمسح في الوضوء بدل غسل القدمين إذا لبسه؟",
+        "en": "What did the Prophet ﷺ wipe over in wudu instead of washing his feet, when wearing it?"
+      },
+      "choices": {
+        "ar": [
+          "الخفّين",
+          "العمامة وحدها",
+          "الثوب",
+          "النعلين المكشوفين"
+        ],
+        "en": [
+          "Leather socks (khuffs)",
+          "The turban alone",
+          "The garment",
+          "Open sandals"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "روى عمرو بن أمية أنه رأى النبي ﷺ يمسح على الخفين، رواه البخاري.",
+        "en": "Amr ibn Umayya saw the Prophet ﷺ wipe over his khuffs (al-Bukhari)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب المسح على الخفين",
+          "en": "Purification — Wiping over leather socks"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 204,
+            "quote": "رأى النبي صلى الله عليه وسلم يمسح على الخفين"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-007",
+      "q": {
+        "ar": "ماذا يجب على الجُنُب ليصلي؟",
+        "en": "What must one in a state of major impurity (janaba) do before praying?"
+      },
+      "choices": {
+        "ar": [
+          "أن يغسل يديه فقط",
+          "أن يغيّر ثوبه",
+          "أن يتصدق",
+          "أن يغتسل"
+        ],
+        "en": [
+          "Wash only his hands",
+          "Change his clothes",
+          "Give charity",
+          "Take a full bath (ghusl)"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: ﴿وإن كنتم جنبا فاطهروا﴾ (المائدة: ٦)، أي اغتسلوا.",
+        "en": "Allah says: \"and if you are in a state of janaba, purify yourselves\" (5:6), that is, bathe."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الغسل",
+          "en": "Purification — Ghusl"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 6,
+            "quote": "وإن كنتم جنبا فاطهروا"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-008",
+      "q": {
+        "ar": "نهت آية النساء عن قرب الصلاة في حالين: الجنابة، وماذا أيضًا؟",
+        "en": "Al-Nisa forbids approaching prayer in two states: janaba, and what else?"
+      },
+      "choices": {
+        "ar": [
+          "الجوع",
+          "التعب",
+          "السُّكر حتى يعلم ما يقول",
+          "الحزن"
+        ],
+        "en": [
+          "Hunger",
+          "Tiredness",
+          "Intoxication, until one knows what he says",
+          "Sadness"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿لا تقربوا الصلاة وأنتم سكارى حتى تعلموا ما تقولون ولا جنبا… حتى تغتسلوا﴾ (النساء: ٤٣).",
+        "en": "Allah forbids approaching prayer while intoxicated, or in janaba until you bathe (4:43)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الغسل",
+          "en": "Purification — Ghusl"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 4,
+            "aya": 43,
+            "quote": "لا تقربوا الصلاة وأنتم سكارى حتى تعلموا ما تقولون"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-009",
+      "q": {
+        "ar": "ما حكم صلاة الحائض وصيامها في أيام حيضها؟",
+        "en": "May a menstruating woman pray and fast during her period?"
+      },
+      "choices": {
+        "ar": [
+          "تصلي ولا تصوم",
+          "تصوم ولا تصلي",
+          "لا تصلي ولا تصوم",
+          "تصلي وتصوم"
+        ],
+        "en": [
+          "She prays but does not fast",
+          "She fasts but does not pray",
+          "She neither prays nor fasts",
+          "She prays and fasts"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: أليس إذا حاضت لم تصلِّ ولم تصم؟",
+        "en": "He ﷺ said: is it not so that when she menstruates she neither prays nor fasts?"
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الحيض والنفاس",
+          "en": "Purification — Menstruation"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 304,
+            "quote": "أليس إذا حاضت لم تصل ولم تصم"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-010",
+      "q": {
+        "ar": "ماذا تقضي الحائض بعد طهرها؟",
+        "en": "What does a woman make up after her period ends?"
+      },
+      "choices": {
+        "ar": [
+          "الصلاة دون الصوم",
+          "الصوم دون الصلاة",
+          "الصلاة والصوم معًا",
+          "لا تقضي شيئًا"
+        ],
+        "en": [
+          "The prayers, not the fasts",
+          "The fasts, not the prayers",
+          "Both",
+          "Nothing"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قالت عائشة رضي الله عنها: كنا نُؤمر بقضاء الصوم ولا نُؤمر بقضاء الصلاة، رواه مسلم.",
+        "en": "Aisha said they were told to make up the fasts but not the prayers (Muslim)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب الحيض والنفاس",
+          "en": "Purification — Menstruation"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "muslim",
+            "number": 335,
+            "quote": "فنؤمر بقضاء الصوم ولا نؤمر بقضاء الصلاة"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-011",
+      "q": {
+        "ar": "بماذا يتيمم من لم يجد الماء؟",
+        "en": "With what does one perform tayammum when there is no water?"
+      },
+      "choices": {
+        "ar": [
+          "بالصعيد الطيب (التراب الطاهر)",
+          "بالرمل المبلول فقط",
+          "بالثلج",
+          "بالعطر"
+        ],
+        "en": [
+          "Clean earth",
+          "Only wet sand",
+          "Snow",
+          "Perfume"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿فلم تجدوا ماء فتيمموا صعيدا طيبا﴾ (المائدة: ٦).",
+        "en": "Allah says: \"and you find no water, then seek clean earth\" (5:6)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب التيمم",
+          "en": "Purification — Tayammum"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 6,
+            "quote": "فلم تجدوا ماء فتيمموا صعيدا طيبا"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-012",
+      "q": {
+        "ar": "أجنب عمار بن ياسر في سفر ولم يجد الماء، فبماذا علّمه النبي ﷺ؟",
+        "en": "Ammar ibn Yasir was in janaba on a journey with no water. What did the Prophet ﷺ teach him?"
+      },
+      "choices": {
+        "ar": [
+          "أن يترك الصلاة حتى يجد الماء",
+          "أن يصلي بلا طهارة",
+          "أن يغتسل بالرمل كله",
+          "أن التيمم يكفيه"
+        ],
+        "en": [
+          "To leave prayer until he finds water",
+          "To pray without purity",
+          "To bathe his whole body in sand",
+          "That tayammum suffices him"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "تمرّغ عمار في التراب، فقال له النبي ﷺ: إنما كان يكفيك هكذا، وعلّمه التيمم.",
+        "en": "Ammar rolled in the dust; the Prophet ﷺ said this much would have sufficed, and showed him tayammum."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب التيمم",
+          "en": "Purification — Tayammum"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 338,
+            "quote": "إني أجنبت فلم أصب الماء"
+          },
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 338,
+            "quote": "إنما كان يكفيك هكذا"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-013",
+      "q": {
+        "ar": "أيٌّ مما يلي من خصال الفطرة الخمس؟",
+        "en": "Which of these is one of the five ways of the fitra?"
+      },
+      "choices": {
+        "ar": [
+          "إطالة الأظفار",
+          "صبغ الشعر بالسواد",
+          "حلق الحاجبين",
+          "تقليم الأظفار"
+        ],
+        "en": [
+          "Growing the nails long",
+          "Dyeing hair black",
+          "Shaving the eyebrows",
+          "Clipping the nails"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال ﷺ: الفطرة خمس: الختان والاستحداد وقص الشارب وتقليم الأظفار ونتف الآباط.",
+        "en": "He ﷺ named five: circumcision, shaving the pubic hair, trimming the moustache, clipping nails, plucking the armpits."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب سنن الفطرة",
+          "en": "Purification — The ways of the fitra"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 5891,
+            "quote": "الفطرة خمس الختان والاستحداد وقص الشارب وتقليم الأظفار ونتف الآباط"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-014",
+      "q": {
+        "ar": "ماذا كان النبي ﷺ سيأمر به أمته لولا خشية المشقة عليهم؟",
+        "en": "What would the Prophet ﷺ have commanded his nation, were it not for fear of hardship?"
+      },
+      "choices": {
+        "ar": [
+          "صيام الدهر",
+          "قيام الليل كله",
+          "السواك",
+          "الحج كل عام"
+        ],
+        "en": [
+          "Fasting every day",
+          "Praying all night",
+          "The tooth-stick (siwak)",
+          "Hajj every year"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: لولا أن أشق على أمتي لأمرتهم بالسواك، فهو سنة مؤكدة.",
+        "en": "He ﷺ said that, but for hardship, he would have commanded the siwak; it is a stressed sunna."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب سنن الفطرة",
+          "en": "Purification — The ways of the fitra"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 7240,
+            "quote": "لولا أن أشق على أمتي لأمرتهم بالسواك"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-015",
+      "q": {
+        "ar": "ماذا كان النبي ﷺ يقول إذا دخل الخلاء؟",
+        "en": "What did the Prophet ﷺ say on entering the toilet?"
+      },
+      "choices": {
+        "ar": [
+          "بسم الله الرحمن الرحيم فقط",
+          "اللهم إني أعوذ بك من الخبث والخبائث",
+          "سبحان الله وبحمده",
+          "الحمد لله الذي أطعمني"
+        ],
+        "en": [
+          "Only the basmala",
+          "\"O Allah, I seek refuge in You from evil and evil ones\"",
+          "\"Glory and praise be to Allah\"",
+          "\"Praise be to Allah who fed me\""
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "كان ﷺ إذا دخل الخلاء قال: اللهم إني أعوذ بك من الخبث والخبائث.",
+        "en": "On entering the toilet he ﷺ would seek refuge in Allah from evil and evil ones."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الطهارة — باب آداب قضاء الحاجة",
+          "en": "Purification — Manners of relieving oneself"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 142,
+            "quote": "إذا دخل الخلاء قال اللهم إني أعوذ بك من الخبث والخبائث"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-016",
+      "q": {
+        "ar": "كم ركعة صلى النبي ﷺ الظهر في المدينة؟",
+        "en": "How many rak'as did the Prophet ﷺ pray for Dhuhr in Madina?"
+      },
+      "choices": {
+        "ar": [
+          "أربع ركعات",
+          "ركعتين",
+          "ثلاث ركعات",
+          "ست ركعات"
+        ],
+        "en": [
+          "Four",
+          "Two",
+          "Three",
+          "Six"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "روى أنس رضي الله عنه أن النبي ﷺ صلى الظهر بالمدينة أربعًا.",
+        "en": "Anas reports the Prophet ﷺ prayed Dhuhr in Madina as four (al-Bukhari)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صفة الصلاة",
+          "en": "Prayer — How it is prayed"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1547,
+            "quote": "صلى الظهر بالمدينة أربعا"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-017",
+      "q": {
+        "ar": "صلى النبي ﷺ العصر بذي الحليفة وهو مسافر إلى الحج، فكم ركعة صلاها؟",
+        "en": "The Prophet ﷺ prayed Asr at Dhu al-Hulayfa while travelling to hajj. How many rak'as?"
+      },
+      "choices": {
+        "ar": [
+          "ركعتين",
+          "أربعًا",
+          "ثلاثًا",
+          "ركعة واحدة"
+        ],
+        "en": [
+          "Two",
+          "Four",
+          "Three",
+          "One"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "صلى الظهر في المدينة أربعًا، ثم العصر بذي الحليفة ركعتين قصرًا في السفر.",
+        "en": "He prayed Dhuhr in Madina as four, then Asr at Dhu al-Hulayfa as two, shortened on the journey."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة أهل الأعذار",
+          "en": "Prayer — Prayer of those with excuses"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1547,
+            "quote": "وصلى العصر بذي الحليفة ركعتين"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-018",
+      "q": {
+        "ar": "كم ركعة صلى النبي ﷺ المغرب بمزدلفة وهو في سفر الحج؟",
+        "en": "How many rak'as of Maghrib did the Prophet ﷺ pray at Muzdalifa while on the hajj journey?"
+      },
+      "choices": {
+        "ar": [
+          "ركعتين",
+          "أربعًا",
+          "ركعة واحدة",
+          "ثلاثًا"
+        ],
+        "en": [
+          "Two",
+          "Four",
+          "One",
+          "Three"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "جمع ﷺ بين المغرب والعشاء بجمع (مزدلفة)، فصلى المغرب ثلاثًا؛ فالمغرب لا تُقصر.",
+        "en": "He ﷺ joined Maghrib and Isha at Muzdalifa, praying Maghrib as three: Maghrib is not shortened."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة أهل الأعذار",
+          "en": "Prayer — Prayer of those with excuses"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "muslim",
+            "number": 1288,
+            "quote": "صلى المغرب ثلاثا والعشاء ركعتين"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-019",
+      "q": {
+        "ar": "ماذا ذكرت آية النساء (١٠١) للمسافرين في الصلاة؟",
+        "en": "What does 4:101 mention for travellers in prayer?"
+      },
+      "choices": {
+        "ar": [
+          "ترك الصلاة",
+          "الصلاة بلا وضوء",
+          "القصر من الصلاة",
+          "تأخيرها إلى العودة"
+        ],
+        "en": [
+          "Leaving the prayer",
+          "Praying without wudu",
+          "Shortening the prayer",
+          "Delaying it until return"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿وإذا ضربتم في الأرض فليس عليكم جناح أن تقصروا من الصلاة﴾.",
+        "en": "Allah says when you travel in the land there is no blame on you for shortening the prayer (4:101)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة أهل الأعذار",
+          "en": "Prayer — Prayer of those with excuses"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 4,
+            "aya": 101,
+            "quote": "وإذا ضربتم في الأرض فليس عليكم جناح أن تقصروا من الصلاة"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-020",
+      "q": {
+        "ar": "إلى أي جهة يتوجه المصلي في صلاته؟",
+        "en": "Which direction does one face in prayer?"
+      },
+      "choices": {
+        "ar": [
+          "بيت المقدس",
+          "المسجد الحرام (الكعبة)",
+          "جهة الشرق دائمًا",
+          "أي جهة يشاء"
+        ],
+        "en": [
+          "Jerusalem",
+          "The Sacred Mosque (the Kaaba)",
+          "Always east",
+          "Any direction he likes"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى: ﴿فول وجهك شطر المسجد الحرام﴾ (البقرة: ١٤٤)، واستقبال القبلة شرط للصلاة.",
+        "en": "Allah says: \"turn your face toward the Sacred Mosque\" (2:144); facing the qibla is a condition of prayer."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب شروط الصلاة",
+          "en": "Prayer — Its conditions"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 2,
+            "aya": 144,
+            "quote": "فول وجهك شطر المسجد الحرام"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-021",
+      "q": {
+        "ar": "ماذا أمر الله بني آدم أن يأخذوا عند كل مسجد؟",
+        "en": "What did Allah command the children of Adam to take at every place of prayer?"
+      },
+      "choices": {
+        "ar": [
+          "طعامهم",
+          "زينتهم (ستر العورة باللباس)",
+          "أموالهم",
+          "سلاحهم"
+        ],
+        "en": [
+          "Their food",
+          "Their adornment (proper clothing)",
+          "Their money",
+          "Their weapons"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال تعالى: ﴿يا بني آدم خذوا زينتكم عند كل مسجد﴾ (الأعراف: ٣١)، وستر العورة شرط للصلاة.",
+        "en": "Allah says: \"take your adornment at every place of prayer\" (7:31); covering is a condition of prayer."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب شروط الصلاة",
+          "en": "Prayer — Its conditions"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 7,
+            "aya": 31,
+            "quote": "يا بني آدم خذوا زينتكم عند كل مسجد"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-022",
+      "q": {
+        "ar": "كيف يصلي المريض الذي لا يستطيع القيام؟",
+        "en": "How does a sick person pray who cannot stand?"
+      },
+      "choices": {
+        "ar": [
+          "قاعدًا، فإن لم يستطع فعلى جنب",
+          "يترك الصلاة حتى يُشفى",
+          "يؤخرها إلى آخر الشهر",
+          "يصلي عنه غيره"
+        ],
+        "en": [
+          "Sitting, and if unable, on his side",
+          "He leaves prayer until he heals",
+          "He delays it to month's end",
+          "Someone else prays for him"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال ﷺ لعمران بن حصين: صلِّ قائمًا، فإن لم تستطع فقاعدًا، فإن لم تستطع فعلى جنب.",
+        "en": "He ﷺ told Imran: pray standing; if unable, sitting; if unable, on your side."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة أهل الأعذار",
+          "en": "Prayer — Prayer of those with excuses"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1117,
+            "quote": "صل قائما فإن لم تستطع فقاعدا فإن لم تستطع فعلى جنب"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-023",
+      "q": {
+        "ar": "ماذا يفعل من نسي صلاة حتى خرج وقتها؟",
+        "en": "What should one do who forgot a prayer until its time passed?"
+      },
+      "choices": {
+        "ar": [
+          "تسقط عنه",
+          "يصليها في اليوم التالي في وقتها",
+          "يتصدق بدلًا منها",
+          "يصليها إذا ذكرها"
+        ],
+        "en": [
+          "It is dropped",
+          "Pray it the next day at its time",
+          "Give charity instead",
+          "Pray it when he remembers"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال ﷺ: من نسي صلاة فليصلِّ إذا ذكرها، لا كفارة لها إلا ذلك.",
+        "en": "He ﷺ said whoever forgets a prayer should pray it when he remembers; there is no other expiation."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صفة الصلاة",
+          "en": "Prayer — How it is prayed"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 597,
+            "quote": "من نسي صلاة فليصل إذا ذكرها لا كفارة لها إلا ذلك"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-024",
+      "q": {
+        "ar": "مَن الصحابي الذي قال له النبي ﷺ: «قم فنادِ بالصلاة»؟",
+        "en": "Which Companion did the Prophet ﷺ tell, \"Stand and call to the prayer\"?"
+      },
+      "choices": {
+        "ar": [
+          "عمر بن الخطاب",
+          "علي بن أبي طالب",
+          "بلال بن رباح",
+          "أبو هريرة"
+        ],
+        "en": [
+          "Umar ibn al-Khattab",
+          "Ali ibn Abi Talib",
+          "Bilal ibn Rabah",
+          "Abu Hurayra"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "لما تشاور الصحابة في الإعلام بالصلاة قال ﷺ: يا بلال قم فنادِ بالصلاة.",
+        "en": "When the Companions consulted on calling to prayer, he ﷺ said: Bilal, stand and call to the prayer."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب الأذان والإقامة",
+          "en": "Prayer — Adhan and iqama"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 604,
+            "quote": "يا بلال قم فناد بالصلاة"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-025",
+      "q": {
+        "ar": "ماذا يقول المسلم إذا سمع المؤذن؟",
+        "en": "What does a Muslim say on hearing the muezzin?"
+      },
+      "choices": {
+        "ar": [
+          "يسكت فلا يقول شيئًا",
+          "يقرأ الفاتحة",
+          "مثل ما يقول المؤذن",
+          "يقول آمين فقط"
+        ],
+        "en": [
+          "He stays silent",
+          "He recites al-Fatiha",
+          "The same as the muezzin says",
+          "Only \"Amin\""
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال ﷺ: إذا سمعتم النداء فقولوا مثل ما يقول المؤذن.",
+        "en": "He ﷺ said: when you hear the call, say what the muezzin says."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب الأذان والإقامة",
+          "en": "Prayer — Adhan and iqama"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 611,
+            "quote": "إذا سمعتم النداء فقولوا مثل ما يقول المؤذن"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-026",
+      "q": {
+        "ar": "أوصى النبي ﷺ مالك بن الحويرث وأصحابه: إذا حضرت الصلاة فليؤذن أحدكم، ومَن يؤمّهم؟",
+        "en": "The Prophet ﷺ told Malik ibn al-Huwayrith's group: when prayer comes, let one of you call the adhan — and who leads?"
+      },
+      "choices": {
+        "ar": [
+          "أصغرهم",
+          "أكبرهم",
+          "أغناهم",
+          "أطولهم"
+        ],
+        "en": [
+          "The youngest",
+          "The eldest",
+          "The richest",
+          "The tallest"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ لهم وكانوا متقاربين في العلم: فليؤذن لكم أحدكم وليؤمّكم أكبركم.",
+        "en": "He ﷺ told them, who were close in learning: let one of you call the adhan and the eldest lead you."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب الأذان والإقامة",
+          "en": "Prayer — Adhan and iqama"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 631,
+            "quote": "فليؤذن لكم أحدكم وليؤمكم أكبركم"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-027",
+      "q": {
+        "ar": "ماذا أمر الله المؤمنين أن يتركوا إذا نودي لصلاة الجمعة؟",
+        "en": "What did Allah command believers to leave when called to the Friday prayer?"
+      },
+      "choices": {
+        "ar": [
+          "البيع",
+          "الطعام",
+          "النوم",
+          "الكلام مع الأهل"
+        ],
+        "en": [
+          "Trade",
+          "Food",
+          "Sleep",
+          "Talking with family"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿إذا نودي للصلاة من يوم الجمعة فاسعوا إلى ذكر الله وذروا البيع﴾ (الجمعة: ٩).",
+        "en": "Allah says: when the call is made for prayer on Friday, hasten to the remembrance of Allah and leave trade (62:9)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة الجمعة",
+          "en": "Prayer — The Friday prayer"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 62,
+            "aya": 9,
+            "quote": "إذا نودي للصلاة من يوم الجمعة فاسعوا إلى ذكر الله وذروا البيع"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-028",
+      "q": {
+        "ar": "ما حكم من قال لصاحبه «أنصت» والإمام يخطب يوم الجمعة؟",
+        "en": "What of one who tells his neighbour \"be quiet\" while the imam gives the Friday sermon?"
+      },
+      "choices": {
+        "ar": [
+          "له أجر الآمر بالمعروف",
+          "لا شيء في ذلك",
+          "تبطل صلاته فيعيدها ظهرًا",
+          "فقد لغا"
+        ],
+        "en": [
+          "He earns the reward of enjoining good",
+          "There is nothing in it",
+          "His prayer is void and he prays Dhuhr",
+          "He has spoken idly"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال ﷺ: إذا قلت لصاحبك يوم الجمعة أنصت والإمام يخطب فقد لغوت؛ فالواجب الإنصات.",
+        "en": "He ﷺ said that saying \"be quiet\" during the sermon is idle talk; one must listen."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة الجمعة",
+          "en": "Prayer — The Friday prayer"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 934,
+            "quote": "إذا قلت لصاحبك يوم الجمعة أنصت والإمام يخطب فقد لغوت"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-029",
+      "q": {
+        "ar": "ما ترتيب الصلاة والخطبة في العيدين؟",
+        "en": "In the two Eids, which comes first, the prayer or the sermon?"
+      },
+      "choices": {
+        "ar": [
+          "الخطبة ثم الصلاة",
+          "الخطبة وحدها بلا صلاة",
+          "خطبتان قبل الصلاة وبعدها",
+          "الصلاة ثم الخطبة"
+        ],
+        "en": [
+          "The sermon, then the prayer",
+          "A sermon with no prayer",
+          "Sermons before and after",
+          "The prayer, then the sermon"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "كان رسول الله ﷺ يصلي في الأضحى والفطر ثم يخطب بعد الصلاة.",
+        "en": "The Prophet ﷺ would pray on al-Adha and al-Fitr and then give the sermon after the prayer."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة العيدين",
+          "en": "Prayer — The two Eid prayers"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 957,
+            "quote": "كان يصلي في الأضحى والفطر ثم يخطب بعد الصلاة"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-030",
+      "q": {
+        "ar": "هل لصلاة العيد أذان وإقامة؟",
+        "en": "Does the Eid prayer have an adhan and iqama?"
+      },
+      "choices": {
+        "ar": [
+          "لها أذان وإقامة",
+          "لها أذان فقط",
+          "ليس لها أذان ولا إقامة",
+          "لها إقامة فقط"
+        ],
+        "en": [
+          "Both",
+          "Adhan only",
+          "Neither adhan nor iqama",
+          "Iqama only"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال جابر بن سمرة: صليت مع رسول الله ﷺ العيدين غير مرة ولا مرتين بغير أذان ولا إقامة.",
+        "en": "Jabir ibn Samura prayed the Eids with the Prophet ﷺ many times without adhan or iqama (Muslim)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصلاة — باب صلاة العيدين",
+          "en": "Prayer — The two Eid prayers"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "muslim",
+            "number": 887,
+            "quote": "صليت مع رسول الله صلى الله عليه وسلم العيدين غير مرة ولا مرتين بغير أذان ولا إقامة"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-031",
+      "q": {
+        "ar": "عن صوم أيّ يومين نهى النبي ﷺ؟",
+        "en": "Fasting on which two days did the Prophet ﷺ forbid?"
+      },
+      "choices": {
+        "ar": [
+          "يوم الاثنين والخميس",
+          "يوم الفطر ويوم النحر",
+          "يوم عرفة ويوم عاشوراء",
+          "أول يوم من رجب وشعبان"
+        ],
+        "en": [
+          "Monday and Thursday",
+          "The day of Fitr and the day of Sacrifice",
+          "Arafa and Ashura",
+          "The first of Rajab and Sha'ban"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "روى أبو سعيد رضي الله عنه: نهى النبي ﷺ عن صوم يوم الفطر والنحر.",
+        "en": "Abu Sa'id reports the Prophet ﷺ forbade fasting on the day of Fitr and the day of Sacrifice."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — باب أحكام الصيام",
+          "en": "Fasting — Its rulings"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1992,
+            "quote": "نهى النبي صلى الله عليه وسلم عن صوم يوم الفطر والنحر"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-032",
+      "q": {
+        "ar": "كم تكبيرة كبّر النبي ﷺ حين صلى على النجاشي؟",
+        "en": "How many takbirs did the Prophet ﷺ say in the funeral prayer for the Negus?"
+      },
+      "choices": {
+        "ar": [
+          "أربع تكبيرات",
+          "تكبيرتين",
+          "ست تكبيرات",
+          "سبع تكبيرات"
+        ],
+        "en": [
+          "Four",
+          "Two",
+          "Six",
+          "Seven"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "نعى النبي ﷺ النجاشي إلى أصحابه ثم صفّهم خلفه فكبّر أربعًا.",
+        "en": "The Prophet ﷺ announced the Negus's death, lined them up behind him and said four takbirs."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الجنائز",
+          "en": "Funerals"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1318,
+            "quote": "ثم تقدم فصفوا خلفه فكبر أربعا"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-033",
+      "q": {
+        "ar": "ما أجر من شهد الجنازة حتى يُصلّى عليها، ومن شهدها حتى تُدفن؟",
+        "en": "What is the reward of attending a funeral until the prayer, and until the burial?"
+      },
+      "choices": {
+        "ar": [
+          "قيراط، وقيراطان",
+          "حسنة، وحسنتان",
+          "عشر حسنات، وعشرون",
+          "درجة، ودرجتان"
+        ],
+        "en": [
+          "One qirat, and two qirats",
+          "One good deed, and two",
+          "Ten good deeds, and twenty",
+          "One degree, and two"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال ﷺ: من شهد الجنازة حتى يصلى عليها فله قيراط، ومن شهد حتى تدفن كان له قيراطان.",
+        "en": "He ﷺ said: until the prayer, one qirat; until the burial, two qirats."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الجنائز",
+          "en": "Funerals"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1325,
+            "quote": "من شهد الجنازة حتى يصلي عليها فله قيراط ومن شهد حتى تدفن كان له قيراطان"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-034",
+      "q": {
+        "ar": "في كم ثوبًا كُفّن النبي ﷺ؟",
+        "en": "In how many cloths was the Prophet ﷺ shrouded?"
+      },
+      "choices": {
+        "ar": [
+          "ثوب واحد",
+          "خمسة أثواب مع عمامة",
+          "قميص وعمامة فقط",
+          "ثلاثة أثواب بيض ليس فيها قميص ولا عمامة"
+        ],
+        "en": [
+          "One cloth",
+          "Five cloths with a turban",
+          "A shirt and turban only",
+          "Three white cloths, with no shirt or turban"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قالت عائشة رضي الله عنها: كُفّن رسول الله ﷺ في ثلاثة أثواب يمانية بيض ليس فيهن قميص ولا عمامة.",
+        "en": "Aisha said he ﷺ was shrouded in three white Yemeni cloths, without shirt or turban."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الجنائز",
+          "en": "Funerals"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1264,
+            "quote": "كفن في ثلاثة أثواب يمانية بيض"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-035",
+      "q": {
+        "ar": "ماذا يفعل المريض أو المسافر إذا أفطر في رمضان؟",
+        "en": "What does a sick person or traveller do if he breaks his fast in Ramadan?"
+      },
+      "choices": {
+        "ar": [
+          "لا شيء عليه أبدًا",
+          "يصوم شهرين متتابعين",
+          "يقضي عدة ما أفطر من أيام أخر",
+          "يعتق رقبة"
+        ],
+        "en": [
+          "Nothing at all",
+          "Fast two consecutive months",
+          "Make up the days he missed later",
+          "Free a slave"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿فمن كان منكم مريضا أو على سفر فعدة من أيام أخر﴾ (البقرة: ١٨٤).",
+        "en": "Allah says: whoever is sick or on a journey, then an equal number of other days (2:184)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — باب أحكام الصيام",
+          "en": "Fasting — Its rulings"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 2,
+            "aya": 184,
+            "quote": "فمن كان منكم مريضا أو على سفر فعدة من أيام أخر"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-036",
+      "q": {
+        "ar": "لا يزال الناس بخير ما فعلوا ماذا؟",
+        "en": "People remain in good as long as they do what?"
+      },
+      "choices": {
+        "ar": [
+          "ما أخّروا الفطر إلى العشاء",
+          "ما عجّلوا الفطر",
+          "ما تركوا السحور",
+          "ما صاموا الدهر"
+        ],
+        "en": [
+          "Delay breaking it to Isha",
+          "Hasten to break the fast",
+          "Leave suhur",
+          "Fast every day"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: لا يزال الناس بخير ما عجّلوا الفطر، أي عند تحقق غروب الشمس.",
+        "en": "He ﷺ said people stay in good while they hasten to break the fast once the sun has set."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — باب أحكام الصيام",
+          "en": "Fasting — Its rulings"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1957,
+            "quote": "لا يزال الناس بخير ما عجلوا الفطر"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-037",
+      "q": {
+        "ar": "ماذا يُرجى من صيام يوم عرفة لغير الحاج؟",
+        "en": "What is hoped from fasting the day of Arafa, for one not on hajj?"
+      },
+      "choices": {
+        "ar": [
+          "أن يكفّر ذنوب يوم واحد",
+          "أن يكفّر السنة التي قبله والتي بعده",
+          "أن يُغني عن صيام رمضان",
+          "أن يُكتب له حج"
+        ],
+        "en": [
+          "That it expiates one day's sins",
+          "That it expiates the year before and the year after",
+          "That it replaces Ramadan",
+          "That a hajj is written for him"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: صيام يوم عرفة أحتسب على الله أن يكفّر السنة التي قبله والسنة التي بعده.",
+        "en": "He ﷺ said he hopes from Allah that fasting Arafa expiates the year before and the year after."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الصيام — باب أحكام الصيام",
+          "en": "Fasting — Its rulings"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "muslim",
+            "number": 1162,
+            "quote": "صيام يوم عرفة أحتسب على الله أن يكفر السنة التي قبله والسنة التي بعده"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-038",
+      "q": {
+        "ar": "كم مقدار زكاة الفطر من التمر أو الشعير؟",
+        "en": "How much is zakat al-fitr in dates or barley?"
+      },
+      "choices": {
+        "ar": [
+          "صاع",
+          "مُدّ واحد",
+          "نصف صاع",
+          "صاعان"
+        ],
+        "en": [
+          "One sa'",
+          "One mudd",
+          "Half a sa'",
+          "Two sa'"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "فرض رسول الله ﷺ زكاة الفطر صاعًا من تمر أو صاعًا من شعير.",
+        "en": "The Prophet ﷺ made zakat al-fitr a sa' of dates or a sa' of barley."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — باب زكاة الفطر",
+          "en": "Zakat — Zakat al-fitr"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1503,
+            "quote": "فرض رسول الله صلى الله عليه وسلم زكاة الفطر صاعا من تمر أو صاعا من شعير"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-039",
+      "q": {
+        "ar": "متى أمر النبي ﷺ أن تُؤدّى زكاة الفطر؟",
+        "en": "When did the Prophet ﷺ command zakat al-fitr to be given?"
+      },
+      "choices": {
+        "ar": [
+          "بعد صلاة العيد بأسبوع",
+          "في أول رمضان فقط",
+          "في يوم عرفة",
+          "قبل خروج الناس إلى صلاة العيد"
+        ],
+        "en": [
+          "A week after the Eid prayer",
+          "Only at the start of Ramadan",
+          "On the day of Arafa",
+          "Before people go out to the Eid prayer"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "أمر النبي ﷺ بزكاة الفطر قبل خروج الناس إلى الصلاة.",
+        "en": "The Prophet ﷺ commanded zakat al-fitr before people go out to the prayer."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الزكاة — باب زكاة الفطر",
+          "en": "Zakat — Zakat al-fitr"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1509,
+            "quote": "أمر بزكاة الفطر قبل خروج الناس إلى الصلاة"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-040",
+      "q": {
+        "ar": "ما ميقات أهل المدينة للإحرام؟",
+        "en": "What is the miqat for the people of Madina?"
+      },
+      "choices": {
+        "ar": [
+          "الجحفة",
+          "قرن المنازل",
+          "ذو الحليفة",
+          "يلملم"
+        ],
+        "en": [
+          "Al-Juhfa",
+          "Qarn al-Manazil",
+          "Dhu al-Hulayfa",
+          "Yalamlam"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "وقّت النبي ﷺ لأهل المدينة ذا الحليفة، ولأهل الشام الجحفة، ولأهل نجد قرن المنازل، ولأهل اليمن يلملم.",
+        "en": "The Prophet ﷺ set Dhu al-Hulayfa for Madina, al-Juhfa for Syria, Qarn al-Manazil for Najd, Yalamlam for Yemen."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب المواقيت والإحرام",
+          "en": "Hajj — Miqats and ihram"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1524,
+            "quote": "وقت لأهل المدينة ذا الحليفة"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-041",
+      "q": {
+        "ar": "ما ميقات أهل اليمن؟",
+        "en": "What is the miqat for the people of Yemen?"
+      },
+      "choices": {
+        "ar": [
+          "ذو الحليفة",
+          "الجحفة",
+          "يلملم",
+          "قرن المنازل"
+        ],
+        "en": [
+          "Dhu al-Hulayfa",
+          "Al-Juhfa",
+          "Yalamlam",
+          "Qarn al-Manazil"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "في حديث ابن عباس: ولأهل اليمن يلملم.",
+        "en": "In Ibn Abbas's hadith: and for the people of Yemen, Yalamlam."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب المواقيت والإحرام",
+          "en": "Hajj — Miqats and ihram"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1524,
+            "quote": "ولأهل نجد قرن المنازل ولأهل اليمن يلملم"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-042",
+      "q": {
+        "ar": "بأي كلمات كان النبي ﷺ يلبّي؟",
+        "en": "With which words did the Prophet ﷺ say the talbiya?"
+      },
+      "choices": {
+        "ar": [
+          "الله أكبر الله أكبر لا إله إلا الله",
+          "لبيك اللهم لبيك، لبيك لا شريك لك لبيك",
+          "سبحان الله والحمد لله",
+          "أستغفر الله وأتوب إليه"
+        ],
+        "en": [
+          "\"Allah is the Greatest, there is no god but Allah\"",
+          "\"Here I am, O Allah, here I am; You have no partner\"",
+          "\"Glory and praise be to Allah\"",
+          "\"I seek Allah's forgiveness and repent\""
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "كانت تلبيته ﷺ: لبيك اللهم لبيك، لبيك لا شريك لك لبيك، إن الحمد والنعمة لك والملك، لا شريك لك.",
+        "en": "His ﷺ talbiya: Here I am, O Allah; You have no partner; praise, grace and dominion are Yours."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب المواقيت والإحرام",
+          "en": "Hajj — Miqats and ihram"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1549,
+            "quote": "لبيك اللهم لبيك لبيك لا شريك لك لبيك"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-043",
+      "q": {
+        "ar": "أيٌّ مما يلي نهى النبي ﷺ المُحرِم عن لبسه؟",
+        "en": "Which of these did the Prophet ﷺ forbid a man in ihram to wear?"
+      },
+      "choices": {
+        "ar": [
+          "القميص والعمامة والسراويل",
+          "الإزار",
+          "الرداء",
+          "النعلين"
+        ],
+        "en": [
+          "Shirts, turbans and trousers",
+          "A waist-wrap",
+          "A shoulder-wrap",
+          "Sandals"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "سُئل ﷺ عمّا يلبس المحرم فقال: لا يلبس القمص ولا العمائم ولا السراويلات…",
+        "en": "Asked what a muhrim wears, he ﷺ said: not shirts, turbans or trousers…"
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب المواقيت والإحرام",
+          "en": "Hajj — Miqats and ihram"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1542,
+            "quote": "لا يلبس القمص ولا العمائم ولا السراويلات"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-044",
+      "q": {
+        "ar": "كم شوطًا طاف النبي ﷺ بالبيت حين قدم مكة؟",
+        "en": "How many circuits did the Prophet ﷺ make around the House when he arrived?"
+      },
+      "choices": {
+        "ar": [
+          "ثلاثة أشواط",
+          "خمسة أشواط",
+          "عشرة أشواط",
+          "سبعة أشواط"
+        ],
+        "en": [
+          "Three",
+          "Five",
+          "Ten",
+          "Seven"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قدم رسول الله ﷺ فطاف بالبيت سبعًا، ثم صلى خلف المقام ركعتين، وطاف بين الصفا والمروة.",
+        "en": "He ﷺ circled the House seven times, prayed two rak'as behind the Station, then went between Safa and Marwa."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب صفة الحج والعمرة",
+          "en": "Hajj — How hajj and umra are done"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 1624,
+            "quote": "فطاف بالبيت سبعا ثم صلى خلف المقام ركعتين"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-045",
+      "q": {
+        "ar": "ما الجبلان اللذان وصفهما الله بأنهما من شعائره ويُسعى بينهما؟",
+        "en": "Which two hills does Allah call among His rites, walked between in hajj and umra?"
+      },
+      "choices": {
+        "ar": [
+          "عرفات ومزدلفة",
+          "أحد وثور",
+          "حراء والنور",
+          "الصفا والمروة"
+        ],
+        "en": [
+          "Arafat and Muzdalifa",
+          "Uhud and Thawr",
+          "Hira and al-Nur",
+          "Safa and Marwa"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال تعالى: ﴿إن الصفا والمروة من شعائر الله﴾ (البقرة: ١٥٨).",
+        "en": "Allah says: \"Safa and Marwa are among the rites of Allah\" (2:158)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب صفة الحج والعمرة",
+          "en": "Hajj — How hajj and umra are done"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 2,
+            "aya": 158,
+            "quote": "إن الصفا والمروة من شعائر الله"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-046",
+      "q": {
+        "ar": "ماذا حرّم الله على المُحرِم في آية المائدة (٩٥)؟",
+        "en": "What does 5:95 forbid one in ihram?"
+      },
+      "choices": {
+        "ar": [
+          "أكل الطعام",
+          "شرب الماء",
+          "قتل الصيد",
+          "الكلام"
+        ],
+        "en": [
+          "Eating food",
+          "Drinking water",
+          "Killing game",
+          "Speaking"
+        ]
+      },
+      "answer": 2,
+      "explain": {
+        "ar": "قال تعالى: ﴿يا أيها الذين آمنوا لا تقتلوا الصيد وأنتم حرم﴾ (المائدة: ٩٥).",
+        "en": "Allah says: \"do not kill game while you are in ihram\" (5:95)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب المواقيت والإحرام",
+          "en": "Hajj — Miqats and ihram"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 95,
+            "quote": "لا تقتلوا الصيد وأنتم حرم"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-047",
+      "q": {
+        "ar": "ماذا أمر النبي ﷺ من ذبح أضحيته قبل صلاة العيد؟",
+        "en": "What did the Prophet ﷺ tell one who slaughtered his sacrifice before the Eid prayer?"
+      },
+      "choices": {
+        "ar": [
+          "أن أضحيته صحيحة كاملة",
+          "أن يعيد ذبحه",
+          "أن يتصدق بثمنها فقط",
+          "أن يصوم ثلاثة أيام"
+        ],
+        "en": [
+          "That his sacrifice is complete",
+          "To slaughter again",
+          "Only to give its price in charity",
+          "To fast three days"
+        ]
+      },
+      "answer": 1,
+      "explain": {
+        "ar": "قال ﷺ: من ذبح قبل الصلاة فليُعِد؛ فوقت الأضحية بعد صلاة العيد.",
+        "en": "He ﷺ said whoever slaughtered before the prayer should do it again: its time is after the Eid prayer."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الحج — باب الأضحية",
+          "en": "Hajj — The sacrifice"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 954,
+            "quote": "من ذبح قبل الصلاة فليعد"
+          }
+        ]
+      },
+      "level": 3,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-048",
+      "q": {
+        "ar": "أيٌّ مما يلي حرّمه الله في أول آية المائدة الثالثة؟",
+        "en": "Which of these does Allah forbid at the start of 5:3?"
+      },
+      "choices": {
+        "ar": [
+          "الميتة",
+          "الخبز",
+          "التمر",
+          "السمك"
+        ],
+        "en": [
+          "Carrion (dead animals)",
+          "Bread",
+          "Dates",
+          "Fish"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿حرمت عليكم الميتة والدم ولحم الخنزير﴾ (المائدة: ٣).",
+        "en": "Allah says: \"Forbidden to you are carrion, blood and the flesh of swine\" (5:3)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الأطعمة",
+          "en": "Foods"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 3,
+            "quote": "حرمت عليكم الميتة والدم ولحم الخنزير"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-049",
+      "q": {
+        "ar": "ما حكم طعام الذين أوتوا الكتاب (ذبائحهم) للمسلمين؟",
+        "en": "What is the ruling on the food (slaughter) of the People of the Book for Muslims?"
+      },
+      "choices": {
+        "ar": [
+          "حلّ لنا",
+          "حرام مطلقًا",
+          "مكروه دائمًا",
+          "يحلّ في السفر فقط"
+        ],
+        "en": [
+          "It is lawful for us",
+          "Always forbidden",
+          "Always disliked",
+          "Lawful only on a journey"
+        ]
+      },
+      "answer": 0,
+      "explain": {
+        "ar": "قال تعالى: ﴿وطعام الذين أوتوا الكتاب حل لكم﴾ (المائدة: ٥).",
+        "en": "Allah says: \"the food of those given the Scripture is lawful for you\" (5:5)."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الأطعمة",
+          "en": "Foods"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "aya",
+            "sura": 5,
+            "aya": 5,
+            "quote": "وطعام الذين أوتوا الكتاب حل لكم"
+          }
+        ]
+      },
+      "level": 2,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    },
+    {
+      "id": "fiqh-050",
+      "q": {
+        "ar": "بماذا أوصى النبي ﷺ عمر بن أبي سلمة عند الطعام؟",
+        "en": "What did the Prophet ﷺ teach the boy Umar ibn Abi Salama at a meal?"
+      },
+      "choices": {
+        "ar": [
+          "كل بسرعة قبل غيرك",
+          "كل بشمالك",
+          "لا تأكل مع الناس",
+          "سمِّ الله وكل بيمينك وكل مما يليك"
+        ],
+        "en": [
+          "Eat fast before others",
+          "Eat with your left hand",
+          "Do not eat with people",
+          "Say Allah's name, eat with your right hand and from what is near you"
+        ]
+      },
+      "answer": 3,
+      "explain": {
+        "ar": "قال ﷺ: يا غلام، سمِّ الله، وكل بيمينك، وكل مما يليك.",
+        "en": "He ﷺ said: boy, say Allah's name, eat with your right hand, and eat from what is near you."
+      },
+      "source": {
+        "kind": "fiqh",
+        "book": "fiqh-muyassar",
+        "chapter": {
+          "ar": "كتاب الآداب",
+          "en": "Manners"
+        },
+        "page": null,
+        "also": [
+          {
+            "kind": "hadith",
+            "book": "bukhari",
+            "number": 5376,
+            "quote": "يا غلام سم الله وكل بيمينك وكل مما يليك"
+          }
+        ]
+      },
+      "level": 1,
+      "review": {
+        "state": "draft"
+      },
+      "translations": {
+        "en": {
+          "state": "draft"
+        }
+      }
+    }
+  ]
+}
